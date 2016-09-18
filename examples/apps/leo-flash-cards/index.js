@@ -38,7 +38,7 @@ app.intent('AMAZON.StartOverIntent', {
 });
 
 
-app.messages.NO_INTENT_FOUND = "Why you called dat intent? I don't know bout dat";
+app.messages.NO_INTENT_FOUND = "Why you called that intent? I don't know bout dat";
 
 app.error = function(exception, req, res) {
     res.say("Sorry, something bad happened");
