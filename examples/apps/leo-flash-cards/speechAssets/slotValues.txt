@@ -1,0 +1,9 @@
+yellow
+5
+stop
+go
+bear
+lion
+fox
+blue
+green
