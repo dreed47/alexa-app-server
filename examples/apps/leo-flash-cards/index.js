@@ -11,7 +11,6 @@ app.answer_count = 1;
 app.game_length = 3;
 
 app.launch(function(req, res) {
-    res.session('somesessiondata', 'islistedhere');
     res.say(this.include.strings.welcome_part1 + this.user_name + ' ');
     res.say(this.game_length.toString() + ' ' + this.include.strings.welcome_part2);
     var questions = populateGameQuestions(this);
@@ -20,6 +19,7 @@ app.launch(function(req, res) {
     res.session('last_question_asked_id', questions[0]);
     res.session('last_question_asked_num', 0);
     res.session('last_question_asked', question_to_ask);
+    res.session('answered_correctly', 0);
     
     res.say(question_to_ask);
 
@@ -36,6 +36,7 @@ app.intent('AnswerIntent', {
 }, function(req, res) {
     console.log(req.session('last_question_asked'));
     res.say('Your answer is ' + req.slot('ANSWER'));
+    // check your answer
 });
 
 app.intent('DontKnowIntent', {
