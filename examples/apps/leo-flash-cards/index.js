@@ -25,7 +25,7 @@ app.launch(function(req, res) {
 
     console.log(question_to_ask);
     
-    var ttfgt = '';
+    var ttfgft = '';
 });
 
 app.intent('AnswerIntent', {
