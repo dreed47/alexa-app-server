@@ -25,7 +25,7 @@ app.launch(function(req, res) {
 
     console.log(question_to_ask);
     
-    var buggy343 = '';
+    var buggy3434 = '';
 });
 
 app.intent('AnswerIntent', {
