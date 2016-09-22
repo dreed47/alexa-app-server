@@ -13,7 +13,9 @@ app.game_length = 3;
 app.launch(function(req, res) {
     res.say(this.include.strings.welcome_part1 + this.user_name + ' ');
     res.say(this.game_length.toString() + ' ' + this.include.strings.welcome_part2);
-    var questions = populateGameQuestions(this);
+
+    res.session('game_length', this.game_length);
+    var questions = populateGameQuestions(this, req, res);
     res.session('questions', questions);
     question_to_ask = Object.keys(app.include.questions[questions[0]]).toString();
     res.session('last_question_asked_id', questions[0]);
@@ -35,6 +37,8 @@ app.intent('AnswerIntent', {
     "utterances": ["{|the answer is|my answer is|is it} {-|ANSWER}", "{-|ANSWER} is my answer"]
 }, function(req, res) {
     console.log(req.session('last_question_asked'));
+    var slot = req.slot;
+    //var answers = app.include.questions;
     res.say('Your answer is ' + req.slot('ANSWER'));
     // check your answer
 });
@@ -58,7 +62,7 @@ app.error = function(exception, req, res) {
     res.say("Sorry, something really bad happened");
 };
 
-function populateGameQuestions(app) {
+function populateGameQuestions(app, req, res) {
     var gameQuestions = [];
     var indexList = [];
     var index = app.include.questions.length;
