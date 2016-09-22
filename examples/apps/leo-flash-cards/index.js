@@ -38,8 +38,17 @@ app.intent('AnswerIntent', {
     var slot = req.slot;
     var questions = populateGameQuestions(this, req, res);
     var answers = app.inc.questions;
-    //var correct_answer = questions[10][0];
+    var correctAnswerText =  answers[req.session('last_question_asked_id')][Object.keys(answers[req.session('last_question_asked_id')])[0]][0]
+
     res.say('Your answer is ' + req.slot('ANSWER'));
+    res.say('The correct answer is ' + correctAnswerText);
+    if (req.slot('ANSWER') == correctAnswerText) {
+        res.say('you are correct!!!!');
+    } else {
+       res.say('. Sorry, you are incorrect! Try again!');
+    }
+
+
     // check your answer
 });
 
