@@ -5,19 +5,17 @@ module.change_code = 1;
 
 // Define an alexa-app
 var app = new alexa.app('leo-flash-cards');
-app.include = require('./include.js');
-app.user_name = 'Leo';
-app.answer_count = 1;
-app.game_length = 3;
+app.inc = require('./include.js');
 
 app.launch(function(req, res) {
-    res.say(this.include.strings.welcome_part1 + this.user_name + ' ');
-    res.say(this.game_length.toString() + ' ' + this.include.strings.welcome_part2);
+    res.say(this.inc.strings.welcome_part1 + this.inc.app_var.user_name + ' ');
+    res.say(this.inc.app_var.game_length.toString() + ' ' + this.inc.strings.welcome_part2);
 
-    res.session('game_length', this.game_length);
+    // set session object
+    res.session('game_length', this.inc.app_var.game_length);
     var questions = populateGameQuestions(this, req, res);
     res.session('questions', questions);
-    question_to_ask = Object.keys(app.include.questions[questions[0]]).toString();
+    question_to_ask = Object.keys(app.inc.questions[questions[0]]).toString();
     res.session('last_question_asked_id', questions[0]);
     res.session('last_question_asked_num', 0);
     res.session('last_question_asked', question_to_ask);
@@ -38,7 +36,9 @@ app.intent('AnswerIntent', {
 }, function(req, res) {
     console.log(req.session('last_question_asked'));
     var slot = req.slot;
-    //var answers = app.include.questions;
+    var questions = populateGameQuestions(this, req, res);
+    var answers = app.inc.questions;
+    //var correct_answer = questions[10][0];
     res.say('Your answer is ' + req.slot('ANSWER'));
     // check your answer
 });
@@ -63,20 +63,21 @@ app.error = function(exception, req, res) {
 };
 
 function populateGameQuestions(app, req, res) {
+    app.inc = require('./include.js');
     var gameQuestions = [];
     var indexList = [];
-    var index = app.include.questions.length;
+    var index = app.inc.questions.length;
 
-    if (app.game_length > index) {
+    if (app.inc.app_var.game_length > index) {
         throw 'Invalid Game Length.';
     }
 
-    for (var i = 0; i < app.include.questions.length; i++) {
+    for (var i = 0; i < app.inc.questions.length; i++) {
         indexList.push(i);
     }
 
     // Pick GAME_LENGTH random questions from the list to ask the user, make sure there are no repeats.
-    for (var j = 0; j < app.game_length; j++) {
+    for (var j = 0; j < app.inc.app_var.game_length; j++) {
         var rand = Math.floor(Math.random() * index);
         index -= 1;
 
