@@ -5,11 +5,10 @@ module.change_code = 1;
 
 // Define an alexa-app
 var app = new alexa.app('leo-flash-cards');
-app.inc = require('./include.js');
+var HelperFunctions = require('./helper_functions');
 
-app.pre = function(request,response,type) {
-    app.myvar = 'ddd';
-    var myvar2 = 'fsfd';
+app.pre = function(req,res,type) {
+    app.inc = require('./include.js');
 };
 
 app.launch(function(req, res) {
@@ -18,7 +17,10 @@ app.launch(function(req, res) {
 
     // set session object
     res.session('game_length', this.inc.app_var.game_length);
-    var questions = populateGameQuestions(this, req, res);
+    var helperFunctions = new HelperFunctions();
+    var questions = helperFunctions.populateGameQuestions(req, res);
+    
+    //var questions = populateGameQuestions(req, res);
     res.session('questions', questions);
     question_to_ask = Object.keys(app.inc.questions[questions[0]]).toString();
     res.session('last_question_asked_id', questions[0]);
@@ -41,7 +43,11 @@ app.intent('AnswerIntent', {
 }, function(req, res) {
     console.log(req.session('last_question_asked'));
     var slot = req.slot;
-    var questions = populateGameQuestions(this, req, res);
+
+    var helperFunctions = new HelperFunctions();
+    var questions = helperFunctions.populateGameQuestions(req, res);
+
+    //var questions = populateGameQuestions(req, res);
     var answers = app.inc.questions;
     var correctAnswerText =  answers[req.session('last_question_asked_id')][Object.keys(answers[req.session('last_question_asked_id')])[0]][0];
 
@@ -80,33 +86,5 @@ app.error = function(exception, request, response) {
     console.log(exception);
     throw exception;
 };
-
-function populateGameQuestions(app, req, res) {
-    app.inc = require('./include.js');
-    var gameQuestions = [];
-    var indexList = [];
-    var index = app.inc.questions.length;
-
-    if (app.inc.app_var.game_length > index) {
-        throw 'Invalid Game Length.';
-    }
-
-    for (var i = 0; i < app.inc.questions.length; i++) {
-        indexList.push(i);
-    }
-
-    // Pick GAME_LENGTH random questions from the list to ask the user, make sure there are no repeats.
-    for (var j = 0; j < app.inc.app_var.game_length; j++) {
-        var rand = Math.floor(Math.random() * index);
-        index -= 1;
-
-        var temp = indexList[index];
-        indexList[index] = indexList[rand];
-        indexList[rand] = temp;
-        gameQuestions.push(indexList[index]);
-    }
-
-    return gameQuestions;
-}
 
 module.exports = app;
