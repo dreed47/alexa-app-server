@@ -7,6 +7,11 @@ module.change_code = 1;
 var app = new alexa.app('leo-flash-cards');
 app.inc = require('./include.js');
 
+app.pre = function(request,response,type) {
+    app.myvar = 'ddd';
+    var myvar2 = 'fsfd';
+};
+
 app.launch(function(req, res) {
     res.say(this.inc.strings.welcome_part1 + this.inc.app_var.user_name + ' ');
     res.say(this.inc.app_var.game_length.toString() + ' ' + this.inc.strings.welcome_part2);
@@ -38,7 +43,9 @@ app.intent('AnswerIntent', {
     var slot = req.slot;
     var questions = populateGameQuestions(this, req, res);
     var answers = app.inc.questions;
-    var correctAnswerText =  answers[req.session('last_question_asked_id')][Object.keys(answers[req.session('last_question_asked_id')])[0]][0]
+    var correctAnswerText =  answers[req.session('last_question_asked_id')][Object.keys(answers[req.session('last_question_asked_id')])[0]][0];
+
+    var dcorrectAnswerText =  answers[req.session('last_question_asked_id')][Object.keys(answers[req.session('last_question_asked_id')])[0]];
 
     res.say('Your answer is ' + req.slot('ANSWER'));
     res.say('The correct answer is ' + correctAnswerText);
@@ -47,7 +54,6 @@ app.intent('AnswerIntent', {
     } else {
        res.say('. Sorry, you are incorrect! Try again!');
     }
-
 
     // check your answer
 });
@@ -64,11 +70,15 @@ app.intent('AMAZON.StartOverIntent', {
     res.say('Your name is ' + req.slot('NAME') + ' and you are ' + req.slot('AGE') + ' years old');
 });
 
-
 app.messages.NO_INTENT_FOUND = "Why did you called that intent? I don't know about that";
 
 app.error = function(exception, req, res) {
     res.say("Sorry, something really bad happened");
+};
+
+app.error = function(exception, request, response) {
+    console.log(exception);
+    throw exception;
 };
 
 function populateGameQuestions(app, req, res) {
