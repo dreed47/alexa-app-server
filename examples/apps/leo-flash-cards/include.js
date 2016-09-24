@@ -1,3 +1,6 @@
+'use strict'
+module.change_code = 1;
+
 var app_var = [];
 app_var.user_name = "Leo";
 app_var.answer_count = 1;
@@ -6,7 +9,7 @@ app_var.game_length = 3;
 var questions = [{
     'What color is a bananna?': ['yellow']
 }, {
-    'How many fingers does Leo have?': ['5']
+    'How many fingers does Leo have?': ['10']
 }, {
     'Red means?': ['stop']
 }, {
@@ -24,7 +27,7 @@ var questions = [{
 }, {
     'What color is grass?': ['green']
 }, {
-    'What time does Papa get home from work?': ['5']
+    'What time does Papa get home from work?': ["5"]
 }];
 var strings = [];
 strings.welcome_part1 = "I will ask ";

@@ -1,4 +1,5 @@
 'use strict'
+module.change_code = 1;
 
 function HelperFunctions() {}
 
