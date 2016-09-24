@@ -4,7 +4,7 @@ function HelperFunctions() {}
 
 HelperFunctions.prototype.populateGameQuestions = function (req, res) {
     var app = [];
-    app.inc = require('./include.js');
+    app.inc = require('./include');
     var gameQuestions = [];
     var indexList = [];
     var index = app.inc.questions.length;

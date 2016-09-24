@@ -1,3 +1,5 @@
+'use strict'
+
 var alexa = require('alexa-app');
 
 // Allow this module to be reloaded by hotswap when changed
@@ -6,33 +8,15 @@ module.change_code = 1;
 // Define an alexa-app
 var app = new alexa.app('leo-flash-cards');
 var HelperFunctions = require('./helper_functions');
+var Launch = require('./launch');
 
 app.pre = function(req,res,type) {
-    app.inc = require('./include.js');
+    app.inc = require('./include');
 };
 
 app.launch(function(req, res) {
-    res.say(this.inc.strings.welcome_part1 + this.inc.app_var.user_name + ' ');
-    res.say(this.inc.app_var.game_length.toString() + ' ' + this.inc.strings.welcome_part2);
-
-    // set session object
-    res.session('game_length', this.inc.app_var.game_length);
-    var helperFunctions = new HelperFunctions();
-    var questions = helperFunctions.populateGameQuestions(req, res);
-    
-    //var questions = populateGameQuestions(req, res);
-    res.session('questions', questions);
-    question_to_ask = Object.keys(app.inc.questions[questions[0]]).toString();
-    res.session('last_question_asked_id', questions[0]);
-    res.session('last_question_asked_num', 0);
-    res.session('last_question_asked', question_to_ask);
-    res.session('answered_correctly', 0);
-    
-    res.say(question_to_ask);
-
-    console.log(question_to_ask);
-    
-    var buggy3434 = '';
+    var launch = new Launch();
+    launch.start(req, res);
 });
 
 app.intent('AnswerIntent', {
