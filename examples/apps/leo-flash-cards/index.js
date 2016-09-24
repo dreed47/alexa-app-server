@@ -8,7 +8,7 @@ module.change_code = 1;
 // Define an alexa-app
 var app = new alexa.app('leo-flash-cards');
 var HelperFunctions = require('./helper_functions');
-var Launch = require('./launch');
+var Launch = require('./launch_event');
 
 app.pre = function(req,res,type) {
     app.inc = require('./include');
@@ -18,6 +18,7 @@ app.launch(function(req, res) {
     var launch = new Launch();
     launch.start(req, res);
 });
+
 
 app.intent('AnswerIntent', {
     'slots': {
