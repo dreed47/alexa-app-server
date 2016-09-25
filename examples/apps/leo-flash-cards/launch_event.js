@@ -20,6 +20,7 @@ function Launch(req, res) {
     res.session('failed_retries', 0);
     res.session('last_question_asked', question_to_ask);
     res.session('answered_correctly', 0);
+    res.session('at_end_of_game', false);
     
     res.say(question_to_ask);
     res.shouldEndSession(false);

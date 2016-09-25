@@ -7,6 +7,11 @@ Answer.prototype.process = function (intent, req, res) {
     this.inc = require('../include');
     var HelperFunctions = require('../helper_functions');
 
+    if (req.session('at_end_of_game') == true) {
+        console.log(req.session('at_end_of_game'));
+        return
+    }
+
     console.log(req.session('last_question_asked'));
     var slot = req.slot;
 
@@ -22,7 +27,11 @@ Answer.prototype.process = function (intent, req, res) {
         res.session('answered_correctly', answered_correctly);
         if (req.session('last_question_asked_num') >= (req.session('game_length') - 1)) {
             // They answered the last question so end game
-            res.say("You've answered " + answered_correctly + ' out of ' + req.session('game_length') + ' questions correctly.')
+            res.session('at_end_of_game', true);
+            var congrates = answered_correctly > (req.session('game_length')/2) ? ' YOU ROCK!' : '';
+            res.say("You've answered " + answered_correctly + ' out of ' + req.session('game_length') + ' questions correctly.' + congrates)
+            res.say('Say play again to play another game or say quit at any time to end the game.')
+            res.shouldEndSession(false);
         } else {
             // Ask another question
             res.session('failed_retries', 0);
@@ -48,7 +57,11 @@ Answer.prototype.process = function (intent, req, res) {
         } else if (req.session('last_question_asked_num') >= (req.session('game_length') - 1)) {
             // they failed to answer the question the second time and it was the last question so end game
             res.say('The correct answer is ' + correctAnswerText + '.');
-            res.say("You've answered " + answered_correctly + ' out of ' + req.session('game_length') + ' questions correctly.')
+            res.session('at_end_of_game', true);
+            var congrates = answered_correctly > (req.session('game_length')/2) ? ' YOU ROCK!' : '';
+            res.say("You've answered " + answered_correctly + ' out of ' + req.session('game_length') + ' questions correctly.' + congrates)
+            res.say('Say play again to play another game or say quit at any time to end the game.')
+            res.shouldEndSession(false);
         } else {
             // they failed to answer the question the second time so ask next question
             res.say('The correct answer is ' + correctAnswerText + '.');
@@ -63,7 +76,6 @@ Answer.prototype.process = function (intent, req, res) {
             res.shouldEndSession(false);
         }
     }
-
 }
 
 module.exports = Answer

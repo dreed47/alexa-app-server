@@ -4,43 +4,18 @@
       "intent": "AnswerIntent",
       "slots": [
         {
-          "name": "Answer",
-          "type": "LIST_OF_ANSWERS"
-        }
-      ]
-    },
-        {
-      "intent": "AnswerOnlyIntent",
-      "slots": [
-        {
-          "name": "Answer",
+          "name": "ANSWER",
           "type": "LIST_OF_ANSWERS"
         }
       ]
     },
     {
-      "intent": "AMAZON.StartOverIntent"
+      "intent": "DontKnowIntent",
+      "slots": []
     },
     {
-      "intent": "DontKnowIntent"
-    },
-    {
-      "intent": "AMAZON.RepeatIntent"
-    },
-    {
-      "intent": "AMAZON.HelpIntent"
-    },
-    {
-      "intent": "AMAZON.YesIntent"
-    },
-    {
-      "intent": "AMAZON.NoIntent"
-    },
-    {
-      "intent": "AMAZON.StopIntent"
-    },
-    {
-      "intent": "AMAZON.CancelIntent"
+      "intent": "StartOverIntent",
+      "slots": []
     }
   ]
 }
