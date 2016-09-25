@@ -2,6 +2,8 @@
 module.change_code = 1;
 
 function Launch(req, res) {
+    console.log('launchevent');
+
     var HelperFunctions = require('./helper_functions');
     this.inc = require('./include');
 

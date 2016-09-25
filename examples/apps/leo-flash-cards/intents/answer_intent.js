@@ -17,7 +17,7 @@ Intent.prototype.slots_and_utterances = function () {
 
 // Callback for the Answer Intent
 Intent.prototype.callback = function (req, res) {
-
+    console.log('answerintent');
     var Answer = require('./answer_process');
     var answer = new Answer();
 

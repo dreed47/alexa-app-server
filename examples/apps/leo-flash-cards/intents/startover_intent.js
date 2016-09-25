@@ -7,12 +7,17 @@ Intent.prototype.slots_and_utterances = function () {
 
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
-    "utterances": ["{start game|new game|start|start new game|restart|play again|lets play again}"]
-};   
+        'slots': {
+            'STARTOVER': 'STARTOVER_COMMANDS'
+        },
+        "utterances": ["{-|STARTOVER}"]
+    };
     return slots_and_utterances;
 }
 
 Intent.prototype.callback = function (req, res) {
+    console.log('startoverintent');
+
     this.inc = require('../include');
     var HelperFunctions = require('../helper_functions');
 
@@ -23,7 +28,7 @@ Intent.prototype.callback = function (req, res) {
     res.session('game_length', this.inc.app_var.game_length);
     var helperFunctions = new HelperFunctions();
     var questions = helperFunctions.populateGameQuestions(req, res);
-    
+
     res.session('questions', questions);
     var question_to_ask = Object.keys(this.inc.questions[questions[0]]).toString();
     res.session('last_question_asked_id', questions[0]);
@@ -31,7 +36,8 @@ Intent.prototype.callback = function (req, res) {
     res.session('failed_retries', 0);
     res.session('last_question_asked', question_to_ask);
     res.session('answered_correctly', 0);
-    
+    res.session('at_end_of_game', false);
+
     res.say(question_to_ask);
     res.shouldEndSession(false);
 

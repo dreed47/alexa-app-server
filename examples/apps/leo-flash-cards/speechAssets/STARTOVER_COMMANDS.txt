@@ -1,0 +1,8 @@
+start game
+new game
+start
+start new game
+restart
+play again
+lets play again
+hit me again

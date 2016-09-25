@@ -4,6 +4,8 @@ module.change_code = 1;
 function Answer() {}
 
 Answer.prototype.process = function (intent, req, res) {
+    console.log('answerprocess');
+    
     this.inc = require('../include');
     var HelperFunctions = require('../helper_functions');
 

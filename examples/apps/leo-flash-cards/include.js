@@ -11,21 +11,25 @@ var questions = [{
 }, {
     'How many fingers does Leo have?': ['10']
 }, {
-    'Red means?': ['stop']
+    'A red light means?': ['stop']
 }, {
-    'Green means?': ['go']
+    'A green light means?': ['go']
 }, {
     'Baaloo is a?': ['bear']
 }, {
-    'Shaakeera is a?': ['lion']
+    'What kind of animal is Shaakeera?': ['lion']
 }, {
-    'Robin Hood is a?': ['fox']
+    'What kind of animal is Robin Hood': ['fox']
 }, {
     'What color is the sky?': ['blue']
 }, {
     'What color is water?': ['blue']
 }, {
-    'What color is grass?': ['green']
+    'What kind of animal is curious George?': ['monkey']
+}, {
+    'How many feet does Leo have?': ['2']
+}, {
+    'What kind of animals are on Paw Patrol?': ['dog']
 }, {
     'What time does Papa get home from work?': ["5"]
 }];

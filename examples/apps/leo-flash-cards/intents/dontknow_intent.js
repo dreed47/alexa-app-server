@@ -13,12 +13,11 @@ Intent.prototype.slots_and_utterances = function () {
 }
 
 Intent.prototype.callback = function (req, res) {
+    console.log('dontknowintent');
     var Answer = require('./answer_process');
     var answer = new Answer();
 
     answer.process('dontknow', req, res);
-
-    console.log('dontknowintent');
 
 }
 module.exports = Intent
