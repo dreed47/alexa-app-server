@@ -22,6 +22,7 @@ function Launch(req, res) {
     res.session('answered_correctly', 0);
     
     res.say(question_to_ask);
+    res.shouldEndSession(false);
 
     console.log(question_to_ask);
 
