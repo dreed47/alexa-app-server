@@ -6,7 +6,7 @@ var alexa = require('alexa-app');
 
 // Define an alexa-app
 var app = new alexa.app('reed-wiki');
-app.dictionary = {"person":["alex","aaron","emily"], "fact-type":["fun","silly","scary"]};
+//app.dictionary = {"person":["alex","aaron","emily"], "fact-type":["fun","silly","scary"]};
 
 //var HelperFunctions = require('./helper_functions');
 
