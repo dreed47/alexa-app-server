@@ -8,7 +8,7 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
-            'ANSWER': 'LIST_OF_ANSWERS'
+            'PERSON': 'INFO_TYPE'
         },
         "utterances": ["{|the answer is|my answer is|is it} {-|ANSWER}", "{-|ANSWER} is my answer"]
     };
@@ -17,11 +17,11 @@ Intent.prototype.slots_and_utterances = function () {
 
 // Callback for the Answer Intent
 Intent.prototype.callback = function (req, res) {
-    console.log('answerintent');
-    var Answer = require('./answer_process');
-    var answer = new Answer();
+    console.log('reedwikiintent');
+    //var Answer = require('./answer_process');
+    //var answer = new Answer();
 
-    answer.process('answer', req, res);
+    //answer.process('answer', req, res);
 
 }
 module.exports = Intent
