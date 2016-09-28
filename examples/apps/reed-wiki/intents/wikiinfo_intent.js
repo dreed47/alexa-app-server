@@ -8,9 +8,9 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
-            'PERSON': 'INFO_TYPE'
+            'PERSON': 'person', 'FACT_TYPE': 'fact_type' 
         },
-        "utterances": ["{|the answer is|my answer is|is it} {-|ANSWER}", "{-|ANSWER} is my answer"]
+        "utterances": ["for a {-|FACT_TYPE} fact about {-|PERSON}", "for a {-|FACT_TYPE} fact about {person}", "for a {fact-type} fact about {-|PERSON}", "for a {fact-type} fact about {person}"]
     };
     return slots_and_utterances;
 }
@@ -18,6 +18,8 @@ Intent.prototype.slots_and_utterances = function () {
 // Callback for the Answer Intent
 Intent.prototype.callback = function (req, res) {
     console.log('reedwikiintent');
+    console.log(req.slot('PERSON'));
+    console.log(req.slot('FACT_TYPE'));
     //var Answer = require('./answer_process');
     //var answer = new Answer();
 
