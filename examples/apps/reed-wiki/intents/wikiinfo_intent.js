@@ -23,10 +23,10 @@ Intent.prototype.callback = function (req, res) {
     console.log('reedwikiintent');
     console.log(req.slot('PERSON'));
     console.log(req.slot('FACT_TYPE'));
-    //var Answer = require('./answer_process');
-    //var answer = new Answer();
+    var Fact = require('./wikiinfo_process');
+    var fact = new Fact();
 
-    //answer.process('answer', req, res);
+    fact.process('fact', req, res);
 
 }
 module.exports = Intent

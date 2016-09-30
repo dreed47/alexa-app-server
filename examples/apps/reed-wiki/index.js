@@ -15,7 +15,7 @@ var wikiinfoIntent = new WikiInfoIntent();
 
 //app.pre = require('./pre_event');
 
-app.launch(require('./launch_event'));
+app.launch(require('./inc/launch_event'));
 
 app.intent('WikiInfoIntent', wikiinfoIntent.slots_and_utterances(), function (req, res) {wikiinfoIntent.callback(req, res)});
 
