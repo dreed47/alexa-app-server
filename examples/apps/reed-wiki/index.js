@@ -12,12 +12,15 @@ var app = new alexa.app('reed-wiki');
 
 var WikiInfoIntent = require('./intents/wikiinfo_intent');
 var wikiinfoIntent = new WikiInfoIntent();
+var StartOverIntent = require('./intents/startover_intent');
+var startoverIntent = new StartOverIntent();
 
 //app.pre = require('./pre_event');
 
 app.launch(require('./inc/launch_event'));
 
 app.intent('WikiInfoIntent', wikiinfoIntent.slots_and_utterances(), function (req, res) {wikiinfoIntent.callback(req, res)});
+app.intent('StartOverIntent', startoverIntent.slots_and_utterances(), function (req, res) {startoverIntent.callback(req, res)});
 
 app.messages.NO_INTENT_FOUND = "Why did you call that intent? I don't know about that";
 

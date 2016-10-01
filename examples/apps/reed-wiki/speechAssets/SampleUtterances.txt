@@ -1,0 +1,2 @@
+WikiInfoIntent	for a {FACT_TYPE} fact about {PERSON}
+StartOverIntent	{STARTOVER}

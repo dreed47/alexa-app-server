@@ -8,16 +8,16 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
-            'PERSON': 'person_list', 'FACT_TYPE': 'fact_type_list' 
+            'STARTOVER': 'STARTOVER_COMMANDS'
         },
-        "utterances": ["for a {-|FACT_TYPE} fact about {-|PERSON}"]
+        "utterances": ["{-|STARTOVER}"]
     };
     return slots_and_utterances;
 }
 
-// Callback for the Answer Intent
 Intent.prototype.callback = function (req, res) {
-    console.log('reedwikiintent');
+    console.log('startoverintent');
+
     console.log(req.slot('PERSON'));
     console.log(req.slot('FACT_TYPE'));
     var Fact = require('./wikiinfo_process');
