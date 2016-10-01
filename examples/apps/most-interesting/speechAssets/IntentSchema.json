@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "QuoteIntent",
+      "slots": [
+        {
+          "name": "PERSON",
+          "type": "person_list"
+        },
+        {
+          "name": "FACT_TYPE",
+          "type": "fact_type_list"
+        }
+      ]
+    },
+    {
+      "intent": "StartOverIntent",
+      "slots": [
+        {
+          "name": "STARTOVER",
+          "type": "STARTOVER_COMMANDS"
+        }
+      ]
+    }
+  ]
+}
