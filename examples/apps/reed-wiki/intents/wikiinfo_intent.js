@@ -10,10 +10,9 @@ Intent.prototype.slots_and_utterances = function () {
         'slots': {
             'PERSON': 'LITERAL', 'FACT_TYPE': 'LITERAL' 
         },
-//        "utterances": ["for a {-|FACT_TYPE} fact about {-|PERSON}", "for a {-|FACT_TYPE} fact about {person}", "for a {fact-type} fact about {-|PERSON}", "for a {fact-type} fact about {person}"]
-        "utterances": ["for a {fun|FACT_TYPE} fact about {alex|aaron|emily|PERSON}", 
-                       "for a {silly|FACT_TYPE} fact about {alex|aaron|emily|PERSON}", 
-                       "for a {embarrasing|FACT_TYPE} fact about {alex|aaron|emily|PERSON}"]
+        "utterances": ["for a {fun|FACT_TYPE} fact about {alex|alyssa|aaron|emily|PERSON}", 
+                       "for a {silly|FACT_TYPE} fact about {alex|alyssa|aaron|emily|PERSON}", 
+                       "for a {embarrasing|FACT_TYPE} fact about {alex|alyssa|aaron|emily|PERSON}"]
     };
     return slots_and_utterances;
 }
