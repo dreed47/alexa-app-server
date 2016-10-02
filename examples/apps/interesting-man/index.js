@@ -5,19 +5,23 @@ console.log('index.js');
 var alexa = require('alexa-app');
 
 // Define an alexa-app
-var app = new alexa.app('most-interesting');
+var app = new alexa.app('interesting-man');
 
 var Quote = require('./intents/quote_intent');
 var quoteIntent = new Quote();
-var StartOverIntent = require('./intents/startover_intent');
-var startoverIntent = new StartOverIntent();
+var GetMoreIntent = require('./intents/getmore_intent');
+var getmoreIntent = new GetMoreIntent();
+var StopIntent = require('./intents/stop_intent');
+var stopIntent = new StopIntent();
+
 
 //app.pre = require('./pre_event');
 
 app.launch(require('./inc/launch_event'));
 
 app.intent('QuoteIntent', quoteIntent.slots_and_utterances(), function (req, res) {quoteIntent.callback(req, res)});
-app.intent('StartOverIntent', startoverIntent.slots_and_utterances(), function (req, res) {startoverIntent.callback(req, res)});
+app.intent('AMAZON.RepeatIntent', getmoreIntent.slots_and_utterances(), function (req, res) {getmoreIntent.callback(req, res)});
+app.intent('AMAZON.StopIntent', stopIntent.slots_and_utterances(), function (req, res) {stopIntent.callback(req, res)});
 
 app.messages.NO_INTENT_FOUND = "Why did you call that intent? I don't know about that";
 

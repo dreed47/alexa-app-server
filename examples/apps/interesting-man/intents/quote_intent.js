@@ -8,9 +8,9 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
-            'PERSON': 'person_list', 'FACT_TYPE': 'fact_type_list' 
+            'PERSON': 'AMAZON.US_FIRST_NAME' 
         },
-        "utterances": ["for a {-|FACT_TYPE} fact about {-|PERSON}"]
+        "utterances": [" {get|tell|say} {me|us|everyone|all of us} {some|a few|} {fun|silly|intersting|manly|} {info|facts|quotes|data} {about|for|on|} {-|PERSON}"]
     };
     return slots_and_utterances;
 }
@@ -19,11 +19,10 @@ Intent.prototype.slots_and_utterances = function () {
 Intent.prototype.callback = function (req, res) {
     console.log('quoteintent');
     console.log(req.slot('PERSON'));
-    console.log(req.slot('FACT_TYPE'));
     var Fact = require('./quote_process');
     var fact = new Fact();
 
-    fact.process('fact', req, res);
+    fact.process(req, res);
 
 }
 module.exports = Intent
