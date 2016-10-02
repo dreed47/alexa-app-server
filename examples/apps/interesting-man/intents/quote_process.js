@@ -8,10 +8,7 @@ Fact.prototype.process = function (req, res) {
     console.log('quoteprocess');
     
     this.inc = require('../inc/include');
-    var slot = req.slot;
     var facts = this.inc.facts;
-
-console.log("SLOTPERSON=" + req.slot('PERSON'));
 
     var person = req.session('person') ? req.session('person') : req.slot('PERSON');
     var fact_list = req.session('facts_list') ? req.session('facts_list') : facts;
@@ -38,7 +35,6 @@ console.log("SLOTPERSON=" + req.slot('PERSON'));
     else {
         res.say("I can't find a fact for " + person).shouldEndSession(true)
     }
-
 }
 
 module.exports = Fact

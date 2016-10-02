@@ -19,10 +19,8 @@ Intent.prototype.callback = function (req, res) {
     var Fact = require('./quote_process');
     var fact = new Fact();
     if (typeof req.session('person') !== "undefined") {
-        console.log("GOOD RESTART");
         fact.process(req, res);
     } else {
-        console.log("BAD RESTART");
         res.say("I can't find a fact for that person.").shouldEndSession(true)
     }
 
