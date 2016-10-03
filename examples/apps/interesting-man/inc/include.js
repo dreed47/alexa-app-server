@@ -11,7 +11,7 @@ var facts = [
              "NAME's feet don't get blisters, but his shoes do",
              "NAME once went to the psychic, to warn her",
              "If NAME were to punch you in the face you would have to fight off a strong urge to thank him",
-             "NAME can speak Russian… in French",
+             "NAME can speak Russian. In French",
              "NAME never says something tastes like chicken.. not even chicken",
              "Superman has pijamas with NAME's logo",
              "NAME's tears can cure cancer, too bad he never cries",
