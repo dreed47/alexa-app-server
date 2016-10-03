@@ -30,7 +30,7 @@ var facts = [
              "Sharks have a week dedicated to NAME",
              "NAME's ten gallon hat holds twenty gallons",
              "No less than 25 Mexican folk songs have been written about NAME's beard",
-             "NAMEe once made a weeping willow laugh",
+             "NAME once made a weeping willow laugh",
              "NAME lives vicariously through himself",
              "NAME's business card simply says 'I'll Call You",
              "NAME once taught a german shepherd how to bark in spanish",
