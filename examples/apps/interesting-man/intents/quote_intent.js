@@ -5,7 +5,6 @@ function Intent() {}
 
 Intent.prototype.slots_and_utterances = function () {
 
-    //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
             'PERSON': 'AMAZON.US_FIRST_NAME' 

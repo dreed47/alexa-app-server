@@ -51,7 +51,7 @@ var facts = [
              "NAME once won the world series of poker using UNO cards",
              "NAME never wears a watch because time is always on his side",
              "NAME has taught old dogs a variety of new tricks",
-             "NAME has won the lifetime achievement award… twice",
+             "NAME has won the lifetime achievement award. Twice",
              "If opportunity knocks, and NAME's not at home, opportunity waits",
              "Batman watches Saturday morning cartoons about NAME",
              "When NAME was young he once sent his parents to his room",
