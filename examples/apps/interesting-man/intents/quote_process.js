@@ -21,7 +21,7 @@ Fact.prototype.process = function (req, res) {
         var randomFact_translated = _.replace(randomFact, 'NAME', person);
 
         res.say(randomFact_translated).shouldEndSession(false, _.sample(reprompt_msg_list))
-        res.say(". " + _.sample(reprompt_msg_list));
+        res.say( _.sample(reprompt_msg_list));
         res.session('person', person);
         fact_list = _.without(fact_list, randomFact);
         

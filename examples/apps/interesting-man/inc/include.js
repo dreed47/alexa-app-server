@@ -105,9 +105,14 @@ var facts = [
              ];
 var reprompt_msg = [
     "Do you want to hear more?",
-    "want another one?",
+    "Want another one?",
+    "Again?",
     "I can tell you another one if you want?",
-    "Should I continue?" 
+    "Should I continue?",
+    "Want more?",
+    "Continue?",
+    "I got more where that came from, want another?",
+    "Again?" 
 ];
 
 module.exports.reprompt_msg = reprompt_msg;

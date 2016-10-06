@@ -1,6 +1,6 @@
 'use strict'
 module.change_code = 1;
-console.log('index.js');
+// console.log('index.js');
 
 var alexa = require('alexa-app');
 
