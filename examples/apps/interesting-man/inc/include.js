@@ -58,7 +58,7 @@ var facts = [
              "NAME once had an awkward moment, just to see how it feels.",
              "NAME's beard alone has experienced more than a lesser man’s entire body.",
              "NAME's blood smells like cologne.",
-             "On every continent in the world, there is a sandwich named after NAME..", 
+             "On every continent in the world, there is a sandwich named after NAME.", 
              "NAME's hands feel like rich brown suede.",
              "Mosquitoes refuse to bite NAME purely out of respect.",
              "NAME is fluent in all languages, including three that he only speaks.",
