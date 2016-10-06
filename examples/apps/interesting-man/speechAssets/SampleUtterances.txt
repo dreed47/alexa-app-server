@@ -1,3 +1,6 @@
+QuoteIntent	tell me an interesting quote about {PERSON}
+QuoteIntent	get us a manly fact about {PERSON}
+QuoteIntent	tell everyone a fun fact about {PERSON}
 QuoteIntent	get me some fun info about {PERSON}
 QuoteIntent	tell me some fun info about {PERSON}
 QuoteIntent	say me some fun info about {PERSON}

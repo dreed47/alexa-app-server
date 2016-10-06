@@ -10,8 +10,9 @@ Fact.prototype.process = function (req, res) {
     this.inc = require('../inc/include');
     var slot = req.slot;
     var facts = this.inc.facts;
+    var reprompt_msg_list = this.inc.reprompt_msg;
 
-console.log("SLOTPERSON=" + req.slot('PERSON'));
+    console.log("SLOTPERSON=" + req.slot('PERSON'));
 
     var person = req.session('person') ? req.session('person') : req.slot('PERSON');
     var fact_list = req.session('facts_list') ? req.session('facts_list') : facts;
@@ -20,10 +21,10 @@ console.log("SLOTPERSON=" + req.slot('PERSON'));
 
     if (_.isArray(fact_list)) {
         var randomFact = _.sample(fact_list);
-
         var randomFact_translated = _.replace(randomFact, 'NAME', person);
 
-        res.say(randomFact_translated).shouldEndSession(false)
+        res.say(randomFact_translated).shouldEndSession(false, _.sample(reprompt_msg_list))
+        res.say(". " + _.sample(reprompt_msg_list));
         res.session('person', person);
         fact_list = _.without(fact_list, randomFact);
         
