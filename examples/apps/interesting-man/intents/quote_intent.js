@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 module.change_code = 1;
 
 function Intent() {}
@@ -8,7 +8,7 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {
-            'PERSON': 'AMAZON.US_FIRST_NAME' 
+            'PERSON': 'AMAZON.US_FIRST_NAME'
         },
         "utterances": [" {get|tell|say} {me|us|everyone|all of us} {some|a few|} {fun|silly|intersting|manly|} {info|facts|quotes|data} {about|for|on|} {-|PERSON}"]
     };

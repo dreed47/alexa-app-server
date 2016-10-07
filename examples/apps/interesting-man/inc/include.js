@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 module.change_code = 1;
 
 var app_var = [];
@@ -108,7 +108,7 @@ var reprompt_msg = [
     "Want another one?",
     "Again?",
     "I can tell you another one if you want?",
-    "Should I continue?",
+    "Shall I continue?",
     "Want more?",
     "Continue?",
     "I got more where that came from, want another?",

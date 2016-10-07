@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 module.change_code = 1;
 
 function Launch(req, res) {

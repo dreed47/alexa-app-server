@@ -1,6 +1,5 @@
-'use strict'
+'use strict';
 module.change_code = 1;
-// console.log('index.js');
 
 var alexa = require('alexa-app');
 
@@ -13,9 +12,6 @@ var GetMoreIntent = require('./intents/getmore_intent');
 var getmoreIntent = new GetMoreIntent();
 var StopIntent = require('./intents/stop_intent');
 var stopIntent = new StopIntent();
-
-
-//app.pre = require('./pre_event');
 
 app.launch(require('./inc/launch_event'));
 
