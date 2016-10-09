@@ -8,7 +8,7 @@ Intent.prototype.slots_and_utterances = function () {
     //console.log('slots_and_utterances');
     var slots_and_utterances = {
         'slots': {},
-        "utterances": ["{stop|quite|end|cease|stop game|no more|no}"]
+        "utterances": ["{cancel|stop|quite|end|cease|stop game|no more|no}"]
     };
     return slots_and_utterances;
 }

@@ -2890,6 +2890,7 @@ AMAZON.RepeatIntent	more
 AMAZON.RepeatIntent	next
 AMAZON.RepeatIntent	another one
 AMAZON.RepeatIntent	again
+AMAZON.StopIntent   cancel
 AMAZON.StopIntent	stop
 AMAZON.StopIntent	quite
 AMAZON.StopIntent	end
