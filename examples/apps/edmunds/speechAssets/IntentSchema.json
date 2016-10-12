@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "QuoteIntent",
+      "slots": [
+        {
+          "name": "PERSON",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    }
+  ]
+}
