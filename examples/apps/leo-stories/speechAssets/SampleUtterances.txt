@@ -1,0 +1,2899 @@
+QuoteIntent	tell me an interesting quote about {PERSON}
+QuoteIntent	get us a manly fact about {PERSON}
+QuoteIntent	tell everyone a fun fact about {PERSON}
+QuoteIntent	get me some fun info about {PERSON}
+QuoteIntent	tell me some fun info about {PERSON}
+QuoteIntent	say me some fun info about {PERSON}
+QuoteIntent	get us some fun info about {PERSON}
+QuoteIntent	tell us some fun info about {PERSON}
+QuoteIntent	say us some fun info about {PERSON}
+QuoteIntent	get everyone some fun info about {PERSON}
+QuoteIntent	tell everyone some fun info about {PERSON}
+QuoteIntent	say everyone some fun info about {PERSON}
+QuoteIntent	get all of us some fun info about {PERSON}
+QuoteIntent	tell all of us some fun info about {PERSON}
+QuoteIntent	say all of us some fun info about {PERSON}
+QuoteIntent	get me a few fun info about {PERSON}
+QuoteIntent	tell me a few fun info about {PERSON}
+QuoteIntent	say me a few fun info about {PERSON}
+QuoteIntent	get us a few fun info about {PERSON}
+QuoteIntent	tell us a few fun info about {PERSON}
+QuoteIntent	say us a few fun info about {PERSON}
+QuoteIntent	get everyone a few fun info about {PERSON}
+QuoteIntent	tell everyone a few fun info about {PERSON}
+QuoteIntent	say everyone a few fun info about {PERSON}
+QuoteIntent	get all of us a few fun info about {PERSON}
+QuoteIntent	tell all of us a few fun info about {PERSON}
+QuoteIntent	say all of us a few fun info about {PERSON}
+QuoteIntent	get me fun info about {PERSON}
+QuoteIntent	tell me fun info about {PERSON}
+QuoteIntent	say me fun info about {PERSON}
+QuoteIntent	get us fun info about {PERSON}
+QuoteIntent	tell us fun info about {PERSON}
+QuoteIntent	say us fun info about {PERSON}
+QuoteIntent	get everyone fun info about {PERSON}
+QuoteIntent	tell everyone fun info about {PERSON}
+QuoteIntent	say everyone fun info about {PERSON}
+QuoteIntent	get all of us fun info about {PERSON}
+QuoteIntent	tell all of us fun info about {PERSON}
+QuoteIntent	say all of us fun info about {PERSON}
+QuoteIntent	get me some silly info about {PERSON}
+QuoteIntent	tell me some silly info about {PERSON}
+QuoteIntent	say me some silly info about {PERSON}
+QuoteIntent	get us some silly info about {PERSON}
+QuoteIntent	tell us some silly info about {PERSON}
+QuoteIntent	say us some silly info about {PERSON}
+QuoteIntent	get everyone some silly info about {PERSON}
+QuoteIntent	tell everyone some silly info about {PERSON}
+QuoteIntent	say everyone some silly info about {PERSON}
+QuoteIntent	get all of us some silly info about {PERSON}
+QuoteIntent	tell all of us some silly info about {PERSON}
+QuoteIntent	say all of us some silly info about {PERSON}
+QuoteIntent	get me a few silly info about {PERSON}
+QuoteIntent	tell me a few silly info about {PERSON}
+QuoteIntent	say me a few silly info about {PERSON}
+QuoteIntent	get us a few silly info about {PERSON}
+QuoteIntent	tell us a few silly info about {PERSON}
+QuoteIntent	say us a few silly info about {PERSON}
+QuoteIntent	get everyone a few silly info about {PERSON}
+QuoteIntent	tell everyone a few silly info about {PERSON}
+QuoteIntent	say everyone a few silly info about {PERSON}
+QuoteIntent	get all of us a few silly info about {PERSON}
+QuoteIntent	tell all of us a few silly info about {PERSON}
+QuoteIntent	say all of us a few silly info about {PERSON}
+QuoteIntent	get me silly info about {PERSON}
+QuoteIntent	tell me silly info about {PERSON}
+QuoteIntent	say me silly info about {PERSON}
+QuoteIntent	get us silly info about {PERSON}
+QuoteIntent	tell us silly info about {PERSON}
+QuoteIntent	say us silly info about {PERSON}
+QuoteIntent	get everyone silly info about {PERSON}
+QuoteIntent	tell everyone silly info about {PERSON}
+QuoteIntent	say everyone silly info about {PERSON}
+QuoteIntent	get all of us silly info about {PERSON}
+QuoteIntent	tell all of us silly info about {PERSON}
+QuoteIntent	say all of us silly info about {PERSON}
+QuoteIntent	get me some intersting info about {PERSON}
+QuoteIntent	tell me some intersting info about {PERSON}
+QuoteIntent	say me some intersting info about {PERSON}
+QuoteIntent	get us some intersting info about {PERSON}
+QuoteIntent	tell us some intersting info about {PERSON}
+QuoteIntent	say us some intersting info about {PERSON}
+QuoteIntent	get everyone some intersting info about {PERSON}
+QuoteIntent	tell everyone some intersting info about {PERSON}
+QuoteIntent	say everyone some intersting info about {PERSON}
+QuoteIntent	get all of us some intersting info about {PERSON}
+QuoteIntent	tell all of us some intersting info about {PERSON}
+QuoteIntent	say all of us some intersting info about {PERSON}
+QuoteIntent	get me a few intersting info about {PERSON}
+QuoteIntent	tell me a few intersting info about {PERSON}
+QuoteIntent	say me a few intersting info about {PERSON}
+QuoteIntent	get us a few intersting info about {PERSON}
+QuoteIntent	tell us a few intersting info about {PERSON}
+QuoteIntent	say us a few intersting info about {PERSON}
+QuoteIntent	get everyone a few intersting info about {PERSON}
+QuoteIntent	tell everyone a few intersting info about {PERSON}
+QuoteIntent	say everyone a few intersting info about {PERSON}
+QuoteIntent	get all of us a few intersting info about {PERSON}
+QuoteIntent	tell all of us a few intersting info about {PERSON}
+QuoteIntent	say all of us a few intersting info about {PERSON}
+QuoteIntent	get me intersting info about {PERSON}
+QuoteIntent	tell me intersting info about {PERSON}
+QuoteIntent	say me intersting info about {PERSON}
+QuoteIntent	get us intersting info about {PERSON}
+QuoteIntent	tell us intersting info about {PERSON}
+QuoteIntent	say us intersting info about {PERSON}
+QuoteIntent	get everyone intersting info about {PERSON}
+QuoteIntent	tell everyone intersting info about {PERSON}
+QuoteIntent	say everyone intersting info about {PERSON}
+QuoteIntent	get all of us intersting info about {PERSON}
+QuoteIntent	tell all of us intersting info about {PERSON}
+QuoteIntent	say all of us intersting info about {PERSON}
+QuoteIntent	get me some manly info about {PERSON}
+QuoteIntent	tell me some manly info about {PERSON}
+QuoteIntent	say me some manly info about {PERSON}
+QuoteIntent	get us some manly info about {PERSON}
+QuoteIntent	tell us some manly info about {PERSON}
+QuoteIntent	say us some manly info about {PERSON}
+QuoteIntent	get everyone some manly info about {PERSON}
+QuoteIntent	tell everyone some manly info about {PERSON}
+QuoteIntent	say everyone some manly info about {PERSON}
+QuoteIntent	get all of us some manly info about {PERSON}
+QuoteIntent	tell all of us some manly info about {PERSON}
+QuoteIntent	say all of us some manly info about {PERSON}
+QuoteIntent	get me a few manly info about {PERSON}
+QuoteIntent	tell me a few manly info about {PERSON}
+QuoteIntent	say me a few manly info about {PERSON}
+QuoteIntent	get us a few manly info about {PERSON}
+QuoteIntent	tell us a few manly info about {PERSON}
+QuoteIntent	say us a few manly info about {PERSON}
+QuoteIntent	get everyone a few manly info about {PERSON}
+QuoteIntent	tell everyone a few manly info about {PERSON}
+QuoteIntent	say everyone a few manly info about {PERSON}
+QuoteIntent	get all of us a few manly info about {PERSON}
+QuoteIntent	tell all of us a few manly info about {PERSON}
+QuoteIntent	say all of us a few manly info about {PERSON}
+QuoteIntent	get me manly info about {PERSON}
+QuoteIntent	tell me manly info about {PERSON}
+QuoteIntent	say me manly info about {PERSON}
+QuoteIntent	get us manly info about {PERSON}
+QuoteIntent	tell us manly info about {PERSON}
+QuoteIntent	say us manly info about {PERSON}
+QuoteIntent	get everyone manly info about {PERSON}
+QuoteIntent	tell everyone manly info about {PERSON}
+QuoteIntent	say everyone manly info about {PERSON}
+QuoteIntent	get all of us manly info about {PERSON}
+QuoteIntent	tell all of us manly info about {PERSON}
+QuoteIntent	say all of us manly info about {PERSON}
+QuoteIntent	get me some info about {PERSON}
+QuoteIntent	tell me some info about {PERSON}
+QuoteIntent	say me some info about {PERSON}
+QuoteIntent	get us some info about {PERSON}
+QuoteIntent	tell us some info about {PERSON}
+QuoteIntent	say us some info about {PERSON}
+QuoteIntent	get everyone some info about {PERSON}
+QuoteIntent	tell everyone some info about {PERSON}
+QuoteIntent	say everyone some info about {PERSON}
+QuoteIntent	get all of us some info about {PERSON}
+QuoteIntent	tell all of us some info about {PERSON}
+QuoteIntent	say all of us some info about {PERSON}
+QuoteIntent	get me a few info about {PERSON}
+QuoteIntent	tell me a few info about {PERSON}
+QuoteIntent	say me a few info about {PERSON}
+QuoteIntent	get us a few info about {PERSON}
+QuoteIntent	tell us a few info about {PERSON}
+QuoteIntent	say us a few info about {PERSON}
+QuoteIntent	get everyone a few info about {PERSON}
+QuoteIntent	tell everyone a few info about {PERSON}
+QuoteIntent	say everyone a few info about {PERSON}
+QuoteIntent	get all of us a few info about {PERSON}
+QuoteIntent	tell all of us a few info about {PERSON}
+QuoteIntent	say all of us a few info about {PERSON}
+QuoteIntent	get me info about {PERSON}
+QuoteIntent	tell me info about {PERSON}
+QuoteIntent	say me info about {PERSON}
+QuoteIntent	get us info about {PERSON}
+QuoteIntent	tell us info about {PERSON}
+QuoteIntent	say us info about {PERSON}
+QuoteIntent	get everyone info about {PERSON}
+QuoteIntent	tell everyone info about {PERSON}
+QuoteIntent	say everyone info about {PERSON}
+QuoteIntent	get all of us info about {PERSON}
+QuoteIntent	tell all of us info about {PERSON}
+QuoteIntent	say all of us info about {PERSON}
+QuoteIntent	get me some fun facts about {PERSON}
+QuoteIntent	tell me some fun facts about {PERSON}
+QuoteIntent	say me some fun facts about {PERSON}
+QuoteIntent	get us some fun facts about {PERSON}
+QuoteIntent	tell us some fun facts about {PERSON}
+QuoteIntent	say us some fun facts about {PERSON}
+QuoteIntent	get everyone some fun facts about {PERSON}
+QuoteIntent	tell everyone some fun facts about {PERSON}
+QuoteIntent	say everyone some fun facts about {PERSON}
+QuoteIntent	get all of us some fun facts about {PERSON}
+QuoteIntent	tell all of us some fun facts about {PERSON}
+QuoteIntent	say all of us some fun facts about {PERSON}
+QuoteIntent	get me a few fun facts about {PERSON}
+QuoteIntent	tell me a few fun facts about {PERSON}
+QuoteIntent	say me a few fun facts about {PERSON}
+QuoteIntent	get us a few fun facts about {PERSON}
+QuoteIntent	tell us a few fun facts about {PERSON}
+QuoteIntent	say us a few fun facts about {PERSON}
+QuoteIntent	get everyone a few fun facts about {PERSON}
+QuoteIntent	tell everyone a few fun facts about {PERSON}
+QuoteIntent	say everyone a few fun facts about {PERSON}
+QuoteIntent	get all of us a few fun facts about {PERSON}
+QuoteIntent	tell all of us a few fun facts about {PERSON}
+QuoteIntent	say all of us a few fun facts about {PERSON}
+QuoteIntent	get me fun facts about {PERSON}
+QuoteIntent	tell me fun facts about {PERSON}
+QuoteIntent	say me fun facts about {PERSON}
+QuoteIntent	get us fun facts about {PERSON}
+QuoteIntent	tell us fun facts about {PERSON}
+QuoteIntent	say us fun facts about {PERSON}
+QuoteIntent	get everyone fun facts about {PERSON}
+QuoteIntent	tell everyone fun facts about {PERSON}
+QuoteIntent	say everyone fun facts about {PERSON}
+QuoteIntent	get all of us fun facts about {PERSON}
+QuoteIntent	tell all of us fun facts about {PERSON}
+QuoteIntent	say all of us fun facts about {PERSON}
+QuoteIntent	get me some silly facts about {PERSON}
+QuoteIntent	tell me some silly facts about {PERSON}
+QuoteIntent	say me some silly facts about {PERSON}
+QuoteIntent	get us some silly facts about {PERSON}
+QuoteIntent	tell us some silly facts about {PERSON}
+QuoteIntent	say us some silly facts about {PERSON}
+QuoteIntent	get everyone some silly facts about {PERSON}
+QuoteIntent	tell everyone some silly facts about {PERSON}
+QuoteIntent	say everyone some silly facts about {PERSON}
+QuoteIntent	get all of us some silly facts about {PERSON}
+QuoteIntent	tell all of us some silly facts about {PERSON}
+QuoteIntent	say all of us some silly facts about {PERSON}
+QuoteIntent	get me a few silly facts about {PERSON}
+QuoteIntent	tell me a few silly facts about {PERSON}
+QuoteIntent	say me a few silly facts about {PERSON}
+QuoteIntent	get us a few silly facts about {PERSON}
+QuoteIntent	tell us a few silly facts about {PERSON}
+QuoteIntent	say us a few silly facts about {PERSON}
+QuoteIntent	get everyone a few silly facts about {PERSON}
+QuoteIntent	tell everyone a few silly facts about {PERSON}
+QuoteIntent	say everyone a few silly facts about {PERSON}
+QuoteIntent	get all of us a few silly facts about {PERSON}
+QuoteIntent	tell all of us a few silly facts about {PERSON}
+QuoteIntent	say all of us a few silly facts about {PERSON}
+QuoteIntent	get me silly facts about {PERSON}
+QuoteIntent	tell me silly facts about {PERSON}
+QuoteIntent	say me silly facts about {PERSON}
+QuoteIntent	get us silly facts about {PERSON}
+QuoteIntent	tell us silly facts about {PERSON}
+QuoteIntent	say us silly facts about {PERSON}
+QuoteIntent	get everyone silly facts about {PERSON}
+QuoteIntent	tell everyone silly facts about {PERSON}
+QuoteIntent	say everyone silly facts about {PERSON}
+QuoteIntent	get all of us silly facts about {PERSON}
+QuoteIntent	tell all of us silly facts about {PERSON}
+QuoteIntent	say all of us silly facts about {PERSON}
+QuoteIntent	get me some intersting facts about {PERSON}
+QuoteIntent	tell me some intersting facts about {PERSON}
+QuoteIntent	say me some intersting facts about {PERSON}
+QuoteIntent	get us some intersting facts about {PERSON}
+QuoteIntent	tell us some intersting facts about {PERSON}
+QuoteIntent	say us some intersting facts about {PERSON}
+QuoteIntent	get everyone some intersting facts about {PERSON}
+QuoteIntent	tell everyone some intersting facts about {PERSON}
+QuoteIntent	say everyone some intersting facts about {PERSON}
+QuoteIntent	get all of us some intersting facts about {PERSON}
+QuoteIntent	tell all of us some intersting facts about {PERSON}
+QuoteIntent	say all of us some intersting facts about {PERSON}
+QuoteIntent	get me a few intersting facts about {PERSON}
+QuoteIntent	tell me a few intersting facts about {PERSON}
+QuoteIntent	say me a few intersting facts about {PERSON}
+QuoteIntent	get us a few intersting facts about {PERSON}
+QuoteIntent	tell us a few intersting facts about {PERSON}
+QuoteIntent	say us a few intersting facts about {PERSON}
+QuoteIntent	get everyone a few intersting facts about {PERSON}
+QuoteIntent	tell everyone a few intersting facts about {PERSON}
+QuoteIntent	say everyone a few intersting facts about {PERSON}
+QuoteIntent	get all of us a few intersting facts about {PERSON}
+QuoteIntent	tell all of us a few intersting facts about {PERSON}
+QuoteIntent	say all of us a few intersting facts about {PERSON}
+QuoteIntent	get me intersting facts about {PERSON}
+QuoteIntent	tell me intersting facts about {PERSON}
+QuoteIntent	say me intersting facts about {PERSON}
+QuoteIntent	get us intersting facts about {PERSON}
+QuoteIntent	tell us intersting facts about {PERSON}
+QuoteIntent	say us intersting facts about {PERSON}
+QuoteIntent	get everyone intersting facts about {PERSON}
+QuoteIntent	tell everyone intersting facts about {PERSON}
+QuoteIntent	say everyone intersting facts about {PERSON}
+QuoteIntent	get all of us intersting facts about {PERSON}
+QuoteIntent	tell all of us intersting facts about {PERSON}
+QuoteIntent	say all of us intersting facts about {PERSON}
+QuoteIntent	get me some manly facts about {PERSON}
+QuoteIntent	tell me some manly facts about {PERSON}
+QuoteIntent	say me some manly facts about {PERSON}
+QuoteIntent	get us some manly facts about {PERSON}
+QuoteIntent	tell us some manly facts about {PERSON}
+QuoteIntent	say us some manly facts about {PERSON}
+QuoteIntent	get everyone some manly facts about {PERSON}
+QuoteIntent	tell everyone some manly facts about {PERSON}
+QuoteIntent	say everyone some manly facts about {PERSON}
+QuoteIntent	get all of us some manly facts about {PERSON}
+QuoteIntent	tell all of us some manly facts about {PERSON}
+QuoteIntent	say all of us some manly facts about {PERSON}
+QuoteIntent	get me a few manly facts about {PERSON}
+QuoteIntent	tell me a few manly facts about {PERSON}
+QuoteIntent	say me a few manly facts about {PERSON}
+QuoteIntent	get us a few manly facts about {PERSON}
+QuoteIntent	tell us a few manly facts about {PERSON}
+QuoteIntent	say us a few manly facts about {PERSON}
+QuoteIntent	get everyone a few manly facts about {PERSON}
+QuoteIntent	tell everyone a few manly facts about {PERSON}
+QuoteIntent	say everyone a few manly facts about {PERSON}
+QuoteIntent	get all of us a few manly facts about {PERSON}
+QuoteIntent	tell all of us a few manly facts about {PERSON}
+QuoteIntent	say all of us a few manly facts about {PERSON}
+QuoteIntent	get me manly facts about {PERSON}
+QuoteIntent	tell me manly facts about {PERSON}
+QuoteIntent	say me manly facts about {PERSON}
+QuoteIntent	get us manly facts about {PERSON}
+QuoteIntent	tell us manly facts about {PERSON}
+QuoteIntent	say us manly facts about {PERSON}
+QuoteIntent	get everyone manly facts about {PERSON}
+QuoteIntent	tell everyone manly facts about {PERSON}
+QuoteIntent	say everyone manly facts about {PERSON}
+QuoteIntent	get all of us manly facts about {PERSON}
+QuoteIntent	tell all of us manly facts about {PERSON}
+QuoteIntent	say all of us manly facts about {PERSON}
+QuoteIntent	get me some facts about {PERSON}
+QuoteIntent	tell me some facts about {PERSON}
+QuoteIntent	say me some facts about {PERSON}
+QuoteIntent	get us some facts about {PERSON}
+QuoteIntent	tell us some facts about {PERSON}
+QuoteIntent	say us some facts about {PERSON}
+QuoteIntent	get everyone some facts about {PERSON}
+QuoteIntent	tell everyone some facts about {PERSON}
+QuoteIntent	say everyone some facts about {PERSON}
+QuoteIntent	get all of us some facts about {PERSON}
+QuoteIntent	tell all of us some facts about {PERSON}
+QuoteIntent	say all of us some facts about {PERSON}
+QuoteIntent	get me a few facts about {PERSON}
+QuoteIntent	tell me a few facts about {PERSON}
+QuoteIntent	say me a few facts about {PERSON}
+QuoteIntent	get us a few facts about {PERSON}
+QuoteIntent	tell us a few facts about {PERSON}
+QuoteIntent	say us a few facts about {PERSON}
+QuoteIntent	get everyone a few facts about {PERSON}
+QuoteIntent	tell everyone a few facts about {PERSON}
+QuoteIntent	say everyone a few facts about {PERSON}
+QuoteIntent	get all of us a few facts about {PERSON}
+QuoteIntent	tell all of us a few facts about {PERSON}
+QuoteIntent	say all of us a few facts about {PERSON}
+QuoteIntent	get me facts about {PERSON}
+QuoteIntent	tell me facts about {PERSON}
+QuoteIntent	say me facts about {PERSON}
+QuoteIntent	get us facts about {PERSON}
+QuoteIntent	tell us facts about {PERSON}
+QuoteIntent	say us facts about {PERSON}
+QuoteIntent	get everyone facts about {PERSON}
+QuoteIntent	tell everyone facts about {PERSON}
+QuoteIntent	say everyone facts about {PERSON}
+QuoteIntent	get all of us facts about {PERSON}
+QuoteIntent	tell all of us facts about {PERSON}
+QuoteIntent	say all of us facts about {PERSON}
+QuoteIntent	get me some fun quotes about {PERSON}
+QuoteIntent	tell me some fun quotes about {PERSON}
+QuoteIntent	say me some fun quotes about {PERSON}
+QuoteIntent	get us some fun quotes about {PERSON}
+QuoteIntent	tell us some fun quotes about {PERSON}
+QuoteIntent	say us some fun quotes about {PERSON}
+QuoteIntent	get everyone some fun quotes about {PERSON}
+QuoteIntent	tell everyone some fun quotes about {PERSON}
+QuoteIntent	say everyone some fun quotes about {PERSON}
+QuoteIntent	get all of us some fun quotes about {PERSON}
+QuoteIntent	tell all of us some fun quotes about {PERSON}
+QuoteIntent	say all of us some fun quotes about {PERSON}
+QuoteIntent	get me a few fun quotes about {PERSON}
+QuoteIntent	tell me a few fun quotes about {PERSON}
+QuoteIntent	say me a few fun quotes about {PERSON}
+QuoteIntent	get us a few fun quotes about {PERSON}
+QuoteIntent	tell us a few fun quotes about {PERSON}
+QuoteIntent	say us a few fun quotes about {PERSON}
+QuoteIntent	get everyone a few fun quotes about {PERSON}
+QuoteIntent	tell everyone a few fun quotes about {PERSON}
+QuoteIntent	say everyone a few fun quotes about {PERSON}
+QuoteIntent	get all of us a few fun quotes about {PERSON}
+QuoteIntent	tell all of us a few fun quotes about {PERSON}
+QuoteIntent	say all of us a few fun quotes about {PERSON}
+QuoteIntent	get me fun quotes about {PERSON}
+QuoteIntent	tell me fun quotes about {PERSON}
+QuoteIntent	say me fun quotes about {PERSON}
+QuoteIntent	get us fun quotes about {PERSON}
+QuoteIntent	tell us fun quotes about {PERSON}
+QuoteIntent	say us fun quotes about {PERSON}
+QuoteIntent	get everyone fun quotes about {PERSON}
+QuoteIntent	tell everyone fun quotes about {PERSON}
+QuoteIntent	say everyone fun quotes about {PERSON}
+QuoteIntent	get all of us fun quotes about {PERSON}
+QuoteIntent	tell all of us fun quotes about {PERSON}
+QuoteIntent	say all of us fun quotes about {PERSON}
+QuoteIntent	get me some silly quotes about {PERSON}
+QuoteIntent	tell me some silly quotes about {PERSON}
+QuoteIntent	say me some silly quotes about {PERSON}
+QuoteIntent	get us some silly quotes about {PERSON}
+QuoteIntent	tell us some silly quotes about {PERSON}
+QuoteIntent	say us some silly quotes about {PERSON}
+QuoteIntent	get everyone some silly quotes about {PERSON}
+QuoteIntent	tell everyone some silly quotes about {PERSON}
+QuoteIntent	say everyone some silly quotes about {PERSON}
+QuoteIntent	get all of us some silly quotes about {PERSON}
+QuoteIntent	tell all of us some silly quotes about {PERSON}
+QuoteIntent	say all of us some silly quotes about {PERSON}
+QuoteIntent	get me a few silly quotes about {PERSON}
+QuoteIntent	tell me a few silly quotes about {PERSON}
+QuoteIntent	say me a few silly quotes about {PERSON}
+QuoteIntent	get us a few silly quotes about {PERSON}
+QuoteIntent	tell us a few silly quotes about {PERSON}
+QuoteIntent	say us a few silly quotes about {PERSON}
+QuoteIntent	get everyone a few silly quotes about {PERSON}
+QuoteIntent	tell everyone a few silly quotes about {PERSON}
+QuoteIntent	say everyone a few silly quotes about {PERSON}
+QuoteIntent	get all of us a few silly quotes about {PERSON}
+QuoteIntent	tell all of us a few silly quotes about {PERSON}
+QuoteIntent	say all of us a few silly quotes about {PERSON}
+QuoteIntent	get me silly quotes about {PERSON}
+QuoteIntent	tell me silly quotes about {PERSON}
+QuoteIntent	say me silly quotes about {PERSON}
+QuoteIntent	get us silly quotes about {PERSON}
+QuoteIntent	tell us silly quotes about {PERSON}
+QuoteIntent	say us silly quotes about {PERSON}
+QuoteIntent	get everyone silly quotes about {PERSON}
+QuoteIntent	tell everyone silly quotes about {PERSON}
+QuoteIntent	say everyone silly quotes about {PERSON}
+QuoteIntent	get all of us silly quotes about {PERSON}
+QuoteIntent	tell all of us silly quotes about {PERSON}
+QuoteIntent	say all of us silly quotes about {PERSON}
+QuoteIntent	get me some intersting quotes about {PERSON}
+QuoteIntent	tell me some intersting quotes about {PERSON}
+QuoteIntent	say me some intersting quotes about {PERSON}
+QuoteIntent	get us some intersting quotes about {PERSON}
+QuoteIntent	tell us some intersting quotes about {PERSON}
+QuoteIntent	say us some intersting quotes about {PERSON}
+QuoteIntent	get everyone some intersting quotes about {PERSON}
+QuoteIntent	tell everyone some intersting quotes about {PERSON}
+QuoteIntent	say everyone some intersting quotes about {PERSON}
+QuoteIntent	get all of us some intersting quotes about {PERSON}
+QuoteIntent	tell all of us some intersting quotes about {PERSON}
+QuoteIntent	say all of us some intersting quotes about {PERSON}
+QuoteIntent	get me a few intersting quotes about {PERSON}
+QuoteIntent	tell me a few intersting quotes about {PERSON}
+QuoteIntent	say me a few intersting quotes about {PERSON}
+QuoteIntent	get us a few intersting quotes about {PERSON}
+QuoteIntent	tell us a few intersting quotes about {PERSON}
+QuoteIntent	say us a few intersting quotes about {PERSON}
+QuoteIntent	get everyone a few intersting quotes about {PERSON}
+QuoteIntent	tell everyone a few intersting quotes about {PERSON}
+QuoteIntent	say everyone a few intersting quotes about {PERSON}
+QuoteIntent	get all of us a few intersting quotes about {PERSON}
+QuoteIntent	tell all of us a few intersting quotes about {PERSON}
+QuoteIntent	say all of us a few intersting quotes about {PERSON}
+QuoteIntent	get me intersting quotes about {PERSON}
+QuoteIntent	tell me intersting quotes about {PERSON}
+QuoteIntent	say me intersting quotes about {PERSON}
+QuoteIntent	get us intersting quotes about {PERSON}
+QuoteIntent	tell us intersting quotes about {PERSON}
+QuoteIntent	say us intersting quotes about {PERSON}
+QuoteIntent	get everyone intersting quotes about {PERSON}
+QuoteIntent	tell everyone intersting quotes about {PERSON}
+QuoteIntent	say everyone intersting quotes about {PERSON}
+QuoteIntent	get all of us intersting quotes about {PERSON}
+QuoteIntent	tell all of us intersting quotes about {PERSON}
+QuoteIntent	say all of us intersting quotes about {PERSON}
+QuoteIntent	get me some manly quotes about {PERSON}
+QuoteIntent	tell me some manly quotes about {PERSON}
+QuoteIntent	say me some manly quotes about {PERSON}
+QuoteIntent	get us some manly quotes about {PERSON}
+QuoteIntent	tell us some manly quotes about {PERSON}
+QuoteIntent	say us some manly quotes about {PERSON}
+QuoteIntent	get everyone some manly quotes about {PERSON}
+QuoteIntent	tell everyone some manly quotes about {PERSON}
+QuoteIntent	say everyone some manly quotes about {PERSON}
+QuoteIntent	get all of us some manly quotes about {PERSON}
+QuoteIntent	tell all of us some manly quotes about {PERSON}
+QuoteIntent	say all of us some manly quotes about {PERSON}
+QuoteIntent	get me a few manly quotes about {PERSON}
+QuoteIntent	tell me a few manly quotes about {PERSON}
+QuoteIntent	say me a few manly quotes about {PERSON}
+QuoteIntent	get us a few manly quotes about {PERSON}
+QuoteIntent	tell us a few manly quotes about {PERSON}
+QuoteIntent	say us a few manly quotes about {PERSON}
+QuoteIntent	get everyone a few manly quotes about {PERSON}
+QuoteIntent	tell everyone a few manly quotes about {PERSON}
+QuoteIntent	say everyone a few manly quotes about {PERSON}
+QuoteIntent	get all of us a few manly quotes about {PERSON}
+QuoteIntent	tell all of us a few manly quotes about {PERSON}
+QuoteIntent	say all of us a few manly quotes about {PERSON}
+QuoteIntent	get me manly quotes about {PERSON}
+QuoteIntent	tell me manly quotes about {PERSON}
+QuoteIntent	say me manly quotes about {PERSON}
+QuoteIntent	get us manly quotes about {PERSON}
+QuoteIntent	tell us manly quotes about {PERSON}
+QuoteIntent	say us manly quotes about {PERSON}
+QuoteIntent	get everyone manly quotes about {PERSON}
+QuoteIntent	tell everyone manly quotes about {PERSON}
+QuoteIntent	say everyone manly quotes about {PERSON}
+QuoteIntent	get all of us manly quotes about {PERSON}
+QuoteIntent	tell all of us manly quotes about {PERSON}
+QuoteIntent	say all of us manly quotes about {PERSON}
+QuoteIntent	get me some quotes about {PERSON}
+QuoteIntent	tell me some quotes about {PERSON}
+QuoteIntent	say me some quotes about {PERSON}
+QuoteIntent	get us some quotes about {PERSON}
+QuoteIntent	tell us some quotes about {PERSON}
+QuoteIntent	say us some quotes about {PERSON}
+QuoteIntent	get everyone some quotes about {PERSON}
+QuoteIntent	tell everyone some quotes about {PERSON}
+QuoteIntent	say everyone some quotes about {PERSON}
+QuoteIntent	get all of us some quotes about {PERSON}
+QuoteIntent	tell all of us some quotes about {PERSON}
+QuoteIntent	say all of us some quotes about {PERSON}
+QuoteIntent	get me a few quotes about {PERSON}
+QuoteIntent	tell me a few quotes about {PERSON}
+QuoteIntent	say me a few quotes about {PERSON}
+QuoteIntent	get us a few quotes about {PERSON}
+QuoteIntent	tell us a few quotes about {PERSON}
+QuoteIntent	say us a few quotes about {PERSON}
+QuoteIntent	get everyone a few quotes about {PERSON}
+QuoteIntent	tell everyone a few quotes about {PERSON}
+QuoteIntent	say everyone a few quotes about {PERSON}
+QuoteIntent	get all of us a few quotes about {PERSON}
+QuoteIntent	tell all of us a few quotes about {PERSON}
+QuoteIntent	say all of us a few quotes about {PERSON}
+QuoteIntent	get me quotes about {PERSON}
+QuoteIntent	tell me quotes about {PERSON}
+QuoteIntent	say me quotes about {PERSON}
+QuoteIntent	get us quotes about {PERSON}
+QuoteIntent	tell us quotes about {PERSON}
+QuoteIntent	say us quotes about {PERSON}
+QuoteIntent	get everyone quotes about {PERSON}
+QuoteIntent	tell everyone quotes about {PERSON}
+QuoteIntent	say everyone quotes about {PERSON}
+QuoteIntent	get all of us quotes about {PERSON}
+QuoteIntent	tell all of us quotes about {PERSON}
+QuoteIntent	say all of us quotes about {PERSON}
+QuoteIntent	get me some fun data about {PERSON}
+QuoteIntent	tell me some fun data about {PERSON}
+QuoteIntent	say me some fun data about {PERSON}
+QuoteIntent	get us some fun data about {PERSON}
+QuoteIntent	tell us some fun data about {PERSON}
+QuoteIntent	say us some fun data about {PERSON}
+QuoteIntent	get everyone some fun data about {PERSON}
+QuoteIntent	tell everyone some fun data about {PERSON}
+QuoteIntent	say everyone some fun data about {PERSON}
+QuoteIntent	get all of us some fun data about {PERSON}
+QuoteIntent	tell all of us some fun data about {PERSON}
+QuoteIntent	say all of us some fun data about {PERSON}
+QuoteIntent	get me a few fun data about {PERSON}
+QuoteIntent	tell me a few fun data about {PERSON}
+QuoteIntent	say me a few fun data about {PERSON}
+QuoteIntent	get us a few fun data about {PERSON}
+QuoteIntent	tell us a few fun data about {PERSON}
+QuoteIntent	say us a few fun data about {PERSON}
+QuoteIntent	get everyone a few fun data about {PERSON}
+QuoteIntent	tell everyone a few fun data about {PERSON}
+QuoteIntent	say everyone a few fun data about {PERSON}
+QuoteIntent	get all of us a few fun data about {PERSON}
+QuoteIntent	tell all of us a few fun data about {PERSON}
+QuoteIntent	say all of us a few fun data about {PERSON}
+QuoteIntent	get me fun data about {PERSON}
+QuoteIntent	tell me fun data about {PERSON}
+QuoteIntent	say me fun data about {PERSON}
+QuoteIntent	get us fun data about {PERSON}
+QuoteIntent	tell us fun data about {PERSON}
+QuoteIntent	say us fun data about {PERSON}
+QuoteIntent	get everyone fun data about {PERSON}
+QuoteIntent	tell everyone fun data about {PERSON}
+QuoteIntent	say everyone fun data about {PERSON}
+QuoteIntent	get all of us fun data about {PERSON}
+QuoteIntent	tell all of us fun data about {PERSON}
+QuoteIntent	say all of us fun data about {PERSON}
+QuoteIntent	get me some silly data about {PERSON}
+QuoteIntent	tell me some silly data about {PERSON}
+QuoteIntent	say me some silly data about {PERSON}
+QuoteIntent	get us some silly data about {PERSON}
+QuoteIntent	tell us some silly data about {PERSON}
+QuoteIntent	say us some silly data about {PERSON}
+QuoteIntent	get everyone some silly data about {PERSON}
+QuoteIntent	tell everyone some silly data about {PERSON}
+QuoteIntent	say everyone some silly data about {PERSON}
+QuoteIntent	get all of us some silly data about {PERSON}
+QuoteIntent	tell all of us some silly data about {PERSON}
+QuoteIntent	say all of us some silly data about {PERSON}
+QuoteIntent	get me a few silly data about {PERSON}
+QuoteIntent	tell me a few silly data about {PERSON}
+QuoteIntent	say me a few silly data about {PERSON}
+QuoteIntent	get us a few silly data about {PERSON}
+QuoteIntent	tell us a few silly data about {PERSON}
+QuoteIntent	say us a few silly data about {PERSON}
+QuoteIntent	get everyone a few silly data about {PERSON}
+QuoteIntent	tell everyone a few silly data about {PERSON}
+QuoteIntent	say everyone a few silly data about {PERSON}
+QuoteIntent	get all of us a few silly data about {PERSON}
+QuoteIntent	tell all of us a few silly data about {PERSON}
+QuoteIntent	say all of us a few silly data about {PERSON}
+QuoteIntent	get me silly data about {PERSON}
+QuoteIntent	tell me silly data about {PERSON}
+QuoteIntent	say me silly data about {PERSON}
+QuoteIntent	get us silly data about {PERSON}
+QuoteIntent	tell us silly data about {PERSON}
+QuoteIntent	say us silly data about {PERSON}
+QuoteIntent	get everyone silly data about {PERSON}
+QuoteIntent	tell everyone silly data about {PERSON}
+QuoteIntent	say everyone silly data about {PERSON}
+QuoteIntent	get all of us silly data about {PERSON}
+QuoteIntent	tell all of us silly data about {PERSON}
+QuoteIntent	say all of us silly data about {PERSON}
+QuoteIntent	get me some intersting data about {PERSON}
+QuoteIntent	tell me some intersting data about {PERSON}
+QuoteIntent	say me some intersting data about {PERSON}
+QuoteIntent	get us some intersting data about {PERSON}
+QuoteIntent	tell us some intersting data about {PERSON}
+QuoteIntent	say us some intersting data about {PERSON}
+QuoteIntent	get everyone some intersting data about {PERSON}
+QuoteIntent	tell everyone some intersting data about {PERSON}
+QuoteIntent	say everyone some intersting data about {PERSON}
+QuoteIntent	get all of us some intersting data about {PERSON}
+QuoteIntent	tell all of us some intersting data about {PERSON}
+QuoteIntent	say all of us some intersting data about {PERSON}
+QuoteIntent	get me a few intersting data about {PERSON}
+QuoteIntent	tell me a few intersting data about {PERSON}
+QuoteIntent	say me a few intersting data about {PERSON}
+QuoteIntent	get us a few intersting data about {PERSON}
+QuoteIntent	tell us a few intersting data about {PERSON}
+QuoteIntent	say us a few intersting data about {PERSON}
+QuoteIntent	get everyone a few intersting data about {PERSON}
+QuoteIntent	tell everyone a few intersting data about {PERSON}
+QuoteIntent	say everyone a few intersting data about {PERSON}
+QuoteIntent	get all of us a few intersting data about {PERSON}
+QuoteIntent	tell all of us a few intersting data about {PERSON}
+QuoteIntent	say all of us a few intersting data about {PERSON}
+QuoteIntent	get me intersting data about {PERSON}
+QuoteIntent	tell me intersting data about {PERSON}
+QuoteIntent	say me intersting data about {PERSON}
+QuoteIntent	get us intersting data about {PERSON}
+QuoteIntent	tell us intersting data about {PERSON}
+QuoteIntent	say us intersting data about {PERSON}
+QuoteIntent	get everyone intersting data about {PERSON}
+QuoteIntent	tell everyone intersting data about {PERSON}
+QuoteIntent	say everyone intersting data about {PERSON}
+QuoteIntent	get all of us intersting data about {PERSON}
+QuoteIntent	tell all of us intersting data about {PERSON}
+QuoteIntent	say all of us intersting data about {PERSON}
+QuoteIntent	get me some manly data about {PERSON}
+QuoteIntent	tell me some manly data about {PERSON}
+QuoteIntent	say me some manly data about {PERSON}
+QuoteIntent	get us some manly data about {PERSON}
+QuoteIntent	tell us some manly data about {PERSON}
+QuoteIntent	say us some manly data about {PERSON}
+QuoteIntent	get everyone some manly data about {PERSON}
+QuoteIntent	tell everyone some manly data about {PERSON}
+QuoteIntent	say everyone some manly data about {PERSON}
+QuoteIntent	get all of us some manly data about {PERSON}
+QuoteIntent	tell all of us some manly data about {PERSON}
+QuoteIntent	say all of us some manly data about {PERSON}
+QuoteIntent	get me a few manly data about {PERSON}
+QuoteIntent	tell me a few manly data about {PERSON}
+QuoteIntent	say me a few manly data about {PERSON}
+QuoteIntent	get us a few manly data about {PERSON}
+QuoteIntent	tell us a few manly data about {PERSON}
+QuoteIntent	say us a few manly data about {PERSON}
+QuoteIntent	get everyone a few manly data about {PERSON}
+QuoteIntent	tell everyone a few manly data about {PERSON}
+QuoteIntent	say everyone a few manly data about {PERSON}
+QuoteIntent	get all of us a few manly data about {PERSON}
+QuoteIntent	tell all of us a few manly data about {PERSON}
+QuoteIntent	say all of us a few manly data about {PERSON}
+QuoteIntent	get me manly data about {PERSON}
+QuoteIntent	tell me manly data about {PERSON}
+QuoteIntent	say me manly data about {PERSON}
+QuoteIntent	get us manly data about {PERSON}
+QuoteIntent	tell us manly data about {PERSON}
+QuoteIntent	say us manly data about {PERSON}
+QuoteIntent	get everyone manly data about {PERSON}
+QuoteIntent	tell everyone manly data about {PERSON}
+QuoteIntent	say everyone manly data about {PERSON}
+QuoteIntent	get all of us manly data about {PERSON}
+QuoteIntent	tell all of us manly data about {PERSON}
+QuoteIntent	say all of us manly data about {PERSON}
+QuoteIntent	get me some data about {PERSON}
+QuoteIntent	tell me some data about {PERSON}
+QuoteIntent	say me some data about {PERSON}
+QuoteIntent	get us some data about {PERSON}
+QuoteIntent	tell us some data about {PERSON}
+QuoteIntent	say us some data about {PERSON}
+QuoteIntent	get everyone some data about {PERSON}
+QuoteIntent	tell everyone some data about {PERSON}
+QuoteIntent	say everyone some data about {PERSON}
+QuoteIntent	get all of us some data about {PERSON}
+QuoteIntent	tell all of us some data about {PERSON}
+QuoteIntent	say all of us some data about {PERSON}
+QuoteIntent	get me a few data about {PERSON}
+QuoteIntent	tell me a few data about {PERSON}
+QuoteIntent	say me a few data about {PERSON}
+QuoteIntent	get us a few data about {PERSON}
+QuoteIntent	tell us a few data about {PERSON}
+QuoteIntent	say us a few data about {PERSON}
+QuoteIntent	get everyone a few data about {PERSON}
+QuoteIntent	tell everyone a few data about {PERSON}
+QuoteIntent	say everyone a few data about {PERSON}
+QuoteIntent	get all of us a few data about {PERSON}
+QuoteIntent	tell all of us a few data about {PERSON}
+QuoteIntent	say all of us a few data about {PERSON}
+QuoteIntent	get me data about {PERSON}
+QuoteIntent	tell me data about {PERSON}
+QuoteIntent	say me data about {PERSON}
+QuoteIntent	get us data about {PERSON}
+QuoteIntent	tell us data about {PERSON}
+QuoteIntent	say us data about {PERSON}
+QuoteIntent	get everyone data about {PERSON}
+QuoteIntent	tell everyone data about {PERSON}
+QuoteIntent	say everyone data about {PERSON}
+QuoteIntent	get all of us data about {PERSON}
+QuoteIntent	tell all of us data about {PERSON}
+QuoteIntent	say all of us data about {PERSON}
+QuoteIntent	get me some fun info for {PERSON}
+QuoteIntent	tell me some fun info for {PERSON}
+QuoteIntent	say me some fun info for {PERSON}
+QuoteIntent	get us some fun info for {PERSON}
+QuoteIntent	tell us some fun info for {PERSON}
+QuoteIntent	say us some fun info for {PERSON}
+QuoteIntent	get everyone some fun info for {PERSON}
+QuoteIntent	tell everyone some fun info for {PERSON}
+QuoteIntent	say everyone some fun info for {PERSON}
+QuoteIntent	get all of us some fun info for {PERSON}
+QuoteIntent	tell all of us some fun info for {PERSON}
+QuoteIntent	say all of us some fun info for {PERSON}
+QuoteIntent	get me a few fun info for {PERSON}
+QuoteIntent	tell me a few fun info for {PERSON}
+QuoteIntent	say me a few fun info for {PERSON}
+QuoteIntent	get us a few fun info for {PERSON}
+QuoteIntent	tell us a few fun info for {PERSON}
+QuoteIntent	say us a few fun info for {PERSON}
+QuoteIntent	get everyone a few fun info for {PERSON}
+QuoteIntent	tell everyone a few fun info for {PERSON}
+QuoteIntent	say everyone a few fun info for {PERSON}
+QuoteIntent	get all of us a few fun info for {PERSON}
+QuoteIntent	tell all of us a few fun info for {PERSON}
+QuoteIntent	say all of us a few fun info for {PERSON}
+QuoteIntent	get me fun info for {PERSON}
+QuoteIntent	tell me fun info for {PERSON}
+QuoteIntent	say me fun info for {PERSON}
+QuoteIntent	get us fun info for {PERSON}
+QuoteIntent	tell us fun info for {PERSON}
+QuoteIntent	say us fun info for {PERSON}
+QuoteIntent	get everyone fun info for {PERSON}
+QuoteIntent	tell everyone fun info for {PERSON}
+QuoteIntent	say everyone fun info for {PERSON}
+QuoteIntent	get all of us fun info for {PERSON}
+QuoteIntent	tell all of us fun info for {PERSON}
+QuoteIntent	say all of us fun info for {PERSON}
+QuoteIntent	get me some silly info for {PERSON}
+QuoteIntent	tell me some silly info for {PERSON}
+QuoteIntent	say me some silly info for {PERSON}
+QuoteIntent	get us some silly info for {PERSON}
+QuoteIntent	tell us some silly info for {PERSON}
+QuoteIntent	say us some silly info for {PERSON}
+QuoteIntent	get everyone some silly info for {PERSON}
+QuoteIntent	tell everyone some silly info for {PERSON}
+QuoteIntent	say everyone some silly info for {PERSON}
+QuoteIntent	get all of us some silly info for {PERSON}
+QuoteIntent	tell all of us some silly info for {PERSON}
+QuoteIntent	say all of us some silly info for {PERSON}
+QuoteIntent	get me a few silly info for {PERSON}
+QuoteIntent	tell me a few silly info for {PERSON}
+QuoteIntent	say me a few silly info for {PERSON}
+QuoteIntent	get us a few silly info for {PERSON}
+QuoteIntent	tell us a few silly info for {PERSON}
+QuoteIntent	say us a few silly info for {PERSON}
+QuoteIntent	get everyone a few silly info for {PERSON}
+QuoteIntent	tell everyone a few silly info for {PERSON}
+QuoteIntent	say everyone a few silly info for {PERSON}
+QuoteIntent	get all of us a few silly info for {PERSON}
+QuoteIntent	tell all of us a few silly info for {PERSON}
+QuoteIntent	say all of us a few silly info for {PERSON}
+QuoteIntent	get me silly info for {PERSON}
+QuoteIntent	tell me silly info for {PERSON}
+QuoteIntent	say me silly info for {PERSON}
+QuoteIntent	get us silly info for {PERSON}
+QuoteIntent	tell us silly info for {PERSON}
+QuoteIntent	say us silly info for {PERSON}
+QuoteIntent	get everyone silly info for {PERSON}
+QuoteIntent	tell everyone silly info for {PERSON}
+QuoteIntent	say everyone silly info for {PERSON}
+QuoteIntent	get all of us silly info for {PERSON}
+QuoteIntent	tell all of us silly info for {PERSON}
+QuoteIntent	say all of us silly info for {PERSON}
+QuoteIntent	get me some intersting info for {PERSON}
+QuoteIntent	tell me some intersting info for {PERSON}
+QuoteIntent	say me some intersting info for {PERSON}
+QuoteIntent	get us some intersting info for {PERSON}
+QuoteIntent	tell us some intersting info for {PERSON}
+QuoteIntent	say us some intersting info for {PERSON}
+QuoteIntent	get everyone some intersting info for {PERSON}
+QuoteIntent	tell everyone some intersting info for {PERSON}
+QuoteIntent	say everyone some intersting info for {PERSON}
+QuoteIntent	get all of us some intersting info for {PERSON}
+QuoteIntent	tell all of us some intersting info for {PERSON}
+QuoteIntent	say all of us some intersting info for {PERSON}
+QuoteIntent	get me a few intersting info for {PERSON}
+QuoteIntent	tell me a few intersting info for {PERSON}
+QuoteIntent	say me a few intersting info for {PERSON}
+QuoteIntent	get us a few intersting info for {PERSON}
+QuoteIntent	tell us a few intersting info for {PERSON}
+QuoteIntent	say us a few intersting info for {PERSON}
+QuoteIntent	get everyone a few intersting info for {PERSON}
+QuoteIntent	tell everyone a few intersting info for {PERSON}
+QuoteIntent	say everyone a few intersting info for {PERSON}
+QuoteIntent	get all of us a few intersting info for {PERSON}
+QuoteIntent	tell all of us a few intersting info for {PERSON}
+QuoteIntent	say all of us a few intersting info for {PERSON}
+QuoteIntent	get me intersting info for {PERSON}
+QuoteIntent	tell me intersting info for {PERSON}
+QuoteIntent	say me intersting info for {PERSON}
+QuoteIntent	get us intersting info for {PERSON}
+QuoteIntent	tell us intersting info for {PERSON}
+QuoteIntent	say us intersting info for {PERSON}
+QuoteIntent	get everyone intersting info for {PERSON}
+QuoteIntent	tell everyone intersting info for {PERSON}
+QuoteIntent	say everyone intersting info for {PERSON}
+QuoteIntent	get all of us intersting info for {PERSON}
+QuoteIntent	tell all of us intersting info for {PERSON}
+QuoteIntent	say all of us intersting info for {PERSON}
+QuoteIntent	get me some manly info for {PERSON}
+QuoteIntent	tell me some manly info for {PERSON}
+QuoteIntent	say me some manly info for {PERSON}
+QuoteIntent	get us some manly info for {PERSON}
+QuoteIntent	tell us some manly info for {PERSON}
+QuoteIntent	say us some manly info for {PERSON}
+QuoteIntent	get everyone some manly info for {PERSON}
+QuoteIntent	tell everyone some manly info for {PERSON}
+QuoteIntent	say everyone some manly info for {PERSON}
+QuoteIntent	get all of us some manly info for {PERSON}
+QuoteIntent	tell all of us some manly info for {PERSON}
+QuoteIntent	say all of us some manly info for {PERSON}
+QuoteIntent	get me a few manly info for {PERSON}
+QuoteIntent	tell me a few manly info for {PERSON}
+QuoteIntent	say me a few manly info for {PERSON}
+QuoteIntent	get us a few manly info for {PERSON}
+QuoteIntent	tell us a few manly info for {PERSON}
+QuoteIntent	say us a few manly info for {PERSON}
+QuoteIntent	get everyone a few manly info for {PERSON}
+QuoteIntent	tell everyone a few manly info for {PERSON}
+QuoteIntent	say everyone a few manly info for {PERSON}
+QuoteIntent	get all of us a few manly info for {PERSON}
+QuoteIntent	tell all of us a few manly info for {PERSON}
+QuoteIntent	say all of us a few manly info for {PERSON}
+QuoteIntent	get me manly info for {PERSON}
+QuoteIntent	tell me manly info for {PERSON}
+QuoteIntent	say me manly info for {PERSON}
+QuoteIntent	get us manly info for {PERSON}
+QuoteIntent	tell us manly info for {PERSON}
+QuoteIntent	say us manly info for {PERSON}
+QuoteIntent	get everyone manly info for {PERSON}
+QuoteIntent	tell everyone manly info for {PERSON}
+QuoteIntent	say everyone manly info for {PERSON}
+QuoteIntent	get all of us manly info for {PERSON}
+QuoteIntent	tell all of us manly info for {PERSON}
+QuoteIntent	say all of us manly info for {PERSON}
+QuoteIntent	get me some info for {PERSON}
+QuoteIntent	tell me some info for {PERSON}
+QuoteIntent	say me some info for {PERSON}
+QuoteIntent	get us some info for {PERSON}
+QuoteIntent	tell us some info for {PERSON}
+QuoteIntent	say us some info for {PERSON}
+QuoteIntent	get everyone some info for {PERSON}
+QuoteIntent	tell everyone some info for {PERSON}
+QuoteIntent	say everyone some info for {PERSON}
+QuoteIntent	get all of us some info for {PERSON}
+QuoteIntent	tell all of us some info for {PERSON}
+QuoteIntent	say all of us some info for {PERSON}
+QuoteIntent	get me a few info for {PERSON}
+QuoteIntent	tell me a few info for {PERSON}
+QuoteIntent	say me a few info for {PERSON}
+QuoteIntent	get us a few info for {PERSON}
+QuoteIntent	tell us a few info for {PERSON}
+QuoteIntent	say us a few info for {PERSON}
+QuoteIntent	get everyone a few info for {PERSON}
+QuoteIntent	tell everyone a few info for {PERSON}
+QuoteIntent	say everyone a few info for {PERSON}
+QuoteIntent	get all of us a few info for {PERSON}
+QuoteIntent	tell all of us a few info for {PERSON}
+QuoteIntent	say all of us a few info for {PERSON}
+QuoteIntent	get me info for {PERSON}
+QuoteIntent	tell me info for {PERSON}
+QuoteIntent	say me info for {PERSON}
+QuoteIntent	get us info for {PERSON}
+QuoteIntent	tell us info for {PERSON}
+QuoteIntent	say us info for {PERSON}
+QuoteIntent	get everyone info for {PERSON}
+QuoteIntent	tell everyone info for {PERSON}
+QuoteIntent	say everyone info for {PERSON}
+QuoteIntent	get all of us info for {PERSON}
+QuoteIntent	tell all of us info for {PERSON}
+QuoteIntent	say all of us info for {PERSON}
+QuoteIntent	get me some fun facts for {PERSON}
+QuoteIntent	tell me some fun facts for {PERSON}
+QuoteIntent	say me some fun facts for {PERSON}
+QuoteIntent	get us some fun facts for {PERSON}
+QuoteIntent	tell us some fun facts for {PERSON}
+QuoteIntent	say us some fun facts for {PERSON}
+QuoteIntent	get everyone some fun facts for {PERSON}
+QuoteIntent	tell everyone some fun facts for {PERSON}
+QuoteIntent	say everyone some fun facts for {PERSON}
+QuoteIntent	get all of us some fun facts for {PERSON}
+QuoteIntent	tell all of us some fun facts for {PERSON}
+QuoteIntent	say all of us some fun facts for {PERSON}
+QuoteIntent	get me a few fun facts for {PERSON}
+QuoteIntent	tell me a few fun facts for {PERSON}
+QuoteIntent	say me a few fun facts for {PERSON}
+QuoteIntent	get us a few fun facts for {PERSON}
+QuoteIntent	tell us a few fun facts for {PERSON}
+QuoteIntent	say us a few fun facts for {PERSON}
+QuoteIntent	get everyone a few fun facts for {PERSON}
+QuoteIntent	tell everyone a few fun facts for {PERSON}
+QuoteIntent	say everyone a few fun facts for {PERSON}
+QuoteIntent	get all of us a few fun facts for {PERSON}
+QuoteIntent	tell all of us a few fun facts for {PERSON}
+QuoteIntent	say all of us a few fun facts for {PERSON}
+QuoteIntent	get me fun facts for {PERSON}
+QuoteIntent	tell me fun facts for {PERSON}
+QuoteIntent	say me fun facts for {PERSON}
+QuoteIntent	get us fun facts for {PERSON}
+QuoteIntent	tell us fun facts for {PERSON}
+QuoteIntent	say us fun facts for {PERSON}
+QuoteIntent	get everyone fun facts for {PERSON}
+QuoteIntent	tell everyone fun facts for {PERSON}
+QuoteIntent	say everyone fun facts for {PERSON}
+QuoteIntent	get all of us fun facts for {PERSON}
+QuoteIntent	tell all of us fun facts for {PERSON}
+QuoteIntent	say all of us fun facts for {PERSON}
+QuoteIntent	get me some silly facts for {PERSON}
+QuoteIntent	tell me some silly facts for {PERSON}
+QuoteIntent	say me some silly facts for {PERSON}
+QuoteIntent	get us some silly facts for {PERSON}
+QuoteIntent	tell us some silly facts for {PERSON}
+QuoteIntent	say us some silly facts for {PERSON}
+QuoteIntent	get everyone some silly facts for {PERSON}
+QuoteIntent	tell everyone some silly facts for {PERSON}
+QuoteIntent	say everyone some silly facts for {PERSON}
+QuoteIntent	get all of us some silly facts for {PERSON}
+QuoteIntent	tell all of us some silly facts for {PERSON}
+QuoteIntent	say all of us some silly facts for {PERSON}
+QuoteIntent	get me a few silly facts for {PERSON}
+QuoteIntent	tell me a few silly facts for {PERSON}
+QuoteIntent	say me a few silly facts for {PERSON}
+QuoteIntent	get us a few silly facts for {PERSON}
+QuoteIntent	tell us a few silly facts for {PERSON}
+QuoteIntent	say us a few silly facts for {PERSON}
+QuoteIntent	get everyone a few silly facts for {PERSON}
+QuoteIntent	tell everyone a few silly facts for {PERSON}
+QuoteIntent	say everyone a few silly facts for {PERSON}
+QuoteIntent	get all of us a few silly facts for {PERSON}
+QuoteIntent	tell all of us a few silly facts for {PERSON}
+QuoteIntent	say all of us a few silly facts for {PERSON}
+QuoteIntent	get me silly facts for {PERSON}
+QuoteIntent	tell me silly facts for {PERSON}
+QuoteIntent	say me silly facts for {PERSON}
+QuoteIntent	get us silly facts for {PERSON}
+QuoteIntent	tell us silly facts for {PERSON}
+QuoteIntent	say us silly facts for {PERSON}
+QuoteIntent	get everyone silly facts for {PERSON}
+QuoteIntent	tell everyone silly facts for {PERSON}
+QuoteIntent	say everyone silly facts for {PERSON}
+QuoteIntent	get all of us silly facts for {PERSON}
+QuoteIntent	tell all of us silly facts for {PERSON}
+QuoteIntent	say all of us silly facts for {PERSON}
+QuoteIntent	get me some intersting facts for {PERSON}
+QuoteIntent	tell me some intersting facts for {PERSON}
+QuoteIntent	say me some intersting facts for {PERSON}
+QuoteIntent	get us some intersting facts for {PERSON}
+QuoteIntent	tell us some intersting facts for {PERSON}
+QuoteIntent	say us some intersting facts for {PERSON}
+QuoteIntent	get everyone some intersting facts for {PERSON}
+QuoteIntent	tell everyone some intersting facts for {PERSON}
+QuoteIntent	say everyone some intersting facts for {PERSON}
+QuoteIntent	get all of us some intersting facts for {PERSON}
+QuoteIntent	tell all of us some intersting facts for {PERSON}
+QuoteIntent	say all of us some intersting facts for {PERSON}
+QuoteIntent	get me a few intersting facts for {PERSON}
+QuoteIntent	tell me a few intersting facts for {PERSON}
+QuoteIntent	say me a few intersting facts for {PERSON}
+QuoteIntent	get us a few intersting facts for {PERSON}
+QuoteIntent	tell us a few intersting facts for {PERSON}
+QuoteIntent	say us a few intersting facts for {PERSON}
+QuoteIntent	get everyone a few intersting facts for {PERSON}
+QuoteIntent	tell everyone a few intersting facts for {PERSON}
+QuoteIntent	say everyone a few intersting facts for {PERSON}
+QuoteIntent	get all of us a few intersting facts for {PERSON}
+QuoteIntent	tell all of us a few intersting facts for {PERSON}
+QuoteIntent	say all of us a few intersting facts for {PERSON}
+QuoteIntent	get me intersting facts for {PERSON}
+QuoteIntent	tell me intersting facts for {PERSON}
+QuoteIntent	say me intersting facts for {PERSON}
+QuoteIntent	get us intersting facts for {PERSON}
+QuoteIntent	tell us intersting facts for {PERSON}
+QuoteIntent	say us intersting facts for {PERSON}
+QuoteIntent	get everyone intersting facts for {PERSON}
+QuoteIntent	tell everyone intersting facts for {PERSON}
+QuoteIntent	say everyone intersting facts for {PERSON}
+QuoteIntent	get all of us intersting facts for {PERSON}
+QuoteIntent	tell all of us intersting facts for {PERSON}
+QuoteIntent	say all of us intersting facts for {PERSON}
+QuoteIntent	get me some manly facts for {PERSON}
+QuoteIntent	tell me some manly facts for {PERSON}
+QuoteIntent	say me some manly facts for {PERSON}
+QuoteIntent	get us some manly facts for {PERSON}
+QuoteIntent	tell us some manly facts for {PERSON}
+QuoteIntent	say us some manly facts for {PERSON}
+QuoteIntent	get everyone some manly facts for {PERSON}
+QuoteIntent	tell everyone some manly facts for {PERSON}
+QuoteIntent	say everyone some manly facts for {PERSON}
+QuoteIntent	get all of us some manly facts for {PERSON}
+QuoteIntent	tell all of us some manly facts for {PERSON}
+QuoteIntent	say all of us some manly facts for {PERSON}
+QuoteIntent	get me a few manly facts for {PERSON}
+QuoteIntent	tell me a few manly facts for {PERSON}
+QuoteIntent	say me a few manly facts for {PERSON}
+QuoteIntent	get us a few manly facts for {PERSON}
+QuoteIntent	tell us a few manly facts for {PERSON}
+QuoteIntent	say us a few manly facts for {PERSON}
+QuoteIntent	get everyone a few manly facts for {PERSON}
+QuoteIntent	tell everyone a few manly facts for {PERSON}
+QuoteIntent	say everyone a few manly facts for {PERSON}
+QuoteIntent	get all of us a few manly facts for {PERSON}
+QuoteIntent	tell all of us a few manly facts for {PERSON}
+QuoteIntent	say all of us a few manly facts for {PERSON}
+QuoteIntent	get me manly facts for {PERSON}
+QuoteIntent	tell me manly facts for {PERSON}
+QuoteIntent	say me manly facts for {PERSON}
+QuoteIntent	get us manly facts for {PERSON}
+QuoteIntent	tell us manly facts for {PERSON}
+QuoteIntent	say us manly facts for {PERSON}
+QuoteIntent	get everyone manly facts for {PERSON}
+QuoteIntent	tell everyone manly facts for {PERSON}
+QuoteIntent	say everyone manly facts for {PERSON}
+QuoteIntent	get all of us manly facts for {PERSON}
+QuoteIntent	tell all of us manly facts for {PERSON}
+QuoteIntent	say all of us manly facts for {PERSON}
+QuoteIntent	get me some facts for {PERSON}
+QuoteIntent	tell me some facts for {PERSON}
+QuoteIntent	say me some facts for {PERSON}
+QuoteIntent	get us some facts for {PERSON}
+QuoteIntent	tell us some facts for {PERSON}
+QuoteIntent	say us some facts for {PERSON}
+QuoteIntent	get everyone some facts for {PERSON}
+QuoteIntent	tell everyone some facts for {PERSON}
+QuoteIntent	say everyone some facts for {PERSON}
+QuoteIntent	get all of us some facts for {PERSON}
+QuoteIntent	tell all of us some facts for {PERSON}
+QuoteIntent	say all of us some facts for {PERSON}
+QuoteIntent	get me a few facts for {PERSON}
+QuoteIntent	tell me a few facts for {PERSON}
+QuoteIntent	say me a few facts for {PERSON}
+QuoteIntent	get us a few facts for {PERSON}
+QuoteIntent	tell us a few facts for {PERSON}
+QuoteIntent	say us a few facts for {PERSON}
+QuoteIntent	get everyone a few facts for {PERSON}
+QuoteIntent	tell everyone a few facts for {PERSON}
+QuoteIntent	say everyone a few facts for {PERSON}
+QuoteIntent	get all of us a few facts for {PERSON}
+QuoteIntent	tell all of us a few facts for {PERSON}
+QuoteIntent	say all of us a few facts for {PERSON}
+QuoteIntent	get me facts for {PERSON}
+QuoteIntent	tell me facts for {PERSON}
+QuoteIntent	say me facts for {PERSON}
+QuoteIntent	get us facts for {PERSON}
+QuoteIntent	tell us facts for {PERSON}
+QuoteIntent	say us facts for {PERSON}
+QuoteIntent	get everyone facts for {PERSON}
+QuoteIntent	tell everyone facts for {PERSON}
+QuoteIntent	say everyone facts for {PERSON}
+QuoteIntent	get all of us facts for {PERSON}
+QuoteIntent	tell all of us facts for {PERSON}
+QuoteIntent	say all of us facts for {PERSON}
+QuoteIntent	get me some fun quotes for {PERSON}
+QuoteIntent	tell me some fun quotes for {PERSON}
+QuoteIntent	say me some fun quotes for {PERSON}
+QuoteIntent	get us some fun quotes for {PERSON}
+QuoteIntent	tell us some fun quotes for {PERSON}
+QuoteIntent	say us some fun quotes for {PERSON}
+QuoteIntent	get everyone some fun quotes for {PERSON}
+QuoteIntent	tell everyone some fun quotes for {PERSON}
+QuoteIntent	say everyone some fun quotes for {PERSON}
+QuoteIntent	get all of us some fun quotes for {PERSON}
+QuoteIntent	tell all of us some fun quotes for {PERSON}
+QuoteIntent	say all of us some fun quotes for {PERSON}
+QuoteIntent	get me a few fun quotes for {PERSON}
+QuoteIntent	tell me a few fun quotes for {PERSON}
+QuoteIntent	say me a few fun quotes for {PERSON}
+QuoteIntent	get us a few fun quotes for {PERSON}
+QuoteIntent	tell us a few fun quotes for {PERSON}
+QuoteIntent	say us a few fun quotes for {PERSON}
+QuoteIntent	get everyone a few fun quotes for {PERSON}
+QuoteIntent	tell everyone a few fun quotes for {PERSON}
+QuoteIntent	say everyone a few fun quotes for {PERSON}
+QuoteIntent	get all of us a few fun quotes for {PERSON}
+QuoteIntent	tell all of us a few fun quotes for {PERSON}
+QuoteIntent	say all of us a few fun quotes for {PERSON}
+QuoteIntent	get me fun quotes for {PERSON}
+QuoteIntent	tell me fun quotes for {PERSON}
+QuoteIntent	say me fun quotes for {PERSON}
+QuoteIntent	get us fun quotes for {PERSON}
+QuoteIntent	tell us fun quotes for {PERSON}
+QuoteIntent	say us fun quotes for {PERSON}
+QuoteIntent	get everyone fun quotes for {PERSON}
+QuoteIntent	tell everyone fun quotes for {PERSON}
+QuoteIntent	say everyone fun quotes for {PERSON}
+QuoteIntent	get all of us fun quotes for {PERSON}
+QuoteIntent	tell all of us fun quotes for {PERSON}
+QuoteIntent	say all of us fun quotes for {PERSON}
+QuoteIntent	get me some silly quotes for {PERSON}
+QuoteIntent	tell me some silly quotes for {PERSON}
+QuoteIntent	say me some silly quotes for {PERSON}
+QuoteIntent	get us some silly quotes for {PERSON}
+QuoteIntent	tell us some silly quotes for {PERSON}
+QuoteIntent	say us some silly quotes for {PERSON}
+QuoteIntent	get everyone some silly quotes for {PERSON}
+QuoteIntent	tell everyone some silly quotes for {PERSON}
+QuoteIntent	say everyone some silly quotes for {PERSON}
+QuoteIntent	get all of us some silly quotes for {PERSON}
+QuoteIntent	tell all of us some silly quotes for {PERSON}
+QuoteIntent	say all of us some silly quotes for {PERSON}
+QuoteIntent	get me a few silly quotes for {PERSON}
+QuoteIntent	tell me a few silly quotes for {PERSON}
+QuoteIntent	say me a few silly quotes for {PERSON}
+QuoteIntent	get us a few silly quotes for {PERSON}
+QuoteIntent	tell us a few silly quotes for {PERSON}
+QuoteIntent	say us a few silly quotes for {PERSON}
+QuoteIntent	get everyone a few silly quotes for {PERSON}
+QuoteIntent	tell everyone a few silly quotes for {PERSON}
+QuoteIntent	say everyone a few silly quotes for {PERSON}
+QuoteIntent	get all of us a few silly quotes for {PERSON}
+QuoteIntent	tell all of us a few silly quotes for {PERSON}
+QuoteIntent	say all of us a few silly quotes for {PERSON}
+QuoteIntent	get me silly quotes for {PERSON}
+QuoteIntent	tell me silly quotes for {PERSON}
+QuoteIntent	say me silly quotes for {PERSON}
+QuoteIntent	get us silly quotes for {PERSON}
+QuoteIntent	tell us silly quotes for {PERSON}
+QuoteIntent	say us silly quotes for {PERSON}
+QuoteIntent	get everyone silly quotes for {PERSON}
+QuoteIntent	tell everyone silly quotes for {PERSON}
+QuoteIntent	say everyone silly quotes for {PERSON}
+QuoteIntent	get all of us silly quotes for {PERSON}
+QuoteIntent	tell all of us silly quotes for {PERSON}
+QuoteIntent	say all of us silly quotes for {PERSON}
+QuoteIntent	get me some intersting quotes for {PERSON}
+QuoteIntent	tell me some intersting quotes for {PERSON}
+QuoteIntent	say me some intersting quotes for {PERSON}
+QuoteIntent	get us some intersting quotes for {PERSON}
+QuoteIntent	tell us some intersting quotes for {PERSON}
+QuoteIntent	say us some intersting quotes for {PERSON}
+QuoteIntent	get everyone some intersting quotes for {PERSON}
+QuoteIntent	tell everyone some intersting quotes for {PERSON}
+QuoteIntent	say everyone some intersting quotes for {PERSON}
+QuoteIntent	get all of us some intersting quotes for {PERSON}
+QuoteIntent	tell all of us some intersting quotes for {PERSON}
+QuoteIntent	say all of us some intersting quotes for {PERSON}
+QuoteIntent	get me a few intersting quotes for {PERSON}
+QuoteIntent	tell me a few intersting quotes for {PERSON}
+QuoteIntent	say me a few intersting quotes for {PERSON}
+QuoteIntent	get us a few intersting quotes for {PERSON}
+QuoteIntent	tell us a few intersting quotes for {PERSON}
+QuoteIntent	say us a few intersting quotes for {PERSON}
+QuoteIntent	get everyone a few intersting quotes for {PERSON}
+QuoteIntent	tell everyone a few intersting quotes for {PERSON}
+QuoteIntent	say everyone a few intersting quotes for {PERSON}
+QuoteIntent	get all of us a few intersting quotes for {PERSON}
+QuoteIntent	tell all of us a few intersting quotes for {PERSON}
+QuoteIntent	say all of us a few intersting quotes for {PERSON}
+QuoteIntent	get me intersting quotes for {PERSON}
+QuoteIntent	tell me intersting quotes for {PERSON}
+QuoteIntent	say me intersting quotes for {PERSON}
+QuoteIntent	get us intersting quotes for {PERSON}
+QuoteIntent	tell us intersting quotes for {PERSON}
+QuoteIntent	say us intersting quotes for {PERSON}
+QuoteIntent	get everyone intersting quotes for {PERSON}
+QuoteIntent	tell everyone intersting quotes for {PERSON}
+QuoteIntent	say everyone intersting quotes for {PERSON}
+QuoteIntent	get all of us intersting quotes for {PERSON}
+QuoteIntent	tell all of us intersting quotes for {PERSON}
+QuoteIntent	say all of us intersting quotes for {PERSON}
+QuoteIntent	get me some manly quotes for {PERSON}
+QuoteIntent	tell me some manly quotes for {PERSON}
+QuoteIntent	say me some manly quotes for {PERSON}
+QuoteIntent	get us some manly quotes for {PERSON}
+QuoteIntent	tell us some manly quotes for {PERSON}
+QuoteIntent	say us some manly quotes for {PERSON}
+QuoteIntent	get everyone some manly quotes for {PERSON}
+QuoteIntent	tell everyone some manly quotes for {PERSON}
+QuoteIntent	say everyone some manly quotes for {PERSON}
+QuoteIntent	get all of us some manly quotes for {PERSON}
+QuoteIntent	tell all of us some manly quotes for {PERSON}
+QuoteIntent	say all of us some manly quotes for {PERSON}
+QuoteIntent	get me a few manly quotes for {PERSON}
+QuoteIntent	tell me a few manly quotes for {PERSON}
+QuoteIntent	say me a few manly quotes for {PERSON}
+QuoteIntent	get us a few manly quotes for {PERSON}
+QuoteIntent	tell us a few manly quotes for {PERSON}
+QuoteIntent	say us a few manly quotes for {PERSON}
+QuoteIntent	get everyone a few manly quotes for {PERSON}
+QuoteIntent	tell everyone a few manly quotes for {PERSON}
+QuoteIntent	say everyone a few manly quotes for {PERSON}
+QuoteIntent	get all of us a few manly quotes for {PERSON}
+QuoteIntent	tell all of us a few manly quotes for {PERSON}
+QuoteIntent	say all of us a few manly quotes for {PERSON}
+QuoteIntent	get me manly quotes for {PERSON}
+QuoteIntent	tell me manly quotes for {PERSON}
+QuoteIntent	say me manly quotes for {PERSON}
+QuoteIntent	get us manly quotes for {PERSON}
+QuoteIntent	tell us manly quotes for {PERSON}
+QuoteIntent	say us manly quotes for {PERSON}
+QuoteIntent	get everyone manly quotes for {PERSON}
+QuoteIntent	tell everyone manly quotes for {PERSON}
+QuoteIntent	say everyone manly quotes for {PERSON}
+QuoteIntent	get all of us manly quotes for {PERSON}
+QuoteIntent	tell all of us manly quotes for {PERSON}
+QuoteIntent	say all of us manly quotes for {PERSON}
+QuoteIntent	get me some quotes for {PERSON}
+QuoteIntent	tell me some quotes for {PERSON}
+QuoteIntent	say me some quotes for {PERSON}
+QuoteIntent	get us some quotes for {PERSON}
+QuoteIntent	tell us some quotes for {PERSON}
+QuoteIntent	say us some quotes for {PERSON}
+QuoteIntent	get everyone some quotes for {PERSON}
+QuoteIntent	tell everyone some quotes for {PERSON}
+QuoteIntent	say everyone some quotes for {PERSON}
+QuoteIntent	get all of us some quotes for {PERSON}
+QuoteIntent	tell all of us some quotes for {PERSON}
+QuoteIntent	say all of us some quotes for {PERSON}
+QuoteIntent	get me a few quotes for {PERSON}
+QuoteIntent	tell me a few quotes for {PERSON}
+QuoteIntent	say me a few quotes for {PERSON}
+QuoteIntent	get us a few quotes for {PERSON}
+QuoteIntent	tell us a few quotes for {PERSON}
+QuoteIntent	say us a few quotes for {PERSON}
+QuoteIntent	get everyone a few quotes for {PERSON}
+QuoteIntent	tell everyone a few quotes for {PERSON}
+QuoteIntent	say everyone a few quotes for {PERSON}
+QuoteIntent	get all of us a few quotes for {PERSON}
+QuoteIntent	tell all of us a few quotes for {PERSON}
+QuoteIntent	say all of us a few quotes for {PERSON}
+QuoteIntent	get me quotes for {PERSON}
+QuoteIntent	tell me quotes for {PERSON}
+QuoteIntent	say me quotes for {PERSON}
+QuoteIntent	get us quotes for {PERSON}
+QuoteIntent	tell us quotes for {PERSON}
+QuoteIntent	say us quotes for {PERSON}
+QuoteIntent	get everyone quotes for {PERSON}
+QuoteIntent	tell everyone quotes for {PERSON}
+QuoteIntent	say everyone quotes for {PERSON}
+QuoteIntent	get all of us quotes for {PERSON}
+QuoteIntent	tell all of us quotes for {PERSON}
+QuoteIntent	say all of us quotes for {PERSON}
+QuoteIntent	get me some fun data for {PERSON}
+QuoteIntent	tell me some fun data for {PERSON}
+QuoteIntent	say me some fun data for {PERSON}
+QuoteIntent	get us some fun data for {PERSON}
+QuoteIntent	tell us some fun data for {PERSON}
+QuoteIntent	say us some fun data for {PERSON}
+QuoteIntent	get everyone some fun data for {PERSON}
+QuoteIntent	tell everyone some fun data for {PERSON}
+QuoteIntent	say everyone some fun data for {PERSON}
+QuoteIntent	get all of us some fun data for {PERSON}
+QuoteIntent	tell all of us some fun data for {PERSON}
+QuoteIntent	say all of us some fun data for {PERSON}
+QuoteIntent	get me a few fun data for {PERSON}
+QuoteIntent	tell me a few fun data for {PERSON}
+QuoteIntent	say me a few fun data for {PERSON}
+QuoteIntent	get us a few fun data for {PERSON}
+QuoteIntent	tell us a few fun data for {PERSON}
+QuoteIntent	say us a few fun data for {PERSON}
+QuoteIntent	get everyone a few fun data for {PERSON}
+QuoteIntent	tell everyone a few fun data for {PERSON}
+QuoteIntent	say everyone a few fun data for {PERSON}
+QuoteIntent	get all of us a few fun data for {PERSON}
+QuoteIntent	tell all of us a few fun data for {PERSON}
+QuoteIntent	say all of us a few fun data for {PERSON}
+QuoteIntent	get me fun data for {PERSON}
+QuoteIntent	tell me fun data for {PERSON}
+QuoteIntent	say me fun data for {PERSON}
+QuoteIntent	get us fun data for {PERSON}
+QuoteIntent	tell us fun data for {PERSON}
+QuoteIntent	say us fun data for {PERSON}
+QuoteIntent	get everyone fun data for {PERSON}
+QuoteIntent	tell everyone fun data for {PERSON}
+QuoteIntent	say everyone fun data for {PERSON}
+QuoteIntent	get all of us fun data for {PERSON}
+QuoteIntent	tell all of us fun data for {PERSON}
+QuoteIntent	say all of us fun data for {PERSON}
+QuoteIntent	get me some silly data for {PERSON}
+QuoteIntent	tell me some silly data for {PERSON}
+QuoteIntent	say me some silly data for {PERSON}
+QuoteIntent	get us some silly data for {PERSON}
+QuoteIntent	tell us some silly data for {PERSON}
+QuoteIntent	say us some silly data for {PERSON}
+QuoteIntent	get everyone some silly data for {PERSON}
+QuoteIntent	tell everyone some silly data for {PERSON}
+QuoteIntent	say everyone some silly data for {PERSON}
+QuoteIntent	get all of us some silly data for {PERSON}
+QuoteIntent	tell all of us some silly data for {PERSON}
+QuoteIntent	say all of us some silly data for {PERSON}
+QuoteIntent	get me a few silly data for {PERSON}
+QuoteIntent	tell me a few silly data for {PERSON}
+QuoteIntent	say me a few silly data for {PERSON}
+QuoteIntent	get us a few silly data for {PERSON}
+QuoteIntent	tell us a few silly data for {PERSON}
+QuoteIntent	say us a few silly data for {PERSON}
+QuoteIntent	get everyone a few silly data for {PERSON}
+QuoteIntent	tell everyone a few silly data for {PERSON}
+QuoteIntent	say everyone a few silly data for {PERSON}
+QuoteIntent	get all of us a few silly data for {PERSON}
+QuoteIntent	tell all of us a few silly data for {PERSON}
+QuoteIntent	say all of us a few silly data for {PERSON}
+QuoteIntent	get me silly data for {PERSON}
+QuoteIntent	tell me silly data for {PERSON}
+QuoteIntent	say me silly data for {PERSON}
+QuoteIntent	get us silly data for {PERSON}
+QuoteIntent	tell us silly data for {PERSON}
+QuoteIntent	say us silly data for {PERSON}
+QuoteIntent	get everyone silly data for {PERSON}
+QuoteIntent	tell everyone silly data for {PERSON}
+QuoteIntent	say everyone silly data for {PERSON}
+QuoteIntent	get all of us silly data for {PERSON}
+QuoteIntent	tell all of us silly data for {PERSON}
+QuoteIntent	say all of us silly data for {PERSON}
+QuoteIntent	get me some intersting data for {PERSON}
+QuoteIntent	tell me some intersting data for {PERSON}
+QuoteIntent	say me some intersting data for {PERSON}
+QuoteIntent	get us some intersting data for {PERSON}
+QuoteIntent	tell us some intersting data for {PERSON}
+QuoteIntent	say us some intersting data for {PERSON}
+QuoteIntent	get everyone some intersting data for {PERSON}
+QuoteIntent	tell everyone some intersting data for {PERSON}
+QuoteIntent	say everyone some intersting data for {PERSON}
+QuoteIntent	get all of us some intersting data for {PERSON}
+QuoteIntent	tell all of us some intersting data for {PERSON}
+QuoteIntent	say all of us some intersting data for {PERSON}
+QuoteIntent	get me a few intersting data for {PERSON}
+QuoteIntent	tell me a few intersting data for {PERSON}
+QuoteIntent	say me a few intersting data for {PERSON}
+QuoteIntent	get us a few intersting data for {PERSON}
+QuoteIntent	tell us a few intersting data for {PERSON}
+QuoteIntent	say us a few intersting data for {PERSON}
+QuoteIntent	get everyone a few intersting data for {PERSON}
+QuoteIntent	tell everyone a few intersting data for {PERSON}
+QuoteIntent	say everyone a few intersting data for {PERSON}
+QuoteIntent	get all of us a few intersting data for {PERSON}
+QuoteIntent	tell all of us a few intersting data for {PERSON}
+QuoteIntent	say all of us a few intersting data for {PERSON}
+QuoteIntent	get me intersting data for {PERSON}
+QuoteIntent	tell me intersting data for {PERSON}
+QuoteIntent	say me intersting data for {PERSON}
+QuoteIntent	get us intersting data for {PERSON}
+QuoteIntent	tell us intersting data for {PERSON}
+QuoteIntent	say us intersting data for {PERSON}
+QuoteIntent	get everyone intersting data for {PERSON}
+QuoteIntent	tell everyone intersting data for {PERSON}
+QuoteIntent	say everyone intersting data for {PERSON}
+QuoteIntent	get all of us intersting data for {PERSON}
+QuoteIntent	tell all of us intersting data for {PERSON}
+QuoteIntent	say all of us intersting data for {PERSON}
+QuoteIntent	get me some manly data for {PERSON}
+QuoteIntent	tell me some manly data for {PERSON}
+QuoteIntent	say me some manly data for {PERSON}
+QuoteIntent	get us some manly data for {PERSON}
+QuoteIntent	tell us some manly data for {PERSON}
+QuoteIntent	say us some manly data for {PERSON}
+QuoteIntent	get everyone some manly data for {PERSON}
+QuoteIntent	tell everyone some manly data for {PERSON}
+QuoteIntent	say everyone some manly data for {PERSON}
+QuoteIntent	get all of us some manly data for {PERSON}
+QuoteIntent	tell all of us some manly data for {PERSON}
+QuoteIntent	say all of us some manly data for {PERSON}
+QuoteIntent	get me a few manly data for {PERSON}
+QuoteIntent	tell me a few manly data for {PERSON}
+QuoteIntent	say me a few manly data for {PERSON}
+QuoteIntent	get us a few manly data for {PERSON}
+QuoteIntent	tell us a few manly data for {PERSON}
+QuoteIntent	say us a few manly data for {PERSON}
+QuoteIntent	get everyone a few manly data for {PERSON}
+QuoteIntent	tell everyone a few manly data for {PERSON}
+QuoteIntent	say everyone a few manly data for {PERSON}
+QuoteIntent	get all of us a few manly data for {PERSON}
+QuoteIntent	tell all of us a few manly data for {PERSON}
+QuoteIntent	say all of us a few manly data for {PERSON}
+QuoteIntent	get me manly data for {PERSON}
+QuoteIntent	tell me manly data for {PERSON}
+QuoteIntent	say me manly data for {PERSON}
+QuoteIntent	get us manly data for {PERSON}
+QuoteIntent	tell us manly data for {PERSON}
+QuoteIntent	say us manly data for {PERSON}
+QuoteIntent	get everyone manly data for {PERSON}
+QuoteIntent	tell everyone manly data for {PERSON}
+QuoteIntent	say everyone manly data for {PERSON}
+QuoteIntent	get all of us manly data for {PERSON}
+QuoteIntent	tell all of us manly data for {PERSON}
+QuoteIntent	say all of us manly data for {PERSON}
+QuoteIntent	get me some data for {PERSON}
+QuoteIntent	tell me some data for {PERSON}
+QuoteIntent	say me some data for {PERSON}
+QuoteIntent	get us some data for {PERSON}
+QuoteIntent	tell us some data for {PERSON}
+QuoteIntent	say us some data for {PERSON}
+QuoteIntent	get everyone some data for {PERSON}
+QuoteIntent	tell everyone some data for {PERSON}
+QuoteIntent	say everyone some data for {PERSON}
+QuoteIntent	get all of us some data for {PERSON}
+QuoteIntent	tell all of us some data for {PERSON}
+QuoteIntent	say all of us some data for {PERSON}
+QuoteIntent	get me a few data for {PERSON}
+QuoteIntent	tell me a few data for {PERSON}
+QuoteIntent	say me a few data for {PERSON}
+QuoteIntent	get us a few data for {PERSON}
+QuoteIntent	tell us a few data for {PERSON}
+QuoteIntent	say us a few data for {PERSON}
+QuoteIntent	get everyone a few data for {PERSON}
+QuoteIntent	tell everyone a few data for {PERSON}
+QuoteIntent	say everyone a few data for {PERSON}
+QuoteIntent	get all of us a few data for {PERSON}
+QuoteIntent	tell all of us a few data for {PERSON}
+QuoteIntent	say all of us a few data for {PERSON}
+QuoteIntent	get me data for {PERSON}
+QuoteIntent	tell me data for {PERSON}
+QuoteIntent	say me data for {PERSON}
+QuoteIntent	get us data for {PERSON}
+QuoteIntent	tell us data for {PERSON}
+QuoteIntent	say us data for {PERSON}
+QuoteIntent	get everyone data for {PERSON}
+QuoteIntent	tell everyone data for {PERSON}
+QuoteIntent	say everyone data for {PERSON}
+QuoteIntent	get all of us data for {PERSON}
+QuoteIntent	tell all of us data for {PERSON}
+QuoteIntent	say all of us data for {PERSON}
+QuoteIntent	get me some fun info on {PERSON}
+QuoteIntent	tell me some fun info on {PERSON}
+QuoteIntent	say me some fun info on {PERSON}
+QuoteIntent	get us some fun info on {PERSON}
+QuoteIntent	tell us some fun info on {PERSON}
+QuoteIntent	say us some fun info on {PERSON}
+QuoteIntent	get everyone some fun info on {PERSON}
+QuoteIntent	tell everyone some fun info on {PERSON}
+QuoteIntent	say everyone some fun info on {PERSON}
+QuoteIntent	get all of us some fun info on {PERSON}
+QuoteIntent	tell all of us some fun info on {PERSON}
+QuoteIntent	say all of us some fun info on {PERSON}
+QuoteIntent	get me a few fun info on {PERSON}
+QuoteIntent	tell me a few fun info on {PERSON}
+QuoteIntent	say me a few fun info on {PERSON}
+QuoteIntent	get us a few fun info on {PERSON}
+QuoteIntent	tell us a few fun info on {PERSON}
+QuoteIntent	say us a few fun info on {PERSON}
+QuoteIntent	get everyone a few fun info on {PERSON}
+QuoteIntent	tell everyone a few fun info on {PERSON}
+QuoteIntent	say everyone a few fun info on {PERSON}
+QuoteIntent	get all of us a few fun info on {PERSON}
+QuoteIntent	tell all of us a few fun info on {PERSON}
+QuoteIntent	say all of us a few fun info on {PERSON}
+QuoteIntent	get me fun info on {PERSON}
+QuoteIntent	tell me fun info on {PERSON}
+QuoteIntent	say me fun info on {PERSON}
+QuoteIntent	get us fun info on {PERSON}
+QuoteIntent	tell us fun info on {PERSON}
+QuoteIntent	say us fun info on {PERSON}
+QuoteIntent	get everyone fun info on {PERSON}
+QuoteIntent	tell everyone fun info on {PERSON}
+QuoteIntent	say everyone fun info on {PERSON}
+QuoteIntent	get all of us fun info on {PERSON}
+QuoteIntent	tell all of us fun info on {PERSON}
+QuoteIntent	say all of us fun info on {PERSON}
+QuoteIntent	get me some silly info on {PERSON}
+QuoteIntent	tell me some silly info on {PERSON}
+QuoteIntent	say me some silly info on {PERSON}
+QuoteIntent	get us some silly info on {PERSON}
+QuoteIntent	tell us some silly info on {PERSON}
+QuoteIntent	say us some silly info on {PERSON}
+QuoteIntent	get everyone some silly info on {PERSON}
+QuoteIntent	tell everyone some silly info on {PERSON}
+QuoteIntent	say everyone some silly info on {PERSON}
+QuoteIntent	get all of us some silly info on {PERSON}
+QuoteIntent	tell all of us some silly info on {PERSON}
+QuoteIntent	say all of us some silly info on {PERSON}
+QuoteIntent	get me a few silly info on {PERSON}
+QuoteIntent	tell me a few silly info on {PERSON}
+QuoteIntent	say me a few silly info on {PERSON}
+QuoteIntent	get us a few silly info on {PERSON}
+QuoteIntent	tell us a few silly info on {PERSON}
+QuoteIntent	say us a few silly info on {PERSON}
+QuoteIntent	get everyone a few silly info on {PERSON}
+QuoteIntent	tell everyone a few silly info on {PERSON}
+QuoteIntent	say everyone a few silly info on {PERSON}
+QuoteIntent	get all of us a few silly info on {PERSON}
+QuoteIntent	tell all of us a few silly info on {PERSON}
+QuoteIntent	say all of us a few silly info on {PERSON}
+QuoteIntent	get me silly info on {PERSON}
+QuoteIntent	tell me silly info on {PERSON}
+QuoteIntent	say me silly info on {PERSON}
+QuoteIntent	get us silly info on {PERSON}
+QuoteIntent	tell us silly info on {PERSON}
+QuoteIntent	say us silly info on {PERSON}
+QuoteIntent	get everyone silly info on {PERSON}
+QuoteIntent	tell everyone silly info on {PERSON}
+QuoteIntent	say everyone silly info on {PERSON}
+QuoteIntent	get all of us silly info on {PERSON}
+QuoteIntent	tell all of us silly info on {PERSON}
+QuoteIntent	say all of us silly info on {PERSON}
+QuoteIntent	get me some intersting info on {PERSON}
+QuoteIntent	tell me some intersting info on {PERSON}
+QuoteIntent	say me some intersting info on {PERSON}
+QuoteIntent	get us some intersting info on {PERSON}
+QuoteIntent	tell us some intersting info on {PERSON}
+QuoteIntent	say us some intersting info on {PERSON}
+QuoteIntent	get everyone some intersting info on {PERSON}
+QuoteIntent	tell everyone some intersting info on {PERSON}
+QuoteIntent	say everyone some intersting info on {PERSON}
+QuoteIntent	get all of us some intersting info on {PERSON}
+QuoteIntent	tell all of us some intersting info on {PERSON}
+QuoteIntent	say all of us some intersting info on {PERSON}
+QuoteIntent	get me a few intersting info on {PERSON}
+QuoteIntent	tell me a few intersting info on {PERSON}
+QuoteIntent	say me a few intersting info on {PERSON}
+QuoteIntent	get us a few intersting info on {PERSON}
+QuoteIntent	tell us a few intersting info on {PERSON}
+QuoteIntent	say us a few intersting info on {PERSON}
+QuoteIntent	get everyone a few intersting info on {PERSON}
+QuoteIntent	tell everyone a few intersting info on {PERSON}
+QuoteIntent	say everyone a few intersting info on {PERSON}
+QuoteIntent	get all of us a few intersting info on {PERSON}
+QuoteIntent	tell all of us a few intersting info on {PERSON}
+QuoteIntent	say all of us a few intersting info on {PERSON}
+QuoteIntent	get me intersting info on {PERSON}
+QuoteIntent	tell me intersting info on {PERSON}
+QuoteIntent	say me intersting info on {PERSON}
+QuoteIntent	get us intersting info on {PERSON}
+QuoteIntent	tell us intersting info on {PERSON}
+QuoteIntent	say us intersting info on {PERSON}
+QuoteIntent	get everyone intersting info on {PERSON}
+QuoteIntent	tell everyone intersting info on {PERSON}
+QuoteIntent	say everyone intersting info on {PERSON}
+QuoteIntent	get all of us intersting info on {PERSON}
+QuoteIntent	tell all of us intersting info on {PERSON}
+QuoteIntent	say all of us intersting info on {PERSON}
+QuoteIntent	get me some manly info on {PERSON}
+QuoteIntent	tell me some manly info on {PERSON}
+QuoteIntent	say me some manly info on {PERSON}
+QuoteIntent	get us some manly info on {PERSON}
+QuoteIntent	tell us some manly info on {PERSON}
+QuoteIntent	say us some manly info on {PERSON}
+QuoteIntent	get everyone some manly info on {PERSON}
+QuoteIntent	tell everyone some manly info on {PERSON}
+QuoteIntent	say everyone some manly info on {PERSON}
+QuoteIntent	get all of us some manly info on {PERSON}
+QuoteIntent	tell all of us some manly info on {PERSON}
+QuoteIntent	say all of us some manly info on {PERSON}
+QuoteIntent	get me a few manly info on {PERSON}
+QuoteIntent	tell me a few manly info on {PERSON}
+QuoteIntent	say me a few manly info on {PERSON}
+QuoteIntent	get us a few manly info on {PERSON}
+QuoteIntent	tell us a few manly info on {PERSON}
+QuoteIntent	say us a few manly info on {PERSON}
+QuoteIntent	get everyone a few manly info on {PERSON}
+QuoteIntent	tell everyone a few manly info on {PERSON}
+QuoteIntent	say everyone a few manly info on {PERSON}
+QuoteIntent	get all of us a few manly info on {PERSON}
+QuoteIntent	tell all of us a few manly info on {PERSON}
+QuoteIntent	say all of us a few manly info on {PERSON}
+QuoteIntent	get me manly info on {PERSON}
+QuoteIntent	tell me manly info on {PERSON}
+QuoteIntent	say me manly info on {PERSON}
+QuoteIntent	get us manly info on {PERSON}
+QuoteIntent	tell us manly info on {PERSON}
+QuoteIntent	say us manly info on {PERSON}
+QuoteIntent	get everyone manly info on {PERSON}
+QuoteIntent	tell everyone manly info on {PERSON}
+QuoteIntent	say everyone manly info on {PERSON}
+QuoteIntent	get all of us manly info on {PERSON}
+QuoteIntent	tell all of us manly info on {PERSON}
+QuoteIntent	say all of us manly info on {PERSON}
+QuoteIntent	get me some info on {PERSON}
+QuoteIntent	tell me some info on {PERSON}
+QuoteIntent	say me some info on {PERSON}
+QuoteIntent	get us some info on {PERSON}
+QuoteIntent	tell us some info on {PERSON}
+QuoteIntent	say us some info on {PERSON}
+QuoteIntent	get everyone some info on {PERSON}
+QuoteIntent	tell everyone some info on {PERSON}
+QuoteIntent	say everyone some info on {PERSON}
+QuoteIntent	get all of us some info on {PERSON}
+QuoteIntent	tell all of us some info on {PERSON}
+QuoteIntent	say all of us some info on {PERSON}
+QuoteIntent	get me a few info on {PERSON}
+QuoteIntent	tell me a few info on {PERSON}
+QuoteIntent	say me a few info on {PERSON}
+QuoteIntent	get us a few info on {PERSON}
+QuoteIntent	tell us a few info on {PERSON}
+QuoteIntent	say us a few info on {PERSON}
+QuoteIntent	get everyone a few info on {PERSON}
+QuoteIntent	tell everyone a few info on {PERSON}
+QuoteIntent	say everyone a few info on {PERSON}
+QuoteIntent	get all of us a few info on {PERSON}
+QuoteIntent	tell all of us a few info on {PERSON}
+QuoteIntent	say all of us a few info on {PERSON}
+QuoteIntent	get me info on {PERSON}
+QuoteIntent	tell me info on {PERSON}
+QuoteIntent	say me info on {PERSON}
+QuoteIntent	get us info on {PERSON}
+QuoteIntent	tell us info on {PERSON}
+QuoteIntent	say us info on {PERSON}
+QuoteIntent	get everyone info on {PERSON}
+QuoteIntent	tell everyone info on {PERSON}
+QuoteIntent	say everyone info on {PERSON}
+QuoteIntent	get all of us info on {PERSON}
+QuoteIntent	tell all of us info on {PERSON}
+QuoteIntent	say all of us info on {PERSON}
+QuoteIntent	get me some fun facts on {PERSON}
+QuoteIntent	tell me some fun facts on {PERSON}
+QuoteIntent	say me some fun facts on {PERSON}
+QuoteIntent	get us some fun facts on {PERSON}
+QuoteIntent	tell us some fun facts on {PERSON}
+QuoteIntent	say us some fun facts on {PERSON}
+QuoteIntent	get everyone some fun facts on {PERSON}
+QuoteIntent	tell everyone some fun facts on {PERSON}
+QuoteIntent	say everyone some fun facts on {PERSON}
+QuoteIntent	get all of us some fun facts on {PERSON}
+QuoteIntent	tell all of us some fun facts on {PERSON}
+QuoteIntent	say all of us some fun facts on {PERSON}
+QuoteIntent	get me a few fun facts on {PERSON}
+QuoteIntent	tell me a few fun facts on {PERSON}
+QuoteIntent	say me a few fun facts on {PERSON}
+QuoteIntent	get us a few fun facts on {PERSON}
+QuoteIntent	tell us a few fun facts on {PERSON}
+QuoteIntent	say us a few fun facts on {PERSON}
+QuoteIntent	get everyone a few fun facts on {PERSON}
+QuoteIntent	tell everyone a few fun facts on {PERSON}
+QuoteIntent	say everyone a few fun facts on {PERSON}
+QuoteIntent	get all of us a few fun facts on {PERSON}
+QuoteIntent	tell all of us a few fun facts on {PERSON}
+QuoteIntent	say all of us a few fun facts on {PERSON}
+QuoteIntent	get me fun facts on {PERSON}
+QuoteIntent	tell me fun facts on {PERSON}
+QuoteIntent	say me fun facts on {PERSON}
+QuoteIntent	get us fun facts on {PERSON}
+QuoteIntent	tell us fun facts on {PERSON}
+QuoteIntent	say us fun facts on {PERSON}
+QuoteIntent	get everyone fun facts on {PERSON}
+QuoteIntent	tell everyone fun facts on {PERSON}
+QuoteIntent	say everyone fun facts on {PERSON}
+QuoteIntent	get all of us fun facts on {PERSON}
+QuoteIntent	tell all of us fun facts on {PERSON}
+QuoteIntent	say all of us fun facts on {PERSON}
+QuoteIntent	get me some silly facts on {PERSON}
+QuoteIntent	tell me some silly facts on {PERSON}
+QuoteIntent	say me some silly facts on {PERSON}
+QuoteIntent	get us some silly facts on {PERSON}
+QuoteIntent	tell us some silly facts on {PERSON}
+QuoteIntent	say us some silly facts on {PERSON}
+QuoteIntent	get everyone some silly facts on {PERSON}
+QuoteIntent	tell everyone some silly facts on {PERSON}
+QuoteIntent	say everyone some silly facts on {PERSON}
+QuoteIntent	get all of us some silly facts on {PERSON}
+QuoteIntent	tell all of us some silly facts on {PERSON}
+QuoteIntent	say all of us some silly facts on {PERSON}
+QuoteIntent	get me a few silly facts on {PERSON}
+QuoteIntent	tell me a few silly facts on {PERSON}
+QuoteIntent	say me a few silly facts on {PERSON}
+QuoteIntent	get us a few silly facts on {PERSON}
+QuoteIntent	tell us a few silly facts on {PERSON}
+QuoteIntent	say us a few silly facts on {PERSON}
+QuoteIntent	get everyone a few silly facts on {PERSON}
+QuoteIntent	tell everyone a few silly facts on {PERSON}
+QuoteIntent	say everyone a few silly facts on {PERSON}
+QuoteIntent	get all of us a few silly facts on {PERSON}
+QuoteIntent	tell all of us a few silly facts on {PERSON}
+QuoteIntent	say all of us a few silly facts on {PERSON}
+QuoteIntent	get me silly facts on {PERSON}
+QuoteIntent	tell me silly facts on {PERSON}
+QuoteIntent	say me silly facts on {PERSON}
+QuoteIntent	get us silly facts on {PERSON}
+QuoteIntent	tell us silly facts on {PERSON}
+QuoteIntent	say us silly facts on {PERSON}
+QuoteIntent	get everyone silly facts on {PERSON}
+QuoteIntent	tell everyone silly facts on {PERSON}
+QuoteIntent	say everyone silly facts on {PERSON}
+QuoteIntent	get all of us silly facts on {PERSON}
+QuoteIntent	tell all of us silly facts on {PERSON}
+QuoteIntent	say all of us silly facts on {PERSON}
+QuoteIntent	get me some intersting facts on {PERSON}
+QuoteIntent	tell me some intersting facts on {PERSON}
+QuoteIntent	say me some intersting facts on {PERSON}
+QuoteIntent	get us some intersting facts on {PERSON}
+QuoteIntent	tell us some intersting facts on {PERSON}
+QuoteIntent	say us some intersting facts on {PERSON}
+QuoteIntent	get everyone some intersting facts on {PERSON}
+QuoteIntent	tell everyone some intersting facts on {PERSON}
+QuoteIntent	say everyone some intersting facts on {PERSON}
+QuoteIntent	get all of us some intersting facts on {PERSON}
+QuoteIntent	tell all of us some intersting facts on {PERSON}
+QuoteIntent	say all of us some intersting facts on {PERSON}
+QuoteIntent	get me a few intersting facts on {PERSON}
+QuoteIntent	tell me a few intersting facts on {PERSON}
+QuoteIntent	say me a few intersting facts on {PERSON}
+QuoteIntent	get us a few intersting facts on {PERSON}
+QuoteIntent	tell us a few intersting facts on {PERSON}
+QuoteIntent	say us a few intersting facts on {PERSON}
+QuoteIntent	get everyone a few intersting facts on {PERSON}
+QuoteIntent	tell everyone a few intersting facts on {PERSON}
+QuoteIntent	say everyone a few intersting facts on {PERSON}
+QuoteIntent	get all of us a few intersting facts on {PERSON}
+QuoteIntent	tell all of us a few intersting facts on {PERSON}
+QuoteIntent	say all of us a few intersting facts on {PERSON}
+QuoteIntent	get me intersting facts on {PERSON}
+QuoteIntent	tell me intersting facts on {PERSON}
+QuoteIntent	say me intersting facts on {PERSON}
+QuoteIntent	get us intersting facts on {PERSON}
+QuoteIntent	tell us intersting facts on {PERSON}
+QuoteIntent	say us intersting facts on {PERSON}
+QuoteIntent	get everyone intersting facts on {PERSON}
+QuoteIntent	tell everyone intersting facts on {PERSON}
+QuoteIntent	say everyone intersting facts on {PERSON}
+QuoteIntent	get all of us intersting facts on {PERSON}
+QuoteIntent	tell all of us intersting facts on {PERSON}
+QuoteIntent	say all of us intersting facts on {PERSON}
+QuoteIntent	get me some manly facts on {PERSON}
+QuoteIntent	tell me some manly facts on {PERSON}
+QuoteIntent	say me some manly facts on {PERSON}
+QuoteIntent	get us some manly facts on {PERSON}
+QuoteIntent	tell us some manly facts on {PERSON}
+QuoteIntent	say us some manly facts on {PERSON}
+QuoteIntent	get everyone some manly facts on {PERSON}
+QuoteIntent	tell everyone some manly facts on {PERSON}
+QuoteIntent	say everyone some manly facts on {PERSON}
+QuoteIntent	get all of us some manly facts on {PERSON}
+QuoteIntent	tell all of us some manly facts on {PERSON}
+QuoteIntent	say all of us some manly facts on {PERSON}
+QuoteIntent	get me a few manly facts on {PERSON}
+QuoteIntent	tell me a few manly facts on {PERSON}
+QuoteIntent	say me a few manly facts on {PERSON}
+QuoteIntent	get us a few manly facts on {PERSON}
+QuoteIntent	tell us a few manly facts on {PERSON}
+QuoteIntent	say us a few manly facts on {PERSON}
+QuoteIntent	get everyone a few manly facts on {PERSON}
+QuoteIntent	tell everyone a few manly facts on {PERSON}
+QuoteIntent	say everyone a few manly facts on {PERSON}
+QuoteIntent	get all of us a few manly facts on {PERSON}
+QuoteIntent	tell all of us a few manly facts on {PERSON}
+QuoteIntent	say all of us a few manly facts on {PERSON}
+QuoteIntent	get me manly facts on {PERSON}
+QuoteIntent	tell me manly facts on {PERSON}
+QuoteIntent	say me manly facts on {PERSON}
+QuoteIntent	get us manly facts on {PERSON}
+QuoteIntent	tell us manly facts on {PERSON}
+QuoteIntent	say us manly facts on {PERSON}
+QuoteIntent	get everyone manly facts on {PERSON}
+QuoteIntent	tell everyone manly facts on {PERSON}
+QuoteIntent	say everyone manly facts on {PERSON}
+QuoteIntent	get all of us manly facts on {PERSON}
+QuoteIntent	tell all of us manly facts on {PERSON}
+QuoteIntent	say all of us manly facts on {PERSON}
+QuoteIntent	get me some facts on {PERSON}
+QuoteIntent	tell me some facts on {PERSON}
+QuoteIntent	say me some facts on {PERSON}
+QuoteIntent	get us some facts on {PERSON}
+QuoteIntent	tell us some facts on {PERSON}
+QuoteIntent	say us some facts on {PERSON}
+QuoteIntent	get everyone some facts on {PERSON}
+QuoteIntent	tell everyone some facts on {PERSON}
+QuoteIntent	say everyone some facts on {PERSON}
+QuoteIntent	get all of us some facts on {PERSON}
+QuoteIntent	tell all of us some facts on {PERSON}
+QuoteIntent	say all of us some facts on {PERSON}
+QuoteIntent	get me a few facts on {PERSON}
+QuoteIntent	tell me a few facts on {PERSON}
+QuoteIntent	say me a few facts on {PERSON}
+QuoteIntent	get us a few facts on {PERSON}
+QuoteIntent	tell us a few facts on {PERSON}
+QuoteIntent	say us a few facts on {PERSON}
+QuoteIntent	get everyone a few facts on {PERSON}
+QuoteIntent	tell everyone a few facts on {PERSON}
+QuoteIntent	say everyone a few facts on {PERSON}
+QuoteIntent	get all of us a few facts on {PERSON}
+QuoteIntent	tell all of us a few facts on {PERSON}
+QuoteIntent	say all of us a few facts on {PERSON}
+QuoteIntent	get me facts on {PERSON}
+QuoteIntent	tell me facts on {PERSON}
+QuoteIntent	say me facts on {PERSON}
+QuoteIntent	get us facts on {PERSON}
+QuoteIntent	tell us facts on {PERSON}
+QuoteIntent	say us facts on {PERSON}
+QuoteIntent	get everyone facts on {PERSON}
+QuoteIntent	tell everyone facts on {PERSON}
+QuoteIntent	say everyone facts on {PERSON}
+QuoteIntent	get all of us facts on {PERSON}
+QuoteIntent	tell all of us facts on {PERSON}
+QuoteIntent	say all of us facts on {PERSON}
+QuoteIntent	get me some fun quotes on {PERSON}
+QuoteIntent	tell me some fun quotes on {PERSON}
+QuoteIntent	say me some fun quotes on {PERSON}
+QuoteIntent	get us some fun quotes on {PERSON}
+QuoteIntent	tell us some fun quotes on {PERSON}
+QuoteIntent	say us some fun quotes on {PERSON}
+QuoteIntent	get everyone some fun quotes on {PERSON}
+QuoteIntent	tell everyone some fun quotes on {PERSON}
+QuoteIntent	say everyone some fun quotes on {PERSON}
+QuoteIntent	get all of us some fun quotes on {PERSON}
+QuoteIntent	tell all of us some fun quotes on {PERSON}
+QuoteIntent	say all of us some fun quotes on {PERSON}
+QuoteIntent	get me a few fun quotes on {PERSON}
+QuoteIntent	tell me a few fun quotes on {PERSON}
+QuoteIntent	say me a few fun quotes on {PERSON}
+QuoteIntent	get us a few fun quotes on {PERSON}
+QuoteIntent	tell us a few fun quotes on {PERSON}
+QuoteIntent	say us a few fun quotes on {PERSON}
+QuoteIntent	get everyone a few fun quotes on {PERSON}
+QuoteIntent	tell everyone a few fun quotes on {PERSON}
+QuoteIntent	say everyone a few fun quotes on {PERSON}
+QuoteIntent	get all of us a few fun quotes on {PERSON}
+QuoteIntent	tell all of us a few fun quotes on {PERSON}
+QuoteIntent	say all of us a few fun quotes on {PERSON}
+QuoteIntent	get me fun quotes on {PERSON}
+QuoteIntent	tell me fun quotes on {PERSON}
+QuoteIntent	say me fun quotes on {PERSON}
+QuoteIntent	get us fun quotes on {PERSON}
+QuoteIntent	tell us fun quotes on {PERSON}
+QuoteIntent	say us fun quotes on {PERSON}
+QuoteIntent	get everyone fun quotes on {PERSON}
+QuoteIntent	tell everyone fun quotes on {PERSON}
+QuoteIntent	say everyone fun quotes on {PERSON}
+QuoteIntent	get all of us fun quotes on {PERSON}
+QuoteIntent	tell all of us fun quotes on {PERSON}
+QuoteIntent	say all of us fun quotes on {PERSON}
+QuoteIntent	get me some silly quotes on {PERSON}
+QuoteIntent	tell me some silly quotes on {PERSON}
+QuoteIntent	say me some silly quotes on {PERSON}
+QuoteIntent	get us some silly quotes on {PERSON}
+QuoteIntent	tell us some silly quotes on {PERSON}
+QuoteIntent	say us some silly quotes on {PERSON}
+QuoteIntent	get everyone some silly quotes on {PERSON}
+QuoteIntent	tell everyone some silly quotes on {PERSON}
+QuoteIntent	say everyone some silly quotes on {PERSON}
+QuoteIntent	get all of us some silly quotes on {PERSON}
+QuoteIntent	tell all of us some silly quotes on {PERSON}
+QuoteIntent	say all of us some silly quotes on {PERSON}
+QuoteIntent	get me a few silly quotes on {PERSON}
+QuoteIntent	tell me a few silly quotes on {PERSON}
+QuoteIntent	say me a few silly quotes on {PERSON}
+QuoteIntent	get us a few silly quotes on {PERSON}
+QuoteIntent	tell us a few silly quotes on {PERSON}
+QuoteIntent	say us a few silly quotes on {PERSON}
+QuoteIntent	get everyone a few silly quotes on {PERSON}
+QuoteIntent	tell everyone a few silly quotes on {PERSON}
+QuoteIntent	say everyone a few silly quotes on {PERSON}
+QuoteIntent	get all of us a few silly quotes on {PERSON}
+QuoteIntent	tell all of us a few silly quotes on {PERSON}
+QuoteIntent	say all of us a few silly quotes on {PERSON}
+QuoteIntent	get me silly quotes on {PERSON}
+QuoteIntent	tell me silly quotes on {PERSON}
+QuoteIntent	say me silly quotes on {PERSON}
+QuoteIntent	get us silly quotes on {PERSON}
+QuoteIntent	tell us silly quotes on {PERSON}
+QuoteIntent	say us silly quotes on {PERSON}
+QuoteIntent	get everyone silly quotes on {PERSON}
+QuoteIntent	tell everyone silly quotes on {PERSON}
+QuoteIntent	say everyone silly quotes on {PERSON}
+QuoteIntent	get all of us silly quotes on {PERSON}
+QuoteIntent	tell all of us silly quotes on {PERSON}
+QuoteIntent	say all of us silly quotes on {PERSON}
+QuoteIntent	get me some intersting quotes on {PERSON}
+QuoteIntent	tell me some intersting quotes on {PERSON}
+QuoteIntent	say me some intersting quotes on {PERSON}
+QuoteIntent	get us some intersting quotes on {PERSON}
+QuoteIntent	tell us some intersting quotes on {PERSON}
+QuoteIntent	say us some intersting quotes on {PERSON}
+QuoteIntent	get everyone some intersting quotes on {PERSON}
+QuoteIntent	tell everyone some intersting quotes on {PERSON}
+QuoteIntent	say everyone some intersting quotes on {PERSON}
+QuoteIntent	get all of us some intersting quotes on {PERSON}
+QuoteIntent	tell all of us some intersting quotes on {PERSON}
+QuoteIntent	say all of us some intersting quotes on {PERSON}
+QuoteIntent	get me a few intersting quotes on {PERSON}
+QuoteIntent	tell me a few intersting quotes on {PERSON}
+QuoteIntent	say me a few intersting quotes on {PERSON}
+QuoteIntent	get us a few intersting quotes on {PERSON}
+QuoteIntent	tell us a few intersting quotes on {PERSON}
+QuoteIntent	say us a few intersting quotes on {PERSON}
+QuoteIntent	get everyone a few intersting quotes on {PERSON}
+QuoteIntent	tell everyone a few intersting quotes on {PERSON}
+QuoteIntent	say everyone a few intersting quotes on {PERSON}
+QuoteIntent	get all of us a few intersting quotes on {PERSON}
+QuoteIntent	tell all of us a few intersting quotes on {PERSON}
+QuoteIntent	say all of us a few intersting quotes on {PERSON}
+QuoteIntent	get me intersting quotes on {PERSON}
+QuoteIntent	tell me intersting quotes on {PERSON}
+QuoteIntent	say me intersting quotes on {PERSON}
+QuoteIntent	get us intersting quotes on {PERSON}
+QuoteIntent	tell us intersting quotes on {PERSON}
+QuoteIntent	say us intersting quotes on {PERSON}
+QuoteIntent	get everyone intersting quotes on {PERSON}
+QuoteIntent	tell everyone intersting quotes on {PERSON}
+QuoteIntent	say everyone intersting quotes on {PERSON}
+QuoteIntent	get all of us intersting quotes on {PERSON}
+QuoteIntent	tell all of us intersting quotes on {PERSON}
+QuoteIntent	say all of us intersting quotes on {PERSON}
+QuoteIntent	get me some manly quotes on {PERSON}
+QuoteIntent	tell me some manly quotes on {PERSON}
+QuoteIntent	say me some manly quotes on {PERSON}
+QuoteIntent	get us some manly quotes on {PERSON}
+QuoteIntent	tell us some manly quotes on {PERSON}
+QuoteIntent	say us some manly quotes on {PERSON}
+QuoteIntent	get everyone some manly quotes on {PERSON}
+QuoteIntent	tell everyone some manly quotes on {PERSON}
+QuoteIntent	say everyone some manly quotes on {PERSON}
+QuoteIntent	get all of us some manly quotes on {PERSON}
+QuoteIntent	tell all of us some manly quotes on {PERSON}
+QuoteIntent	say all of us some manly quotes on {PERSON}
+QuoteIntent	get me a few manly quotes on {PERSON}
+QuoteIntent	tell me a few manly quotes on {PERSON}
+QuoteIntent	say me a few manly quotes on {PERSON}
+QuoteIntent	get us a few manly quotes on {PERSON}
+QuoteIntent	tell us a few manly quotes on {PERSON}
+QuoteIntent	say us a few manly quotes on {PERSON}
+QuoteIntent	get everyone a few manly quotes on {PERSON}
+QuoteIntent	tell everyone a few manly quotes on {PERSON}
+QuoteIntent	say everyone a few manly quotes on {PERSON}
+QuoteIntent	get all of us a few manly quotes on {PERSON}
+QuoteIntent	tell all of us a few manly quotes on {PERSON}
+QuoteIntent	say all of us a few manly quotes on {PERSON}
+QuoteIntent	get me manly quotes on {PERSON}
+QuoteIntent	tell me manly quotes on {PERSON}
+QuoteIntent	say me manly quotes on {PERSON}
+QuoteIntent	get us manly quotes on {PERSON}
+QuoteIntent	tell us manly quotes on {PERSON}
+QuoteIntent	say us manly quotes on {PERSON}
+QuoteIntent	get everyone manly quotes on {PERSON}
+QuoteIntent	tell everyone manly quotes on {PERSON}
+QuoteIntent	say everyone manly quotes on {PERSON}
+QuoteIntent	get all of us manly quotes on {PERSON}
+QuoteIntent	tell all of us manly quotes on {PERSON}
+QuoteIntent	say all of us manly quotes on {PERSON}
+QuoteIntent	get me some quotes on {PERSON}
+QuoteIntent	tell me some quotes on {PERSON}
+QuoteIntent	say me some quotes on {PERSON}
+QuoteIntent	get us some quotes on {PERSON}
+QuoteIntent	tell us some quotes on {PERSON}
+QuoteIntent	say us some quotes on {PERSON}
+QuoteIntent	get everyone some quotes on {PERSON}
+QuoteIntent	tell everyone some quotes on {PERSON}
+QuoteIntent	say everyone some quotes on {PERSON}
+QuoteIntent	get all of us some quotes on {PERSON}
+QuoteIntent	tell all of us some quotes on {PERSON}
+QuoteIntent	say all of us some quotes on {PERSON}
+QuoteIntent	get me a few quotes on {PERSON}
+QuoteIntent	tell me a few quotes on {PERSON}
+QuoteIntent	say me a few quotes on {PERSON}
+QuoteIntent	get us a few quotes on {PERSON}
+QuoteIntent	tell us a few quotes on {PERSON}
+QuoteIntent	say us a few quotes on {PERSON}
+QuoteIntent	get everyone a few quotes on {PERSON}
+QuoteIntent	tell everyone a few quotes on {PERSON}
+QuoteIntent	say everyone a few quotes on {PERSON}
+QuoteIntent	get all of us a few quotes on {PERSON}
+QuoteIntent	tell all of us a few quotes on {PERSON}
+QuoteIntent	say all of us a few quotes on {PERSON}
+QuoteIntent	get me quotes on {PERSON}
+QuoteIntent	tell me quotes on {PERSON}
+QuoteIntent	say me quotes on {PERSON}
+QuoteIntent	get us quotes on {PERSON}
+QuoteIntent	tell us quotes on {PERSON}
+QuoteIntent	say us quotes on {PERSON}
+QuoteIntent	get everyone quotes on {PERSON}
+QuoteIntent	tell everyone quotes on {PERSON}
+QuoteIntent	say everyone quotes on {PERSON}
+QuoteIntent	get all of us quotes on {PERSON}
+QuoteIntent	tell all of us quotes on {PERSON}
+QuoteIntent	say all of us quotes on {PERSON}
+QuoteIntent	get me some fun data on {PERSON}
+QuoteIntent	tell me some fun data on {PERSON}
+QuoteIntent	say me some fun data on {PERSON}
+QuoteIntent	get us some fun data on {PERSON}
+QuoteIntent	tell us some fun data on {PERSON}
+QuoteIntent	say us some fun data on {PERSON}
+QuoteIntent	get everyone some fun data on {PERSON}
+QuoteIntent	tell everyone some fun data on {PERSON}
+QuoteIntent	say everyone some fun data on {PERSON}
+QuoteIntent	get all of us some fun data on {PERSON}
+QuoteIntent	tell all of us some fun data on {PERSON}
+QuoteIntent	say all of us some fun data on {PERSON}
+QuoteIntent	get me a few fun data on {PERSON}
+QuoteIntent	tell me a few fun data on {PERSON}
+QuoteIntent	say me a few fun data on {PERSON}
+QuoteIntent	get us a few fun data on {PERSON}
+QuoteIntent	tell us a few fun data on {PERSON}
+QuoteIntent	say us a few fun data on {PERSON}
+QuoteIntent	get everyone a few fun data on {PERSON}
+QuoteIntent	tell everyone a few fun data on {PERSON}
+QuoteIntent	say everyone a few fun data on {PERSON}
+QuoteIntent	get all of us a few fun data on {PERSON}
+QuoteIntent	tell all of us a few fun data on {PERSON}
+QuoteIntent	say all of us a few fun data on {PERSON}
+QuoteIntent	get me fun data on {PERSON}
+QuoteIntent	tell me fun data on {PERSON}
+QuoteIntent	say me fun data on {PERSON}
+QuoteIntent	get us fun data on {PERSON}
+QuoteIntent	tell us fun data on {PERSON}
+QuoteIntent	say us fun data on {PERSON}
+QuoteIntent	get everyone fun data on {PERSON}
+QuoteIntent	tell everyone fun data on {PERSON}
+QuoteIntent	say everyone fun data on {PERSON}
+QuoteIntent	get all of us fun data on {PERSON}
+QuoteIntent	tell all of us fun data on {PERSON}
+QuoteIntent	say all of us fun data on {PERSON}
+QuoteIntent	get me some silly data on {PERSON}
+QuoteIntent	tell me some silly data on {PERSON}
+QuoteIntent	say me some silly data on {PERSON}
+QuoteIntent	get us some silly data on {PERSON}
+QuoteIntent	tell us some silly data on {PERSON}
+QuoteIntent	say us some silly data on {PERSON}
+QuoteIntent	get everyone some silly data on {PERSON}
+QuoteIntent	tell everyone some silly data on {PERSON}
+QuoteIntent	say everyone some silly data on {PERSON}
+QuoteIntent	get all of us some silly data on {PERSON}
+QuoteIntent	tell all of us some silly data on {PERSON}
+QuoteIntent	say all of us some silly data on {PERSON}
+QuoteIntent	get me a few silly data on {PERSON}
+QuoteIntent	tell me a few silly data on {PERSON}
+QuoteIntent	say me a few silly data on {PERSON}
+QuoteIntent	get us a few silly data on {PERSON}
+QuoteIntent	tell us a few silly data on {PERSON}
+QuoteIntent	say us a few silly data on {PERSON}
+QuoteIntent	get everyone a few silly data on {PERSON}
+QuoteIntent	tell everyone a few silly data on {PERSON}
+QuoteIntent	say everyone a few silly data on {PERSON}
+QuoteIntent	get all of us a few silly data on {PERSON}
+QuoteIntent	tell all of us a few silly data on {PERSON}
+QuoteIntent	say all of us a few silly data on {PERSON}
+QuoteIntent	get me silly data on {PERSON}
+QuoteIntent	tell me silly data on {PERSON}
+QuoteIntent	say me silly data on {PERSON}
+QuoteIntent	get us silly data on {PERSON}
+QuoteIntent	tell us silly data on {PERSON}
+QuoteIntent	say us silly data on {PERSON}
+QuoteIntent	get everyone silly data on {PERSON}
+QuoteIntent	tell everyone silly data on {PERSON}
+QuoteIntent	say everyone silly data on {PERSON}
+QuoteIntent	get all of us silly data on {PERSON}
+QuoteIntent	tell all of us silly data on {PERSON}
+QuoteIntent	say all of us silly data on {PERSON}
+QuoteIntent	get me some intersting data on {PERSON}
+QuoteIntent	tell me some intersting data on {PERSON}
+QuoteIntent	say me some intersting data on {PERSON}
+QuoteIntent	get us some intersting data on {PERSON}
+QuoteIntent	tell us some intersting data on {PERSON}
+QuoteIntent	say us some intersting data on {PERSON}
+QuoteIntent	get everyone some intersting data on {PERSON}
+QuoteIntent	tell everyone some intersting data on {PERSON}
+QuoteIntent	say everyone some intersting data on {PERSON}
+QuoteIntent	get all of us some intersting data on {PERSON}
+QuoteIntent	tell all of us some intersting data on {PERSON}
+QuoteIntent	say all of us some intersting data on {PERSON}
+QuoteIntent	get me a few intersting data on {PERSON}
+QuoteIntent	tell me a few intersting data on {PERSON}
+QuoteIntent	say me a few intersting data on {PERSON}
+QuoteIntent	get us a few intersting data on {PERSON}
+QuoteIntent	tell us a few intersting data on {PERSON}
+QuoteIntent	say us a few intersting data on {PERSON}
+QuoteIntent	get everyone a few intersting data on {PERSON}
+QuoteIntent	tell everyone a few intersting data on {PERSON}
+QuoteIntent	say everyone a few intersting data on {PERSON}
+QuoteIntent	get all of us a few intersting data on {PERSON}
+QuoteIntent	tell all of us a few intersting data on {PERSON}
+QuoteIntent	say all of us a few intersting data on {PERSON}
+QuoteIntent	get me intersting data on {PERSON}
+QuoteIntent	tell me intersting data on {PERSON}
+QuoteIntent	say me intersting data on {PERSON}
+QuoteIntent	get us intersting data on {PERSON}
+QuoteIntent	tell us intersting data on {PERSON}
+QuoteIntent	say us intersting data on {PERSON}
+QuoteIntent	get everyone intersting data on {PERSON}
+QuoteIntent	tell everyone intersting data on {PERSON}
+QuoteIntent	say everyone intersting data on {PERSON}
+QuoteIntent	get all of us intersting data on {PERSON}
+QuoteIntent	tell all of us intersting data on {PERSON}
+QuoteIntent	say all of us intersting data on {PERSON}
+QuoteIntent	get me some manly data on {PERSON}
+QuoteIntent	tell me some manly data on {PERSON}
+QuoteIntent	say me some manly data on {PERSON}
+QuoteIntent	get us some manly data on {PERSON}
+QuoteIntent	tell us some manly data on {PERSON}
+QuoteIntent	say us some manly data on {PERSON}
+QuoteIntent	get everyone some manly data on {PERSON}
+QuoteIntent	tell everyone some manly data on {PERSON}
+QuoteIntent	say everyone some manly data on {PERSON}
+QuoteIntent	get all of us some manly data on {PERSON}
+QuoteIntent	tell all of us some manly data on {PERSON}
+QuoteIntent	say all of us some manly data on {PERSON}
+QuoteIntent	get me a few manly data on {PERSON}
+QuoteIntent	tell me a few manly data on {PERSON}
+QuoteIntent	say me a few manly data on {PERSON}
+QuoteIntent	get us a few manly data on {PERSON}
+QuoteIntent	tell us a few manly data on {PERSON}
+QuoteIntent	say us a few manly data on {PERSON}
+QuoteIntent	get everyone a few manly data on {PERSON}
+QuoteIntent	tell everyone a few manly data on {PERSON}
+QuoteIntent	say everyone a few manly data on {PERSON}
+QuoteIntent	get all of us a few manly data on {PERSON}
+QuoteIntent	tell all of us a few manly data on {PERSON}
+QuoteIntent	say all of us a few manly data on {PERSON}
+QuoteIntent	get me manly data on {PERSON}
+QuoteIntent	tell me manly data on {PERSON}
+QuoteIntent	say me manly data on {PERSON}
+QuoteIntent	get us manly data on {PERSON}
+QuoteIntent	tell us manly data on {PERSON}
+QuoteIntent	say us manly data on {PERSON}
+QuoteIntent	get everyone manly data on {PERSON}
+QuoteIntent	tell everyone manly data on {PERSON}
+QuoteIntent	say everyone manly data on {PERSON}
+QuoteIntent	get all of us manly data on {PERSON}
+QuoteIntent	tell all of us manly data on {PERSON}
+QuoteIntent	say all of us manly data on {PERSON}
+QuoteIntent	get me some data on {PERSON}
+QuoteIntent	tell me some data on {PERSON}
+QuoteIntent	say me some data on {PERSON}
+QuoteIntent	get us some data on {PERSON}
+QuoteIntent	tell us some data on {PERSON}
+QuoteIntent	say us some data on {PERSON}
+QuoteIntent	get everyone some data on {PERSON}
+QuoteIntent	tell everyone some data on {PERSON}
+QuoteIntent	say everyone some data on {PERSON}
+QuoteIntent	get all of us some data on {PERSON}
+QuoteIntent	tell all of us some data on {PERSON}
+QuoteIntent	say all of us some data on {PERSON}
+QuoteIntent	get me a few data on {PERSON}
+QuoteIntent	tell me a few data on {PERSON}
+QuoteIntent	say me a few data on {PERSON}
+QuoteIntent	get us a few data on {PERSON}
+QuoteIntent	tell us a few data on {PERSON}
+QuoteIntent	say us a few data on {PERSON}
+QuoteIntent	get everyone a few data on {PERSON}
+QuoteIntent	tell everyone a few data on {PERSON}
+QuoteIntent	say everyone a few data on {PERSON}
+QuoteIntent	get all of us a few data on {PERSON}
+QuoteIntent	tell all of us a few data on {PERSON}
+QuoteIntent	say all of us a few data on {PERSON}
+QuoteIntent	get me data on {PERSON}
+QuoteIntent	tell me data on {PERSON}
+QuoteIntent	say me data on {PERSON}
+QuoteIntent	get us data on {PERSON}
+QuoteIntent	tell us data on {PERSON}
+QuoteIntent	say us data on {PERSON}
+QuoteIntent	get everyone data on {PERSON}
+QuoteIntent	tell everyone data on {PERSON}
+QuoteIntent	say everyone data on {PERSON}
+QuoteIntent	get all of us data on {PERSON}
+QuoteIntent	tell all of us data on {PERSON}
+QuoteIntent	say all of us data on {PERSON}
+QuoteIntent	get me some fun info {PERSON}
+QuoteIntent	tell me some fun info {PERSON}
+QuoteIntent	say me some fun info {PERSON}
+QuoteIntent	get us some fun info {PERSON}
+QuoteIntent	tell us some fun info {PERSON}
+QuoteIntent	say us some fun info {PERSON}
+QuoteIntent	get everyone some fun info {PERSON}
+QuoteIntent	tell everyone some fun info {PERSON}
+QuoteIntent	say everyone some fun info {PERSON}
+QuoteIntent	get all of us some fun info {PERSON}
+QuoteIntent	tell all of us some fun info {PERSON}
+QuoteIntent	say all of us some fun info {PERSON}
+QuoteIntent	get me a few fun info {PERSON}
+QuoteIntent	tell me a few fun info {PERSON}
+QuoteIntent	say me a few fun info {PERSON}
+QuoteIntent	get us a few fun info {PERSON}
+QuoteIntent	tell us a few fun info {PERSON}
+QuoteIntent	say us a few fun info {PERSON}
+QuoteIntent	get everyone a few fun info {PERSON}
+QuoteIntent	tell everyone a few fun info {PERSON}
+QuoteIntent	say everyone a few fun info {PERSON}
+QuoteIntent	get all of us a few fun info {PERSON}
+QuoteIntent	tell all of us a few fun info {PERSON}
+QuoteIntent	say all of us a few fun info {PERSON}
+QuoteIntent	get me fun info {PERSON}
+QuoteIntent	tell me fun info {PERSON}
+QuoteIntent	say me fun info {PERSON}
+QuoteIntent	get us fun info {PERSON}
+QuoteIntent	tell us fun info {PERSON}
+QuoteIntent	say us fun info {PERSON}
+QuoteIntent	get everyone fun info {PERSON}
+QuoteIntent	tell everyone fun info {PERSON}
+QuoteIntent	say everyone fun info {PERSON}
+QuoteIntent	get all of us fun info {PERSON}
+QuoteIntent	tell all of us fun info {PERSON}
+QuoteIntent	say all of us fun info {PERSON}
+QuoteIntent	get me some silly info {PERSON}
+QuoteIntent	tell me some silly info {PERSON}
+QuoteIntent	say me some silly info {PERSON}
+QuoteIntent	get us some silly info {PERSON}
+QuoteIntent	tell us some silly info {PERSON}
+QuoteIntent	say us some silly info {PERSON}
+QuoteIntent	get everyone some silly info {PERSON}
+QuoteIntent	tell everyone some silly info {PERSON}
+QuoteIntent	say everyone some silly info {PERSON}
+QuoteIntent	get all of us some silly info {PERSON}
+QuoteIntent	tell all of us some silly info {PERSON}
+QuoteIntent	say all of us some silly info {PERSON}
+QuoteIntent	get me a few silly info {PERSON}
+QuoteIntent	tell me a few silly info {PERSON}
+QuoteIntent	say me a few silly info {PERSON}
+QuoteIntent	get us a few silly info {PERSON}
+QuoteIntent	tell us a few silly info {PERSON}
+QuoteIntent	say us a few silly info {PERSON}
+QuoteIntent	get everyone a few silly info {PERSON}
+QuoteIntent	tell everyone a few silly info {PERSON}
+QuoteIntent	say everyone a few silly info {PERSON}
+QuoteIntent	get all of us a few silly info {PERSON}
+QuoteIntent	tell all of us a few silly info {PERSON}
+QuoteIntent	say all of us a few silly info {PERSON}
+QuoteIntent	get me silly info {PERSON}
+QuoteIntent	tell me silly info {PERSON}
+QuoteIntent	say me silly info {PERSON}
+QuoteIntent	get us silly info {PERSON}
+QuoteIntent	tell us silly info {PERSON}
+QuoteIntent	say us silly info {PERSON}
+QuoteIntent	get everyone silly info {PERSON}
+QuoteIntent	tell everyone silly info {PERSON}
+QuoteIntent	say everyone silly info {PERSON}
+QuoteIntent	get all of us silly info {PERSON}
+QuoteIntent	tell all of us silly info {PERSON}
+QuoteIntent	say all of us silly info {PERSON}
+QuoteIntent	get me some intersting info {PERSON}
+QuoteIntent	tell me some intersting info {PERSON}
+QuoteIntent	say me some intersting info {PERSON}
+QuoteIntent	get us some intersting info {PERSON}
+QuoteIntent	tell us some intersting info {PERSON}
+QuoteIntent	say us some intersting info {PERSON}
+QuoteIntent	get everyone some intersting info {PERSON}
+QuoteIntent	tell everyone some intersting info {PERSON}
+QuoteIntent	say everyone some intersting info {PERSON}
+QuoteIntent	get all of us some intersting info {PERSON}
+QuoteIntent	tell all of us some intersting info {PERSON}
+QuoteIntent	say all of us some intersting info {PERSON}
+QuoteIntent	get me a few intersting info {PERSON}
+QuoteIntent	tell me a few intersting info {PERSON}
+QuoteIntent	say me a few intersting info {PERSON}
+QuoteIntent	get us a few intersting info {PERSON}
+QuoteIntent	tell us a few intersting info {PERSON}
+QuoteIntent	say us a few intersting info {PERSON}
+QuoteIntent	get everyone a few intersting info {PERSON}
+QuoteIntent	tell everyone a few intersting info {PERSON}
+QuoteIntent	say everyone a few intersting info {PERSON}
+QuoteIntent	get all of us a few intersting info {PERSON}
+QuoteIntent	tell all of us a few intersting info {PERSON}
+QuoteIntent	say all of us a few intersting info {PERSON}
+QuoteIntent	get me intersting info {PERSON}
+QuoteIntent	tell me intersting info {PERSON}
+QuoteIntent	say me intersting info {PERSON}
+QuoteIntent	get us intersting info {PERSON}
+QuoteIntent	tell us intersting info {PERSON}
+QuoteIntent	say us intersting info {PERSON}
+QuoteIntent	get everyone intersting info {PERSON}
+QuoteIntent	tell everyone intersting info {PERSON}
+QuoteIntent	say everyone intersting info {PERSON}
+QuoteIntent	get all of us intersting info {PERSON}
+QuoteIntent	tell all of us intersting info {PERSON}
+QuoteIntent	say all of us intersting info {PERSON}
+QuoteIntent	get me some manly info {PERSON}
+QuoteIntent	tell me some manly info {PERSON}
+QuoteIntent	say me some manly info {PERSON}
+QuoteIntent	get us some manly info {PERSON}
+QuoteIntent	tell us some manly info {PERSON}
+QuoteIntent	say us some manly info {PERSON}
+QuoteIntent	get everyone some manly info {PERSON}
+QuoteIntent	tell everyone some manly info {PERSON}
+QuoteIntent	say everyone some manly info {PERSON}
+QuoteIntent	get all of us some manly info {PERSON}
+QuoteIntent	tell all of us some manly info {PERSON}
+QuoteIntent	say all of us some manly info {PERSON}
+QuoteIntent	get me a few manly info {PERSON}
+QuoteIntent	tell me a few manly info {PERSON}
+QuoteIntent	say me a few manly info {PERSON}
+QuoteIntent	get us a few manly info {PERSON}
+QuoteIntent	tell us a few manly info {PERSON}
+QuoteIntent	say us a few manly info {PERSON}
+QuoteIntent	get everyone a few manly info {PERSON}
+QuoteIntent	tell everyone a few manly info {PERSON}
+QuoteIntent	say everyone a few manly info {PERSON}
+QuoteIntent	get all of us a few manly info {PERSON}
+QuoteIntent	tell all of us a few manly info {PERSON}
+QuoteIntent	say all of us a few manly info {PERSON}
+QuoteIntent	get me manly info {PERSON}
+QuoteIntent	tell me manly info {PERSON}
+QuoteIntent	say me manly info {PERSON}
+QuoteIntent	get us manly info {PERSON}
+QuoteIntent	tell us manly info {PERSON}
+QuoteIntent	say us manly info {PERSON}
+QuoteIntent	get everyone manly info {PERSON}
+QuoteIntent	tell everyone manly info {PERSON}
+QuoteIntent	say everyone manly info {PERSON}
+QuoteIntent	get all of us manly info {PERSON}
+QuoteIntent	tell all of us manly info {PERSON}
+QuoteIntent	say all of us manly info {PERSON}
+QuoteIntent	get me some info {PERSON}
+QuoteIntent	tell me some info {PERSON}
+QuoteIntent	say me some info {PERSON}
+QuoteIntent	get us some info {PERSON}
+QuoteIntent	tell us some info {PERSON}
+QuoteIntent	say us some info {PERSON}
+QuoteIntent	get everyone some info {PERSON}
+QuoteIntent	tell everyone some info {PERSON}
+QuoteIntent	say everyone some info {PERSON}
+QuoteIntent	get all of us some info {PERSON}
+QuoteIntent	tell all of us some info {PERSON}
+QuoteIntent	say all of us some info {PERSON}
+QuoteIntent	get me a few info {PERSON}
+QuoteIntent	tell me a few info {PERSON}
+QuoteIntent	say me a few info {PERSON}
+QuoteIntent	get us a few info {PERSON}
+QuoteIntent	tell us a few info {PERSON}
+QuoteIntent	say us a few info {PERSON}
+QuoteIntent	get everyone a few info {PERSON}
+QuoteIntent	tell everyone a few info {PERSON}
+QuoteIntent	say everyone a few info {PERSON}
+QuoteIntent	get all of us a few info {PERSON}
+QuoteIntent	tell all of us a few info {PERSON}
+QuoteIntent	say all of us a few info {PERSON}
+QuoteIntent	get me info {PERSON}
+QuoteIntent	tell me info {PERSON}
+QuoteIntent	say me info {PERSON}
+QuoteIntent	get us info {PERSON}
+QuoteIntent	tell us info {PERSON}
+QuoteIntent	say us info {PERSON}
+QuoteIntent	get everyone info {PERSON}
+QuoteIntent	tell everyone info {PERSON}
+QuoteIntent	say everyone info {PERSON}
+QuoteIntent	get all of us info {PERSON}
+QuoteIntent	tell all of us info {PERSON}
+QuoteIntent	say all of us info {PERSON}
+QuoteIntent	get me some fun facts {PERSON}
+QuoteIntent	tell me some fun facts {PERSON}
+QuoteIntent	say me some fun facts {PERSON}
+QuoteIntent	get us some fun facts {PERSON}
+QuoteIntent	tell us some fun facts {PERSON}
+QuoteIntent	say us some fun facts {PERSON}
+QuoteIntent	get everyone some fun facts {PERSON}
+QuoteIntent	tell everyone some fun facts {PERSON}
+QuoteIntent	say everyone some fun facts {PERSON}
+QuoteIntent	get all of us some fun facts {PERSON}
+QuoteIntent	tell all of us some fun facts {PERSON}
+QuoteIntent	say all of us some fun facts {PERSON}
+QuoteIntent	get me a few fun facts {PERSON}
+QuoteIntent	tell me a few fun facts {PERSON}
+QuoteIntent	say me a few fun facts {PERSON}
+QuoteIntent	get us a few fun facts {PERSON}
+QuoteIntent	tell us a few fun facts {PERSON}
+QuoteIntent	say us a few fun facts {PERSON}
+QuoteIntent	get everyone a few fun facts {PERSON}
+QuoteIntent	tell everyone a few fun facts {PERSON}
+QuoteIntent	say everyone a few fun facts {PERSON}
+QuoteIntent	get all of us a few fun facts {PERSON}
+QuoteIntent	tell all of us a few fun facts {PERSON}
+QuoteIntent	say all of us a few fun facts {PERSON}
+QuoteIntent	get me fun facts {PERSON}
+QuoteIntent	tell me fun facts {PERSON}
+QuoteIntent	say me fun facts {PERSON}
+QuoteIntent	get us fun facts {PERSON}
+QuoteIntent	tell us fun facts {PERSON}
+QuoteIntent	say us fun facts {PERSON}
+QuoteIntent	get everyone fun facts {PERSON}
+QuoteIntent	tell everyone fun facts {PERSON}
+QuoteIntent	say everyone fun facts {PERSON}
+QuoteIntent	get all of us fun facts {PERSON}
+QuoteIntent	tell all of us fun facts {PERSON}
+QuoteIntent	say all of us fun facts {PERSON}
+QuoteIntent	get me some silly facts {PERSON}
+QuoteIntent	tell me some silly facts {PERSON}
+QuoteIntent	say me some silly facts {PERSON}
+QuoteIntent	get us some silly facts {PERSON}
+QuoteIntent	tell us some silly facts {PERSON}
+QuoteIntent	say us some silly facts {PERSON}
+QuoteIntent	get everyone some silly facts {PERSON}
+QuoteIntent	tell everyone some silly facts {PERSON}
+QuoteIntent	say everyone some silly facts {PERSON}
+QuoteIntent	get all of us some silly facts {PERSON}
+QuoteIntent	tell all of us some silly facts {PERSON}
+QuoteIntent	say all of us some silly facts {PERSON}
+QuoteIntent	get me a few silly facts {PERSON}
+QuoteIntent	tell me a few silly facts {PERSON}
+QuoteIntent	say me a few silly facts {PERSON}
+QuoteIntent	get us a few silly facts {PERSON}
+QuoteIntent	tell us a few silly facts {PERSON}
+QuoteIntent	say us a few silly facts {PERSON}
+QuoteIntent	get everyone a few silly facts {PERSON}
+QuoteIntent	tell everyone a few silly facts {PERSON}
+QuoteIntent	say everyone a few silly facts {PERSON}
+QuoteIntent	get all of us a few silly facts {PERSON}
+QuoteIntent	tell all of us a few silly facts {PERSON}
+QuoteIntent	say all of us a few silly facts {PERSON}
+QuoteIntent	get me silly facts {PERSON}
+QuoteIntent	tell me silly facts {PERSON}
+QuoteIntent	say me silly facts {PERSON}
+QuoteIntent	get us silly facts {PERSON}
+QuoteIntent	tell us silly facts {PERSON}
+QuoteIntent	say us silly facts {PERSON}
+QuoteIntent	get everyone silly facts {PERSON}
+QuoteIntent	tell everyone silly facts {PERSON}
+QuoteIntent	say everyone silly facts {PERSON}
+QuoteIntent	get all of us silly facts {PERSON}
+QuoteIntent	tell all of us silly facts {PERSON}
+QuoteIntent	say all of us silly facts {PERSON}
+QuoteIntent	get me some intersting facts {PERSON}
+QuoteIntent	tell me some intersting facts {PERSON}
+QuoteIntent	say me some intersting facts {PERSON}
+QuoteIntent	get us some intersting facts {PERSON}
+QuoteIntent	tell us some intersting facts {PERSON}
+QuoteIntent	say us some intersting facts {PERSON}
+QuoteIntent	get everyone some intersting facts {PERSON}
+QuoteIntent	tell everyone some intersting facts {PERSON}
+QuoteIntent	say everyone some intersting facts {PERSON}
+QuoteIntent	get all of us some intersting facts {PERSON}
+QuoteIntent	tell all of us some intersting facts {PERSON}
+QuoteIntent	say all of us some intersting facts {PERSON}
+QuoteIntent	get me a few intersting facts {PERSON}
+QuoteIntent	tell me a few intersting facts {PERSON}
+QuoteIntent	say me a few intersting facts {PERSON}
+QuoteIntent	get us a few intersting facts {PERSON}
+QuoteIntent	tell us a few intersting facts {PERSON}
+QuoteIntent	say us a few intersting facts {PERSON}
+QuoteIntent	get everyone a few intersting facts {PERSON}
+QuoteIntent	tell everyone a few intersting facts {PERSON}
+QuoteIntent	say everyone a few intersting facts {PERSON}
+QuoteIntent	get all of us a few intersting facts {PERSON}
+QuoteIntent	tell all of us a few intersting facts {PERSON}
+QuoteIntent	say all of us a few intersting facts {PERSON}
+QuoteIntent	get me intersting facts {PERSON}
+QuoteIntent	tell me intersting facts {PERSON}
+QuoteIntent	say me intersting facts {PERSON}
+QuoteIntent	get us intersting facts {PERSON}
+QuoteIntent	tell us intersting facts {PERSON}
+QuoteIntent	say us intersting facts {PERSON}
+QuoteIntent	get everyone intersting facts {PERSON}
+QuoteIntent	tell everyone intersting facts {PERSON}
+QuoteIntent	say everyone intersting facts {PERSON}
+QuoteIntent	get all of us intersting facts {PERSON}
+QuoteIntent	tell all of us intersting facts {PERSON}
+QuoteIntent	say all of us intersting facts {PERSON}
+QuoteIntent	get me some manly facts {PERSON}
+QuoteIntent	tell me some manly facts {PERSON}
+QuoteIntent	say me some manly facts {PERSON}
+QuoteIntent	get us some manly facts {PERSON}
+QuoteIntent	tell us some manly facts {PERSON}
+QuoteIntent	say us some manly facts {PERSON}
+QuoteIntent	get everyone some manly facts {PERSON}
+QuoteIntent	tell everyone some manly facts {PERSON}
+QuoteIntent	say everyone some manly facts {PERSON}
+QuoteIntent	get all of us some manly facts {PERSON}
+QuoteIntent	tell all of us some manly facts {PERSON}
+QuoteIntent	say all of us some manly facts {PERSON}
+QuoteIntent	get me a few manly facts {PERSON}
+QuoteIntent	tell me a few manly facts {PERSON}
+QuoteIntent	say me a few manly facts {PERSON}
+QuoteIntent	get us a few manly facts {PERSON}
+QuoteIntent	tell us a few manly facts {PERSON}
+QuoteIntent	say us a few manly facts {PERSON}
+QuoteIntent	get everyone a few manly facts {PERSON}
+QuoteIntent	tell everyone a few manly facts {PERSON}
+QuoteIntent	say everyone a few manly facts {PERSON}
+QuoteIntent	get all of us a few manly facts {PERSON}
+QuoteIntent	tell all of us a few manly facts {PERSON}
+QuoteIntent	say all of us a few manly facts {PERSON}
+QuoteIntent	get me manly facts {PERSON}
+QuoteIntent	tell me manly facts {PERSON}
+QuoteIntent	say me manly facts {PERSON}
+QuoteIntent	get us manly facts {PERSON}
+QuoteIntent	tell us manly facts {PERSON}
+QuoteIntent	say us manly facts {PERSON}
+QuoteIntent	get everyone manly facts {PERSON}
+QuoteIntent	tell everyone manly facts {PERSON}
+QuoteIntent	say everyone manly facts {PERSON}
+QuoteIntent	get all of us manly facts {PERSON}
+QuoteIntent	tell all of us manly facts {PERSON}
+QuoteIntent	say all of us manly facts {PERSON}
+QuoteIntent	get me some facts {PERSON}
+QuoteIntent	tell me some facts {PERSON}
+QuoteIntent	say me some facts {PERSON}
+QuoteIntent	get us some facts {PERSON}
+QuoteIntent	tell us some facts {PERSON}
+QuoteIntent	say us some facts {PERSON}
+QuoteIntent	get everyone some facts {PERSON}
+QuoteIntent	tell everyone some facts {PERSON}
+QuoteIntent	say everyone some facts {PERSON}
+QuoteIntent	get all of us some facts {PERSON}
+QuoteIntent	tell all of us some facts {PERSON}
+QuoteIntent	say all of us some facts {PERSON}
+QuoteIntent	get me a few facts {PERSON}
+QuoteIntent	tell me a few facts {PERSON}
+QuoteIntent	say me a few facts {PERSON}
+QuoteIntent	get us a few facts {PERSON}
+QuoteIntent	tell us a few facts {PERSON}
+QuoteIntent	say us a few facts {PERSON}
+QuoteIntent	get everyone a few facts {PERSON}
+QuoteIntent	tell everyone a few facts {PERSON}
+QuoteIntent	say everyone a few facts {PERSON}
+QuoteIntent	get all of us a few facts {PERSON}
+QuoteIntent	tell all of us a few facts {PERSON}
+QuoteIntent	say all of us a few facts {PERSON}
+QuoteIntent	get me facts {PERSON}
+QuoteIntent	tell me facts {PERSON}
+QuoteIntent	say me facts {PERSON}
+QuoteIntent	get us facts {PERSON}
+QuoteIntent	tell us facts {PERSON}
+QuoteIntent	say us facts {PERSON}
+QuoteIntent	get everyone facts {PERSON}
+QuoteIntent	tell everyone facts {PERSON}
+QuoteIntent	say everyone facts {PERSON}
+QuoteIntent	get all of us facts {PERSON}
+QuoteIntent	tell all of us facts {PERSON}
+QuoteIntent	say all of us facts {PERSON}
+QuoteIntent	get me some fun quotes {PERSON}
+QuoteIntent	tell me some fun quotes {PERSON}
+QuoteIntent	say me some fun quotes {PERSON}
+QuoteIntent	get us some fun quotes {PERSON}
+QuoteIntent	tell us some fun quotes {PERSON}
+QuoteIntent	say us some fun quotes {PERSON}
+QuoteIntent	get everyone some fun quotes {PERSON}
+QuoteIntent	tell everyone some fun quotes {PERSON}
+QuoteIntent	say everyone some fun quotes {PERSON}
+QuoteIntent	get all of us some fun quotes {PERSON}
+QuoteIntent	tell all of us some fun quotes {PERSON}
+QuoteIntent	say all of us some fun quotes {PERSON}
+QuoteIntent	get me a few fun quotes {PERSON}
+QuoteIntent	tell me a few fun quotes {PERSON}
+QuoteIntent	say me a few fun quotes {PERSON}
+QuoteIntent	get us a few fun quotes {PERSON}
+QuoteIntent	tell us a few fun quotes {PERSON}
+QuoteIntent	say us a few fun quotes {PERSON}
+QuoteIntent	get everyone a few fun quotes {PERSON}
+QuoteIntent	tell everyone a few fun quotes {PERSON}
+QuoteIntent	say everyone a few fun quotes {PERSON}
+QuoteIntent	get all of us a few fun quotes {PERSON}
+QuoteIntent	tell all of us a few fun quotes {PERSON}
+QuoteIntent	say all of us a few fun quotes {PERSON}
+QuoteIntent	get me fun quotes {PERSON}
+QuoteIntent	tell me fun quotes {PERSON}
+QuoteIntent	say me fun quotes {PERSON}
+QuoteIntent	get us fun quotes {PERSON}
+QuoteIntent	tell us fun quotes {PERSON}
+QuoteIntent	say us fun quotes {PERSON}
+QuoteIntent	get everyone fun quotes {PERSON}
+QuoteIntent	tell everyone fun quotes {PERSON}
+QuoteIntent	say everyone fun quotes {PERSON}
+QuoteIntent	get all of us fun quotes {PERSON}
+QuoteIntent	tell all of us fun quotes {PERSON}
+QuoteIntent	say all of us fun quotes {PERSON}
+QuoteIntent	get me some silly quotes {PERSON}
+QuoteIntent	tell me some silly quotes {PERSON}
+QuoteIntent	say me some silly quotes {PERSON}
+QuoteIntent	get us some silly quotes {PERSON}
+QuoteIntent	tell us some silly quotes {PERSON}
+QuoteIntent	say us some silly quotes {PERSON}
+QuoteIntent	get everyone some silly quotes {PERSON}
+QuoteIntent	tell everyone some silly quotes {PERSON}
+QuoteIntent	say everyone some silly quotes {PERSON}
+QuoteIntent	get all of us some silly quotes {PERSON}
+QuoteIntent	tell all of us some silly quotes {PERSON}
+QuoteIntent	say all of us some silly quotes {PERSON}
+QuoteIntent	get me a few silly quotes {PERSON}
+QuoteIntent	tell me a few silly quotes {PERSON}
+QuoteIntent	say me a few silly quotes {PERSON}
+QuoteIntent	get us a few silly quotes {PERSON}
+QuoteIntent	tell us a few silly quotes {PERSON}
+QuoteIntent	say us a few silly quotes {PERSON}
+QuoteIntent	get everyone a few silly quotes {PERSON}
+QuoteIntent	tell everyone a few silly quotes {PERSON}
+QuoteIntent	say everyone a few silly quotes {PERSON}
+QuoteIntent	get all of us a few silly quotes {PERSON}
+QuoteIntent	tell all of us a few silly quotes {PERSON}
+QuoteIntent	say all of us a few silly quotes {PERSON}
+QuoteIntent	get me silly quotes {PERSON}
+QuoteIntent	tell me silly quotes {PERSON}
+QuoteIntent	say me silly quotes {PERSON}
+QuoteIntent	get us silly quotes {PERSON}
+QuoteIntent	tell us silly quotes {PERSON}
+QuoteIntent	say us silly quotes {PERSON}
+QuoteIntent	get everyone silly quotes {PERSON}
+QuoteIntent	tell everyone silly quotes {PERSON}
+QuoteIntent	say everyone silly quotes {PERSON}
+QuoteIntent	get all of us silly quotes {PERSON}
+QuoteIntent	tell all of us silly quotes {PERSON}
+QuoteIntent	say all of us silly quotes {PERSON}
+QuoteIntent	get me some intersting quotes {PERSON}
+QuoteIntent	tell me some intersting quotes {PERSON}
+QuoteIntent	say me some intersting quotes {PERSON}
+QuoteIntent	get us some intersting quotes {PERSON}
+QuoteIntent	tell us some intersting quotes {PERSON}
+QuoteIntent	say us some intersting quotes {PERSON}
+QuoteIntent	get everyone some intersting quotes {PERSON}
+QuoteIntent	tell everyone some intersting quotes {PERSON}
+QuoteIntent	say everyone some intersting quotes {PERSON}
+QuoteIntent	get all of us some intersting quotes {PERSON}
+QuoteIntent	tell all of us some intersting quotes {PERSON}
+QuoteIntent	say all of us some intersting quotes {PERSON}
+QuoteIntent	get me a few intersting quotes {PERSON}
+QuoteIntent	tell me a few intersting quotes {PERSON}
+QuoteIntent	say me a few intersting quotes {PERSON}
+QuoteIntent	get us a few intersting quotes {PERSON}
+QuoteIntent	tell us a few intersting quotes {PERSON}
+QuoteIntent	say us a few intersting quotes {PERSON}
+QuoteIntent	get everyone a few intersting quotes {PERSON}
+QuoteIntent	tell everyone a few intersting quotes {PERSON}
+QuoteIntent	say everyone a few intersting quotes {PERSON}
+QuoteIntent	get all of us a few intersting quotes {PERSON}
+QuoteIntent	tell all of us a few intersting quotes {PERSON}
+QuoteIntent	say all of us a few intersting quotes {PERSON}
+QuoteIntent	get me intersting quotes {PERSON}
+QuoteIntent	tell me intersting quotes {PERSON}
+QuoteIntent	say me intersting quotes {PERSON}
+QuoteIntent	get us intersting quotes {PERSON}
+QuoteIntent	tell us intersting quotes {PERSON}
+QuoteIntent	say us intersting quotes {PERSON}
+QuoteIntent	get everyone intersting quotes {PERSON}
+QuoteIntent	tell everyone intersting quotes {PERSON}
+QuoteIntent	say everyone intersting quotes {PERSON}
+QuoteIntent	get all of us intersting quotes {PERSON}
+QuoteIntent	tell all of us intersting quotes {PERSON}
+QuoteIntent	say all of us intersting quotes {PERSON}
+QuoteIntent	get me some manly quotes {PERSON}
+QuoteIntent	tell me some manly quotes {PERSON}
+QuoteIntent	say me some manly quotes {PERSON}
+QuoteIntent	get us some manly quotes {PERSON}
+QuoteIntent	tell us some manly quotes {PERSON}
+QuoteIntent	say us some manly quotes {PERSON}
+QuoteIntent	get everyone some manly quotes {PERSON}
+QuoteIntent	tell everyone some manly quotes {PERSON}
+QuoteIntent	say everyone some manly quotes {PERSON}
+QuoteIntent	get all of us some manly quotes {PERSON}
+QuoteIntent	tell all of us some manly quotes {PERSON}
+QuoteIntent	say all of us some manly quotes {PERSON}
+QuoteIntent	get me a few manly quotes {PERSON}
+QuoteIntent	tell me a few manly quotes {PERSON}
+QuoteIntent	say me a few manly quotes {PERSON}
+QuoteIntent	get us a few manly quotes {PERSON}
+QuoteIntent	tell us a few manly quotes {PERSON}
+QuoteIntent	say us a few manly quotes {PERSON}
+QuoteIntent	get everyone a few manly quotes {PERSON}
+QuoteIntent	tell everyone a few manly quotes {PERSON}
+QuoteIntent	say everyone a few manly quotes {PERSON}
+QuoteIntent	get all of us a few manly quotes {PERSON}
+QuoteIntent	tell all of us a few manly quotes {PERSON}
+QuoteIntent	say all of us a few manly quotes {PERSON}
+QuoteIntent	get me manly quotes {PERSON}
+QuoteIntent	tell me manly quotes {PERSON}
+QuoteIntent	say me manly quotes {PERSON}
+QuoteIntent	get us manly quotes {PERSON}
+QuoteIntent	tell us manly quotes {PERSON}
+QuoteIntent	say us manly quotes {PERSON}
+QuoteIntent	get everyone manly quotes {PERSON}
+QuoteIntent	tell everyone manly quotes {PERSON}
+QuoteIntent	say everyone manly quotes {PERSON}
+QuoteIntent	get all of us manly quotes {PERSON}
+QuoteIntent	tell all of us manly quotes {PERSON}
+QuoteIntent	say all of us manly quotes {PERSON}
+QuoteIntent	get me some quotes {PERSON}
+QuoteIntent	tell me some quotes {PERSON}
+QuoteIntent	say me some quotes {PERSON}
+QuoteIntent	get us some quotes {PERSON}
+QuoteIntent	tell us some quotes {PERSON}
+QuoteIntent	say us some quotes {PERSON}
+QuoteIntent	get everyone some quotes {PERSON}
+QuoteIntent	tell everyone some quotes {PERSON}
+QuoteIntent	say everyone some quotes {PERSON}
+QuoteIntent	get all of us some quotes {PERSON}
+QuoteIntent	tell all of us some quotes {PERSON}
+QuoteIntent	say all of us some quotes {PERSON}
+QuoteIntent	get me a few quotes {PERSON}
+QuoteIntent	tell me a few quotes {PERSON}
+QuoteIntent	say me a few quotes {PERSON}
+QuoteIntent	get us a few quotes {PERSON}
+QuoteIntent	tell us a few quotes {PERSON}
+QuoteIntent	say us a few quotes {PERSON}
+QuoteIntent	get everyone a few quotes {PERSON}
+QuoteIntent	tell everyone a few quotes {PERSON}
+QuoteIntent	say everyone a few quotes {PERSON}
+QuoteIntent	get all of us a few quotes {PERSON}
+QuoteIntent	tell all of us a few quotes {PERSON}
+QuoteIntent	say all of us a few quotes {PERSON}
+QuoteIntent	get me quotes {PERSON}
+QuoteIntent	tell me quotes {PERSON}
+QuoteIntent	say me quotes {PERSON}
+QuoteIntent	get us quotes {PERSON}
+QuoteIntent	tell us quotes {PERSON}
+QuoteIntent	say us quotes {PERSON}
+QuoteIntent	get everyone quotes {PERSON}
+QuoteIntent	tell everyone quotes {PERSON}
+QuoteIntent	say everyone quotes {PERSON}
+QuoteIntent	get all of us quotes {PERSON}
+QuoteIntent	tell all of us quotes {PERSON}
+QuoteIntent	say all of us quotes {PERSON}
+QuoteIntent	get me some fun data {PERSON}
+QuoteIntent	tell me some fun data {PERSON}
+QuoteIntent	say me some fun data {PERSON}
+QuoteIntent	get us some fun data {PERSON}
+QuoteIntent	tell us some fun data {PERSON}
+QuoteIntent	say us some fun data {PERSON}
+QuoteIntent	get everyone some fun data {PERSON}
+QuoteIntent	tell everyone some fun data {PERSON}
+QuoteIntent	say everyone some fun data {PERSON}
+QuoteIntent	get all of us some fun data {PERSON}
+QuoteIntent	tell all of us some fun data {PERSON}
+QuoteIntent	say all of us some fun data {PERSON}
+QuoteIntent	get me a few fun data {PERSON}
+QuoteIntent	tell me a few fun data {PERSON}
+QuoteIntent	say me a few fun data {PERSON}
+QuoteIntent	get us a few fun data {PERSON}
+QuoteIntent	tell us a few fun data {PERSON}
+QuoteIntent	say us a few fun data {PERSON}
+QuoteIntent	get everyone a few fun data {PERSON}
+QuoteIntent	tell everyone a few fun data {PERSON}
+QuoteIntent	say everyone a few fun data {PERSON}
+QuoteIntent	get all of us a few fun data {PERSON}
+QuoteIntent	tell all of us a few fun data {PERSON}
+QuoteIntent	say all of us a few fun data {PERSON}
+QuoteIntent	get me fun data {PERSON}
+QuoteIntent	tell me fun data {PERSON}
+QuoteIntent	say me fun data {PERSON}
+QuoteIntent	get us fun data {PERSON}
+QuoteIntent	tell us fun data {PERSON}
+QuoteIntent	say us fun data {PERSON}
+QuoteIntent	get everyone fun data {PERSON}
+QuoteIntent	tell everyone fun data {PERSON}
+QuoteIntent	say everyone fun data {PERSON}
+QuoteIntent	get all of us fun data {PERSON}
+QuoteIntent	tell all of us fun data {PERSON}
+QuoteIntent	say all of us fun data {PERSON}
+QuoteIntent	get me some silly data {PERSON}
+QuoteIntent	tell me some silly data {PERSON}
+QuoteIntent	say me some silly data {PERSON}
+QuoteIntent	get us some silly data {PERSON}
+QuoteIntent	tell us some silly data {PERSON}
+QuoteIntent	say us some silly data {PERSON}
+QuoteIntent	get everyone some silly data {PERSON}
+QuoteIntent	tell everyone some silly data {PERSON}
+QuoteIntent	say everyone some silly data {PERSON}
+QuoteIntent	get all of us some silly data {PERSON}
+QuoteIntent	tell all of us some silly data {PERSON}
+QuoteIntent	say all of us some silly data {PERSON}
+QuoteIntent	get me a few silly data {PERSON}
+QuoteIntent	tell me a few silly data {PERSON}
+QuoteIntent	say me a few silly data {PERSON}
+QuoteIntent	get us a few silly data {PERSON}
+QuoteIntent	tell us a few silly data {PERSON}
+QuoteIntent	say us a few silly data {PERSON}
+QuoteIntent	get everyone a few silly data {PERSON}
+QuoteIntent	tell everyone a few silly data {PERSON}
+QuoteIntent	say everyone a few silly data {PERSON}
+QuoteIntent	get all of us a few silly data {PERSON}
+QuoteIntent	tell all of us a few silly data {PERSON}
+QuoteIntent	say all of us a few silly data {PERSON}
+QuoteIntent	get me silly data {PERSON}
+QuoteIntent	tell me silly data {PERSON}
+QuoteIntent	say me silly data {PERSON}
+QuoteIntent	get us silly data {PERSON}
+QuoteIntent	tell us silly data {PERSON}
+QuoteIntent	say us silly data {PERSON}
+QuoteIntent	get everyone silly data {PERSON}
+QuoteIntent	tell everyone silly data {PERSON}
+QuoteIntent	say everyone silly data {PERSON}
+QuoteIntent	get all of us silly data {PERSON}
+QuoteIntent	tell all of us silly data {PERSON}
+QuoteIntent	say all of us silly data {PERSON}
+QuoteIntent	get me some intersting data {PERSON}
+QuoteIntent	tell me some intersting data {PERSON}
+QuoteIntent	say me some intersting data {PERSON}
+QuoteIntent	get us some intersting data {PERSON}
+QuoteIntent	tell us some intersting data {PERSON}
+QuoteIntent	say us some intersting data {PERSON}
+QuoteIntent	get everyone some intersting data {PERSON}
+QuoteIntent	tell everyone some intersting data {PERSON}
+QuoteIntent	say everyone some intersting data {PERSON}
+QuoteIntent	get all of us some intersting data {PERSON}
+QuoteIntent	tell all of us some intersting data {PERSON}
+QuoteIntent	say all of us some intersting data {PERSON}
+QuoteIntent	get me a few intersting data {PERSON}
+QuoteIntent	tell me a few intersting data {PERSON}
+QuoteIntent	say me a few intersting data {PERSON}
+QuoteIntent	get us a few intersting data {PERSON}
+QuoteIntent	tell us a few intersting data {PERSON}
+QuoteIntent	say us a few intersting data {PERSON}
+QuoteIntent	get everyone a few intersting data {PERSON}
+QuoteIntent	tell everyone a few intersting data {PERSON}
+QuoteIntent	say everyone a few intersting data {PERSON}
+QuoteIntent	get all of us a few intersting data {PERSON}
+QuoteIntent	tell all of us a few intersting data {PERSON}
+QuoteIntent	say all of us a few intersting data {PERSON}
+QuoteIntent	get me intersting data {PERSON}
+QuoteIntent	tell me intersting data {PERSON}
+QuoteIntent	say me intersting data {PERSON}
+QuoteIntent	get us intersting data {PERSON}
+QuoteIntent	tell us intersting data {PERSON}
+QuoteIntent	say us intersting data {PERSON}
+QuoteIntent	get everyone intersting data {PERSON}
+QuoteIntent	tell everyone intersting data {PERSON}
+QuoteIntent	say everyone intersting data {PERSON}
+QuoteIntent	get all of us intersting data {PERSON}
+QuoteIntent	tell all of us intersting data {PERSON}
+QuoteIntent	say all of us intersting data {PERSON}
+QuoteIntent	get me some manly data {PERSON}
+QuoteIntent	tell me some manly data {PERSON}
+QuoteIntent	say me some manly data {PERSON}
+QuoteIntent	get us some manly data {PERSON}
+QuoteIntent	tell us some manly data {PERSON}
+QuoteIntent	say us some manly data {PERSON}
+QuoteIntent	get everyone some manly data {PERSON}
+QuoteIntent	tell everyone some manly data {PERSON}
+QuoteIntent	say everyone some manly data {PERSON}
+QuoteIntent	get all of us some manly data {PERSON}
+QuoteIntent	tell all of us some manly data {PERSON}
+QuoteIntent	say all of us some manly data {PERSON}
+QuoteIntent	get me a few manly data {PERSON}
+QuoteIntent	tell me a few manly data {PERSON}
+QuoteIntent	say me a few manly data {PERSON}
+QuoteIntent	get us a few manly data {PERSON}
+QuoteIntent	tell us a few manly data {PERSON}
+QuoteIntent	say us a few manly data {PERSON}
+QuoteIntent	get everyone a few manly data {PERSON}
+QuoteIntent	tell everyone a few manly data {PERSON}
+QuoteIntent	say everyone a few manly data {PERSON}
+QuoteIntent	get all of us a few manly data {PERSON}
+QuoteIntent	tell all of us a few manly data {PERSON}
+QuoteIntent	say all of us a few manly data {PERSON}
+QuoteIntent	get me manly data {PERSON}
+QuoteIntent	tell me manly data {PERSON}
+QuoteIntent	say me manly data {PERSON}
+QuoteIntent	get us manly data {PERSON}
+QuoteIntent	tell us manly data {PERSON}
+QuoteIntent	say us manly data {PERSON}
+QuoteIntent	get everyone manly data {PERSON}
+QuoteIntent	tell everyone manly data {PERSON}
+QuoteIntent	say everyone manly data {PERSON}
+QuoteIntent	get all of us manly data {PERSON}
+QuoteIntent	tell all of us manly data {PERSON}
+QuoteIntent	say all of us manly data {PERSON}
+QuoteIntent	get me some data {PERSON}
+QuoteIntent	tell me some data {PERSON}
+QuoteIntent	say me some data {PERSON}
+QuoteIntent	get us some data {PERSON}
+QuoteIntent	tell us some data {PERSON}
+QuoteIntent	say us some data {PERSON}
+QuoteIntent	get everyone some data {PERSON}
+QuoteIntent	tell everyone some data {PERSON}
+QuoteIntent	say everyone some data {PERSON}
+QuoteIntent	get all of us some data {PERSON}
+QuoteIntent	tell all of us some data {PERSON}
+QuoteIntent	say all of us some data {PERSON}
+QuoteIntent	get me a few data {PERSON}
+QuoteIntent	tell me a few data {PERSON}
+QuoteIntent	say me a few data {PERSON}
+QuoteIntent	get us a few data {PERSON}
+QuoteIntent	tell us a few data {PERSON}
+QuoteIntent	say us a few data {PERSON}
+QuoteIntent	get everyone a few data {PERSON}
+QuoteIntent	tell everyone a few data {PERSON}
+QuoteIntent	say everyone a few data {PERSON}
+QuoteIntent	get all of us a few data {PERSON}
+QuoteIntent	tell all of us a few data {PERSON}
+QuoteIntent	say all of us a few data {PERSON}
+QuoteIntent	get me data {PERSON}
+QuoteIntent	tell me data {PERSON}
+QuoteIntent	say me data {PERSON}
+QuoteIntent	get us data {PERSON}
+QuoteIntent	tell us data {PERSON}
+QuoteIntent	say us data {PERSON}
+QuoteIntent	get everyone data {PERSON}
+QuoteIntent	tell everyone data {PERSON}
+QuoteIntent	say everyone data {PERSON}
+QuoteIntent	get all of us data {PERSON}
+QuoteIntent	tell all of us data {PERSON}
+QuoteIntent	say all of us data {PERSON}
+AMAZON.RepeatIntent	restart
+AMAZON.RepeatIntent	play again
+AMAZON.RepeatIntent	tell me more
+AMAZON.RepeatIntent	hit me again
+AMAZON.RepeatIntent	give me another one
+AMAZON.RepeatIntent	more
+AMAZON.RepeatIntent	next
+AMAZON.RepeatIntent	another one
+AMAZON.RepeatIntent	again
+AMAZON.StopIntent   cancel
+AMAZON.StopIntent	stop
+AMAZON.StopIntent	quite
+AMAZON.StopIntent	end
+AMAZON.StopIntent	cease
+AMAZON.StopIntent	stop game
+AMAZON.StopIntent	no more
