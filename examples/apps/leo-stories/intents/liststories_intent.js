@@ -20,7 +20,7 @@ Intent.prototype.callback = function (req, res) {
     var stories = this.inc.stories;
 
     _.forIn(stories, function(value, key) {
-        console.log(key + ". ");
+        console.log(key);
         res.say(key + ". ");
     });
     res.say("Say the name of a story.  ").shouldEndSession(false, "If you would like to continue, say a name of a story. You can also say list available stories.");
