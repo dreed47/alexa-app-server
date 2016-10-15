@@ -18,6 +18,13 @@ Story.prototype.process = function (req, res) {
     console.log('STORY= ' + story);
 
     var tellStory = story_list[story];
+    
+    tellStory = _.replace(tellStory, /\|\|\|\|\|\|/g, "<break time='3000ms'/>")
+    tellStory = _.replace(tellStory, /\|\|\|\|\|/g, "<break time='2500ms'/>")
+    tellStory = _.replace(tellStory, /\|\|\|\|/g, "<break time='2000ms'/>")
+    tellStory = _.replace(tellStory, /\|\|\|/g, "<break time='1500ms'/>")
+    tellStory = _.replace(tellStory, /\|\|/g, "<break time='1000ms'/>")
+    tellStory = _.replace(tellStory, /\|/g, "<break time='500ms'/>")
 
     res.say(tellStory);
 
