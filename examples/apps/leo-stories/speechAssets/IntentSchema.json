@@ -1,20 +1,24 @@
 {
   "intents": [
     {
-      "intent": "QuoteIntent",
+      "intent": "StoryIntent",
       "slots": [
         {
-          "name": "PERSON",
-          "type": "AMAZON.US_FIRST_NAME"
+          "name": "STORY",
+          "type": "STORY_LIST"
         }
       ]
     },
     {
-      "intent": "AMAZON.RepeatIntent",
+      "intent": "ListStoriesIntent",
       "slots": []
     },
     {
       "intent": "AMAZON.StopIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
       "slots": []
     }
   ]

@@ -5,7 +5,7 @@ function Intent() {}
 
 Intent.prototype.slots_and_utterances = function () {
 
-    //console.log('slots_and_utterances');
+  
     var slots_and_utterances = {
         'slots': {},
         "utterances": ["{cancel|stop|quite|end|cease|stop game|no more|no}"]

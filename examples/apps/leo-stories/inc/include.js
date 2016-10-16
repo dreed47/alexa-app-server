@@ -2,7 +2,8 @@
 module.change_code = 1;
 
 var app_var = [];
-app_var.one = "test";
+app_var.help_msg = "You can use this skill by saying something like. Tell me the 3 little pigs story from Leo's Stories. Or, read me the princess and the pea fable from Leo's Stories. If you would like to continue, say the name of a story.  You can also say list available stories.";
+app_var.reprompt_msg = "If you would like to continue, say a name of a story. You can also say list available stories.";
 
 // each | equals a speaking pause of 500 ms
 
@@ -47,4 +48,5 @@ var stories = {
 "An ant was passing through a room full of grain.   Oh, its my lucky day! . she said delightedly. She ate as much as she wanted. After she had eaten her fill, she felt very thirsty and looked around for water. But there was no water around. The ant thought that she would die of thirst. Suddenly, a drop of water fell near her. She lapped it up quickly. That drop of water was a teardrop that had fallen from the eyes of a weeping girl.   Why do you weep? . the ant asked gently. The girl sobbed and replied,   A giant has imprisoned me in this room. He will release me only on the condition that I separate the wheat, barley, and rye from this huge heap of grain. This job will take me at least a month but the giant wants me to do it in one day, otherwise he will kill me. .   This girl has saved my life, . thought the ant.   Wipe your tears. Dont worry for I will help you, . she said to the girl. Within a few minutes, she called thousands of her friends. All the ants started working and separated the wheat, barley and rye into three separate heaps. The job was completed in less than a day. When the giant returned, he was surprised and puzzled to see the work completed in time. He had no other choice but to release the girl. The girl and the ant remained very good friends all their lives.",
 };
 
+module.exports.app_var = app_var;
 module.exports.stories = stories;

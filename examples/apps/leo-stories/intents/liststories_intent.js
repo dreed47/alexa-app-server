@@ -1,12 +1,13 @@
 'use strict';
 module.change_code = 1;
 var _ = require('lodash')
+this.inc = require('../inc/include');
+var app_var = this.inc.app_var;
 
 function Intent() {}
 
 Intent.prototype.slots_and_utterances = function () {
-
-    //console.log('slots_and_utterances');
+    
     var slots_and_utterances = {
         'slots': {},
         "utterances": ["{list|read|say} {available|list of|} stories"]
@@ -23,7 +24,7 @@ Intent.prototype.callback = function (req, res) {
         console.log(key);
         res.say(key + ". ");
     });
-    res.say("Say the name of a story.  ").shouldEndSession(false, "If you would like to continue, say a name of a story. You can also say list available stories.");
+    res.say("Say the name of a story.  ").shouldEndSession(false, app_var.reprompt_msg);
     return;
 }
 module.exports = Intent
