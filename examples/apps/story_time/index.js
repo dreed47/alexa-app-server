@@ -4,7 +4,7 @@ module.change_code = 1;
 var alexa = require('alexa-app');
 
 // Define an alexa-app
-var app = new alexa.app('leo-stories');
+var app = new alexa.app('story-time');
 
 var Story = require('./intents/story_intent');
 var storyIntent = new Story();
