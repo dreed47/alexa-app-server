@@ -2,7 +2,7 @@
 module.change_code = 1;
 
 var app_var = [];
-app_var.help_msg = "You can use this skill by saying something like. Tell me the 3 little pigs story from Leo's Stories. Or, read me the princess and the pea fable from Leo's Stories. If you would like to continue, say the name of a story.  You can also say list available stories.";
+app_var.help_msg = "You can use this skill by saying something like. Tell me the 3 little pigs story from Story Time. Or, read me the princess and the pea fable from Story Time. If you would like to continue, say the name of a story.  You can also say list available stories.";
 app_var.reprompt_msg = "If you would like to continue, say a name of a story. You can also say list available stories.";
 
 // each | equals a speaking pause of 500 ms
