@@ -3,7 +3,8 @@ module.change_code = 1;
 
 var app_var = [];
 app_var.help_msg = "You can use this skill by saying something like. Tell me the 3 little pigs story from Story Time. If you would like to continue, say the name of a story.  You can also say list available stories.";
-app_var.reprompt_msg = "If you would like to continue, say a name of a story. You can also say list available stories.";
+app_var.story_not_found_msg = "I could not find that story. ";
+app_var.reprompt_msg = "If you would like to continue, say the name of a story. You can also say list available stories.";
 
 // each | equals a speaking pause of 500 ms
 
@@ -17,7 +18,7 @@ var stories = {
 'cinderella' :
 "​​Cinderella was invited to a ball, but her ugly sisters said you can't go! A fairy godmother gave Cinderella a carriage and two glass shoes. Cinderella went to the ball and danced with the Prince. But as she ran home, Cinderella lost a glass shoe! The prince tried the shoe on many girls, even the ugly sisters! But it didn't fit anyone. When Cinderella tried the glass shoe ,it fit! She and the prince were married, and they lived happily ever after! The end.",
 'jack and the beanstalk' :
-"​​​Jack and his mother didn't have much money. Jack's mother told him go to the market and sell your cow. But Jack sold the cow for beans instead of money. When Jack's mother saw the beans, she was angry and threw them out the window. That night, the beans grew into an enormous beanstalk! Jack climbed up the bean stock and found a huge castle. The giant was asleep inside! Without waking the giant, Jack took some treasure and climbed down the bean stock. The next day, Jack went back to the castle and took a goose that laid golden eggs. This time, but Giant was awake. He chased Jack back down the beanstalk shouting, Fee, Fie, fo, fum! But Jack quickly cut the bean stock, and the giant fell down. The Giants treasure and the gooses golden eggs made Jack and his mother very rich, and they lived happily ever after! The end.",
+"​​​Jack and his mother didn't have much money. Jack's mother told him go to the market and sell your cow. But Jack sold the cow for beans instead of money. When Jack's mother saw the beans, she was angry and threw them out the window. That night, the beans grew into an enormous beanstalk! Jack climbed up the bean stock and found a huge castle. The giant was asleep inside! Without waking the giant, Jack took some treasure and climbed down the bean stock. The next day, Jack went back to the castle and took a goose that laid golden eggs. This time, but Giant was awake. He chased Jack back down the beanstalk shouting, Fee, Fie, fo, fum, I smell the blood of an englishman! But Jack quickly cut the bean stock, and the giant fell down. The Giants treasure and the gooses golden eggs made Jack and his mother very rich, and they lived happily ever after! The end.",
 
 };
 
