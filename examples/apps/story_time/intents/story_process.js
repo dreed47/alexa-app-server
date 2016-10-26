@@ -11,8 +11,11 @@ Story.prototype.process = function (req, res) {
     var stories = this.inc.stories;
 
     var story = req.slot('STORY');
+    story = _.toLower(story);
+    
     var story_list = stories;
- 
+    
+    story = _.replace(story, /3/g, "three")
     console.log('STORY= ' + story);
 
     var tellStory = story_list[story];
