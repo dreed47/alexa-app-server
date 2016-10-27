@@ -7,9 +7,10 @@ var alexa = require('alexa-app');
 var app = new alexa.app('edmunds');
 var DataHelper = require('./inc/data_helper');
 
+var MakeList = require('./intents/makelist_intent');
+var makelistIntent = new MakeList();
 var ModelOverview = require('./intents/modeloverview_intent');
 var modeloverviewIntent = new ModelOverview();
-
 
 //var Quote = require('./intents/quote_intent');
 //var quoteIntent = new Quote();
@@ -21,7 +22,7 @@ var modeloverviewIntent = new ModelOverview();
 //var stopIntent = new StopIntent();
 
 //app.launch(require('./inc/launch_event'));
-
+app.intent('MakeListIntent', makelistIntent.slots_and_utterances(), function (req, res) {return makelistIntent.callback(req, res)});
 app.intent('ModelOverviewIntent', modeloverviewIntent.slots_and_utterances(), function (req, res) {return modeloverviewIntent.callback(req, res)});
 
 //app.intent('QuoteIntent', quoteIntent.slots_and_utterances(), function (req, res) {quoteIntent.callback(req, res)});

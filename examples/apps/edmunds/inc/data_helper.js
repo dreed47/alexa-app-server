@@ -8,6 +8,25 @@ var API_KEY = 'q7ark6wpshqmnyjwt4qj2w6e'
 
 function DataHelper() {}
 
+DataHelper.prototype.requestMakeList = function() {
+    return this.getMakeList().then(
+        function(response) {
+            console.log('success - received make list ')
+            return response.body
+        }
+    )
+}
+
+DataHelper.prototype.getMakeList = function() {
+    var options = {
+        method: 'GET',
+        uri: ENDPOINT + '/vehicle/v2/makes?view=basic&fmt=json&api_key=' + API_KEY,
+        resolveWithFullResponse: true,
+        json: true
+    }
+    return rp(options)
+}
+
 DataHelper.prototype.requestModelOverview = function(carmake, carmodel) {
     return this.getModelOverview(carmake, carmodel).then(
         function(response) {
