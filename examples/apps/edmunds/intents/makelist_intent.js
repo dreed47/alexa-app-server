@@ -26,13 +26,22 @@ Intent.prototype.callback = function (req, res) {
 
     dataHelper.requestMakeList().then(function(result) {
 
-        console.log(result);
-        //res.session('carmake', carmake);
+        //console.log(result);
+        var makemodel = "";
+        _.forIn(result.makes, function(make, key) {
+            console.log(make.name);
+            _.forIn(make.models, function(modell, modelkey){
+                //console.log(modell.name);
+                makemodel = makemodel + modell.name + "</br>";
+            });
+        });        
+        //res.session('makelist', result);
+        //res.session('modellist', makemodel);
         //res.session('carmodel', carmodel);
         
-        res.session("message", message);
-        //res.say(message);
-        //res.shouldEndSession(false);
+        res.session("message", 'message');
+        res.say('message');
+        res.shouldEndSession(false);
         res.send();
 
     }).catch(function(err) {
@@ -41,10 +50,6 @@ Intent.prototype.callback = function (req, res) {
         //res.say(prompt).reprompt(reprompt).shouldEndSession(false).send();
     });
 
-    //var Fact = require('./quote_process');
-    //var fact = new Fact();
-
-    //fact.process(req, res);
     return false;
 }
 module.exports = Intent
